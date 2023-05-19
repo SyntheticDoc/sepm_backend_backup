@@ -1,0 +1,244 @@
+{
+  "internalTitle" : "Generalized Anxiety Disorder",
+  "titleDe" : "Generalisierte Angststörung",
+  "titleEn" : "Generalized Anxiety Disorder",
+  "infodescriptionDe" : "Die generalisierte Angststörung unterscheidet sich von den spezifischen Phobien dadurch, dass bei ihr eine anhaltende irrationale und übermäßige Angst zentral ist, die keinen speziellen oder nicht nur einen Grund hat. Sie zeichnet sich aus durch eine Angst, die in Intensität, Dauer und Frequenz in keinem Verhältnis mehr zu den befürchteten Ereignissen steht. Diese Ängste sind schwierig zu kontrollieren und beeinträchtigen durch die Häufigkeit und Intensität ihres Auftretens die Handlungsfähigkeit im Alltag.",
+  "infodescriptionEn" : "##SHORT DESCRIPTION##",
+  "infoprevalenceDe" : "Innerhalb einer Spanne von zwölf Monaten leiden ungefähr 2,9% der Bevölkerung der USA unter einer generalisierten Angststörung. Es wird davon ausgegangen, dass insgesamt 9% der gesamten Bevölkerung irgendwann in ihrem Leben mindestens einmal unter einer generalisierten Angststörung leidet.",
+  "infoprevalenceEn" : "##TEXT##",
+  "infocausesDe" : "Es werden genetische und biologische Ursachen angenommen, die eine erhöhte Anfälligkeit für Stress verursachen. Dennoch zeichnet sich die generalisierte Angststörung vor allem durch Kreisläufe aus Erwartungsängsten, Verlagerung der Aufmerksamkeit auf interne Inhalte und besonderer Wachsamkeit gegenüber angstauslösenden Reizen aus.",
+  "infocausesEn" : "##TEXT##",
+  "infosymptomsDe" : "Die Ängste der generalisierten Angststörung beziehen sich bei Erwachsenen meistens auf alltägliche Lebensumstände wie Verantwortlichkeiten im Beruf, die Gesundheit, Finanzen, die Gesundheit von Familienmitgliedern oder diversen Kleinigkeiten (wie Hausarbeit, das Verpassen von Verabredungen etc.). In diesem Sinne ist die generalisierte Angststörung ziellos, da sie sich nicht wie die spezifischen Phobien auf eine bestimmte Klasse von Objekten bezieht, sondern fließend zwischen den unterschiedlichsten Objekten wechselt.\nDie generalisierten Ängste werden häufig auch von körperlichen Stresssymptomen begleitet wie Ruhelosigkeit, Schlafstörungen, Erschöpfung oder vegetative Angstsymptome (Schwitzen, Zittern, etc.). Generell kommen dem Umfeld und sozialen Faktoren wahrscheinlich die bedeutendste Rolle bei der Entstehung von Angststörungen zu.",
+  "infosymptomsEn" : "##TEXT##",
+  "infocourseDe" : "Meistens begleitet die generalisierte Angststörung die Betroffenen schon seit frühester Kindheit und nimmt während ihres Lebens an Intensität immer mal wieder zu und wieder ab. Etwa 40% aller Betroffenen erfahren eine vollständige Heilung.",
+  "infocourseEn" : "##TEXT##",
+  "infotreatmentDe" : "Ihren Ursachen entsprechend ist die primäre therapeutische Intervention bei einer generalisierten Angststörung die Psychotherapie, oft in Form von Verhaltenstherapie oder Psychoanalyse. Bei schweren Formen kann eine medikamentöse Begleittherapie mit angstlösenden Medikamenten, Neuroleptika, Antidepressiva oder Stimmungsstabilisatoren indiziert sein.",
+  "infotreatmentEn" : "##TEXT##",
+  "infolinksDe" : "https://www.gesundheitsinformation.de/generalisierte-angststoerung.html\nhttps://www.psychenet.de/de/psychische-gesundheit/informationen/generalisierte-angststoerung.html\nhttps://www.therapie.de/psyche/info/index/diagnose/angst/generalisierte-angststoerung/\nhttps://psd-wien.at/information/angststoerungen\nhttps://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose",
+  "infolinksEn" : "##LINKS##",
+  "modules" : [
+    {
+      "internalName" : "A",
+      "questions" : [
+        {
+          "internalId" : 0,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Excessive_anxiety",
+          "testedSymptom" : "Criterion A",
+          "nameDe" : "Exzessive Ängste und Sorgen",
+          "nameEn" : "Excessive anxiety and worry",
+          "questiontextDe" : "Haben Sie die letzten sechs Monate exzessive Ängste und Sorgen bezüglich unterschiedlicher Ereignisse oder Aktivitäten (wie Ihre Leistung bei der Arbeit oder in der Schule) gehabt? Sind diese Sorgen während dieser Zeit an mehr Tagen vorhanden als nicht vorhanden gewesen?",
+          "questiontextEn" : "Did you experience excessive anxiety and worry about a number of different events or activities (such as work or school performance) in the last six months? Did those worries occur more days than not during this time?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Aussagen auf Sie zutreffen:",
+            "contentEn" : "Please indicate which of the following statements applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 1,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Worry_difficult_to_control",
+          "testedSymptom" : "Criterion B",
+          "nameDe" : "Schwierigkeiten, Sorgen zu kontrollieren",
+          "nameEn" : "Difficulties in controlling worries",
+          "questiontextDe" : "Haben Sie Schwierigkeiten dabei, diese Sorgen/Ängste zu kontrollieren?",
+          "questiontextEn" : "Do you find it difficult to control those worries/fears?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Aussagen auf Sie zutreffen:",
+            "contentEn" : "Please indicate which of the following statements applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 2,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Anxiety_symptoms_1",
+          "testedSymptom" : "Criterion C.1",
+          "nameDe" : "Begleitsymptome von Angst, Ruhelosigkeit",
+          "nameEn" : "Symptoms of anxiety, Restlessness",
+          "questiontextDe" : "Ruhelosigkeit oder das Gefühl ständiger angespannter Erwartung des Eintritts eines schlechten Ereignisses",
+          "questiontextEn" : "Restlessness or the feeling of being permanently on edge",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome die Angst/die Sorgen begleitet hat:\nEinleitender Satz vor nächstem Fragensatz, english: Please indicate, if one of the following symptoms has accompanied your fears/worries:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 3,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Anxiety_symptoms_2",
+          "testedSymptom" : "Criterion C.2",
+          "nameDe" : "Begleitsymptome von Angst, leichte Erschöpfbarkeit",
+          "nameEn" : "Symptoms of anxiety, being easily fatigued",
+          "questiontextDe" : "Leichte Erschöpfbarkeit",
+          "questiontextEn" : "Being easily fatigued",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome die Angst/die Sorgen begleitet hat:\nEinleitender Satz vor nächstem Fragensatz, english: Please indicate, if one of the following symptoms has accompanied your fears/worries:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 4,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Anxiety_symptoms_3",
+          "testedSymptom" : "Criterion C.3",
+          "nameDe" : "Begleitsymptome von Angst, Konzentrationsschwierigkeiten",
+          "nameEn" : "Symptoms of anxiety, Difficulties concentrating",
+          "questiontextDe" : "Konzentrationsschwierigkeiten oder plötzliche Gedankenleere",
+          "questiontextEn" : "Difficulty concentrating or mind going blank",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome die Angst/die Sorgen begleitet hat:\nEinleitender Satz vor nächstem Fragensatz, english: Please indicate, if one of the following symptoms has accompanied your fears/worries:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 5,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Anxiety_symptoms_4",
+          "testedSymptom" : "Criterion C.4",
+          "nameDe" : "Begleitsymptome von Angst, Reizbarkeit",
+          "nameEn" : "Symptoms of anxiety, irritability",
+          "questiontextDe" : "Reizbarkeit",
+          "questiontextEn" : "Irritability",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome die Angst/die Sorgen begleitet hat:\nEinleitender Satz vor nächstem Fragensatz, english: Please indicate, if one of the following symptoms has accompanied your fears/worries:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 6,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Anxiety_symptoms_5",
+          "testedSymptom" : "Criterion C.5",
+          "nameDe" : "Begleitsymptome von Angst, Muskelverspannungen",
+          "nameEn" : "Symptoms of anxiety, muscle tension",
+          "questiontextDe" : "Muskelverspannungen",
+          "questiontextEn" : "Muscle tension",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome die Angst/die Sorgen begleitet hat:\nEinleitender Satz vor nächstem Fragensatz, english: Please indicate, if one of the following symptoms has accompanied your fears/worries:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 7,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Anxiety_symptoms_6",
+          "testedSymptom" : "Criterion C.6",
+          "nameDe" : "Begleitsymptome von Angst, Schlafstörungen",
+          "nameEn" : "Symptoms of anxiety, sleep disturbances",
+          "questiontextDe" : "Schlafstörungen (Probleme einzuschlafen, durchzuschlafen oder rastloser, unzureichender Schlaf)",
+          "questiontextEn" : "Sleep disturbance (difficulty falling or staying asleep, or restless, unsatisfactory sleep)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome die Angst/die Sorgen begleitet hat:\nEinleitender Satz vor nächstem Fragensatz, english: Please indicate, if one of the following symptoms has accompanied your fears/worries:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 8,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Symptoms_present_long_enough",
+          "testedSymptom" : "Criterion C",
+          "nameDe" : "Symptome lang genug vorhanden",
+          "nameEn" : "Symptoms present long enough",
+          "questiontextDe" : "Waren zumindest manche der vorigen Symptome in den letzten 6 Monaten mehr Tage vorhanden als nicht vorhanden?",
+          "questiontextEn" : "Have the previous symptoms been present in the last 6 months for more days than not?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob die folgende Frage zutrifft:\nEinleitender Satz vor nächstem Fragensatz, english: Please indicate if the following question applies:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 9,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Symptoms_cause_distress",
+          "testedSymptom" : "Criterion D",
+          "nameDe" : "Symptome verursachen signifikantes Leid",
+          "nameEn" : "Symptoms cause significant distress",
+          "questiontextDe" : "Verursachen die Ängste, Sorgen oder die physischen Symptome erhebliches Leid oder Einschränkungen in sozialen, beruflichen oder anderen wichtigen Bereichen?",
+          "questiontextEn" : "Do the anxieties, worries or physical symptoms cause significant distress or impairment in social, occupational or other important areas?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob die folgende Frage auf Ihre Ängste oder Sorgen zutrifft:\nEinleitender Satz vor nächstem Fragensatz, english: Please indicate if the following question applies to your fears or worries:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    }
+  ]}

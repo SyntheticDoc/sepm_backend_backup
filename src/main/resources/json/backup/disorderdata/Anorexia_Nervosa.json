@@ -1,0 +1,190 @@
+{
+  "internalTitle" : "Anorexia Nervosa",
+  "titleDe" : "Anorexia Nervosa",
+  "titleEn" : "Anorexia Nervosa",
+  "infodescriptionDe" : "Anorexia Nervosa ist eine Essstörung, die durch einen beabsichtigten Gewichtsverlust mit einem Zielgewicht unterhalb eines gesunden Gewichts gekennzeichnet ist. Damit verbunden ist meist eine gestörte Wahrnehmung des eigenen Körpers.",
+  "infodescriptionEn" : "##SHORT DESCRIPTION##",
+  "infoprevalenceDe" : "Innerhalb eines Zeitraums von zwölf Monaten leiden etwa 0,4% der jungen Frauen unter Anorexia Nervosa. Über die Häufigkeit unter Männern ist wenig bekannt, in Kliniken kommen aber etwa zehn Frauen auf einen Mann. Es wird heute jedoch angenommen, dass das Auftreten der Anorexia Nervosa bei Männern bisher systematisch unterschätzt wurde.",
+  "infoprevalenceEn" : "##TEXT##",
+  "infocausesDe" : "Für die Anorexia Nervosa werden primär psychologische, psychodynamische und soziokulturelle Faktoren angenommen. Ein vermindertes Selbstwertgefühl und negatives Selbstkonzept zusammen mit instabilen Persönlichkeitsmustern sind an den Ursachen stark beteiligt, ebenso wie Schwierigkeiten in der Verarbeitung sozialer und emotionaler Signale. Auch Schwierigkeiten bei der Bewältigung altersspezifischer Entwicklungsschritte spielen eine Rolle. Auch darf die Rolle von Kritik durch wichtige Bezugspersonen nicht übersehen werden.\nEs gibt auch gewisse Hinweise auf eine Erblichkeit der Störung.",
+  "infocausesEn" : "##TEXT##",
+  "infosymptomsDe" : "Die zwei wichtigsten Symptomgruppen sind das Verhalten der betroffenen Person und körperliche Auswirkungen der Unterernährung.\nBeim Verhalten Betroffener ist das Weglassen oder Vermeiden von Mahlzeiten augenfällig, ebenso wie Strategien zur Unterdrückung des Hungergefühls, zur Auswahl niederkalorischer Mahlzeiten, Missbrauch von Abführmitteln und Appetitzüglern, Hyperaktivität und exzessive körperliche Aktivität.\nBei den physischen Auswirkungen fallen das Untergewicht ebenso auf wie eventuell eine verstärkte Wasseransammlung in bestimmten Körperregionen durch Eiweißmangel, erniedrigte Körpertemperatur, bei Frauen und Mädchen das ausbleiben der Regel, diverse Hormonstörungen und Verlust der Libido, Kreislaufbeschwerden, niedriger Puls und Blutdruck, Haarausfall, Ausbildung von flaumartiger Körperbehaarung, fleckig-marmorierte Haut, Minderdurchblutung von Körperteilen, Knochenschwäche und Muskelschwäche.\nZu beachten ist, dass wegen der mannigfaltigen und schweren körperlichen Auswirkungen der Unter- und Mangelernährung die Anorexia Nervosa eine der höchsten Sterblichkeitsraten aller psychischen Erkrankungen hat.",
+  "infosymptomsEn" : "##TEXT##",
+  "infocourseDe" : "Anorexia Nervosa ist eine sehr schwerwiegende Erkrankung, durch die beinahe 10% aller Betroffenen pro Jahrzehnt sterben.\nDurch eine professionelle Behandlung erreichen etwa die Hälfte aller Betroffenen wieder ihr früheres Normalgewicht und können damit die meisten körperlichen Komplikationen rückgängig machen. Bei einem Viertel der Betroffenen sind die Ergebnisse gut, sie bleiben aber durch Rückfälle gefährdet. Das letzte Viertel weist eher schlechte Ergebnisse auf und leidet unter anhaltenden körperlichen und psychischen Komplikationen.",
+  "infocourseEn" : "##TEXT##",
+  "infotreatmentDe" : "Die Therapie erfolgt ambulant oder stationär, wobei schwere Fälle aufgrund der schweren und lebensgefährlichen körperlichen Auswirkungen hospitalisiert werden sollten. Die Behandlung erfolgt primär durch Verhaltens- und Psychotherapie, in einigen Fällen kann auch eine Behandlung mit Antidepressiva oder Östrogen-Präparaten hilfreich sein.",
+  "infotreatmentEn" : "##TEXT##",
+  "infolinksDe" : "https://www.anad.de/essstoerungen/magersucht-anorexia-nervosa/\nhttps://www.bzga-essstoerungen.de/was-sind-essstoerungen/arten/magersucht/?L=0\nhttps://www.bundesfachverbandessstoerungen.de/essstoerungen/magersucht-anorexia-nervosa.php\nhttps://www.gesundheit.gv.at/krankheiten/psyche/essstoerungen/magersucht-was-ist-das\nhttps://www.oeges.or.at/Essstoerungen/\nhttps://www.diaetologen.at/fileadmin/user_upload/documents/Arbeitskreise/Essstoerungen/Liste_Einrichtungen_Esstoerungen_2016_HP_fin.pdf",
+  "infolinksEn" : "##LINKS##",
+  "modules" : [
+    {
+      "internalName" : "A",
+      "questions" : [
+        {
+          "internalId" : 0,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "BMI_too_low",
+          "testedSymptom" : "BMI unter 17,5",
+          "nameDe" : "BMI gleich oder unter 17,5",
+          "nameEn" : "BMI equal to or below 17.5",
+          "questiontextDe" : "Ist das Ergebnis (der BMI), dass sie berechnet haben, kleiner oder gleich 17,5?",
+          "questiontextEn" : "Is the result (the BMI) you just calculated equal or less than 17.5?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte berechnen Sie jetzt Ihren BMI wie folgt (multiplizieren Sie Ihre Körpergröße in Metern mit sich selbst, dann teilen Sie Ihr Körpergewicht in kg durch die vorher erhaltene Zahl):\nKörpergewicht in kg / (Körpergröße in m * Körpergröße in m)\nSollten Sie Ihr Körpergewicht oder Ihre Körpergröße im Moment nicht exakt wissen, so schätzen Sie sie bitte (hierdurch kann das Ergebnis dieses Moduls allerdings ungenau werden).",
+            "contentEn" : "Please calculate your BMI as follows (multiply your size in meters with itself, then divide your body weight in kilograms through the value you just calculated):\nBody weight in kilograms / (Size in meters * size in meters)\nIf you don’t know your size or body weight exactly right now, please try to estimate it (the results of this module can become inaccurate through this)."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "B",
+      "questions" : [
+        {
+          "internalId" : 1,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Restricted_energy_intake",
+          "testedSymptom" : "Kriterium A",
+          "nameDe" : "Begrenzung der Energieaufnahme",
+          "nameEn" : "Restriction of energy intake",
+          "questiontextDe" : "Haben Sie Ihr momentanes Gewicht durch absichtliches Abnehmen (durch Einschränkungen Ihrer Nahrungszufuhr) erreicht?",
+          "questiontextEn" : "Did you reach your current weight by voluntary weight loss (through restriction of food intake)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eine der folgenden Fragen auf Sie zutrifft:\nFragen-Begleittext ab hier, english: Please indicate, if one of the following questions applies to you:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "C",
+      "questions" : [
+        {
+          "internalId" : 2,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Fear_of_gaining_weight",
+          "testedSymptom" : "Kriterium B",
+          "nameDe" : "Furcht vor Gewichtszunahme",
+          "nameEn" : "Fear of gaining weight",
+          "questiontextDe" : "Haben Sie eine starke Angst vor Gewichtszunahme oder davor, dick zu werden?",
+          "questiontextEn" : "Do you have an intense fear of gaining weight or becoming fat?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eine der folgenden Fragen auf Sie zutrifft:\nFragen-Begleittext ab hier, english: Please indicate, if one of the following questions applies to you:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 3,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Interfering_behavior",
+          "testedSymptom" : "Kriterium B",
+          "nameDe" : "Verhalten, das Gewichtszunahme verhindert",
+          "nameEn" : "Behavior interfering with gaining weight",
+          "questiontextDe" : "Zeigen Sie ein dauerhaftes Verhalten, dass eine Gewichtszunahme verhindert?",
+          "questiontextEn" : "Do you exhibit a persistent behavior interfering with gaining weight?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eine der folgenden Fragen auf Sie zutrifft:\nFragen-Begleittext ab hier, english: Please indicate, if one of the following questions applies to you:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "D",
+      "questions" : [
+        {
+          "internalId" : 4,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disturbance_of_body_image",
+          "testedSymptom" : "Kriterium C",
+          "nameDe" : "Gestörtes Körperbild",
+          "nameEn" : "Disturbance of body image",
+          "questiontextDe" : "Nehmen Sie sich auch mit Ihrem derzeitigen Gewicht als deutlich übergewichtig oder deutlich zu dick wahr?",
+          "questiontextEn" : "Do you feel that you are overweight or way to corpulent with your current weight?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eine der folgenden Fragen auf Sie zutrifft:\nFragen-Begleittext ab hier, english: Please indicate, if one of the following questions applies to you:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 5,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disturbed_self_evaluation",
+          "testedSymptom" : "Kriterium C",
+          "nameDe" : "Selbstbewertung hängt von Körpergewicht oder Körperform ab",
+          "nameEn" : "Self-evaluation depends on body weight or body shape",
+          "questiontextDe" : "Hängt Ihre Selbstbewertung stark von Ihrem Körpergewicht oder Ihrer Körperform ab?",
+          "questiontextEn" : "Does your self-evaluation heavily depend on your body weight or your body shape?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eine der folgenden Fragen auf Sie zutrifft:\nFragen-Begleittext ab hier, english: Please indicate, if one of the following questions applies to you:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 6,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Ignores_seriousness",
+          "testedSymptom" : "Kriterium C",
+          "nameDe" : "Übersehen von Gefährlichkeit des niedrigen Gewichts",
+          "nameEn" : "Lack of recognition of seriousness of current low weight",
+          "questiontextDe" : "Denken Sie, dass ihr derzeitiges Gewicht gefährlich für ihre Gesundheit sein könnte?",
+          "questiontextEn" : "Do you think your current body weight could be dangerous to your health?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eine der folgenden Fragen auf Sie zutrifft:\nFragen-Begleittext ab hier, english: Please indicate, if one of the following questions applies to you:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    }
+  ]}

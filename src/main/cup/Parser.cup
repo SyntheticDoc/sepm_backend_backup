@@ -1,0 +1,65 @@
+package at.ac.tuwien.sepm.groupphase.backend.service.impl.logic;
+import java_cup.runtime.*;
+import java.util.Set;
+import java.util.HashSet;
+
+import at.ac.tuwien.sepm.groupphase.backend.service.impl.logic.ParserLiteralList;
+/* Parser code to change the way the parser reports errors (include
+   line and column number of the error). */
+parser code {:
+    public boolean syntaxErrors;
+
+    public void syntax_error(Symbol current_token) {
+        report_error(
+            "Syntax error at line " + (current_token.left+1) + ", column "
+            + current_token.right, null
+        );
+    }
+
+    private Set<Long> positives = new HashSet<Long>();
+
+    public void setVariable(Set<Long> variables)
+    {
+        positives = variables;
+    }
+:};
+
+terminal NOT, AND, OR, BL, BR, GREATER, SMALLER, EQUALS, AL, AR, COMMA;
+terminal Boolean LITERAL;
+terminal Integer NUMBER;
+terminal Long VARIABLE;
+
+/* Non-terminals */
+non terminal Boolean expr;
+non terminal Integer term;
+non terminal ParserLiteralList expressions;
+non terminal ParserLiteralList commaexpressions;
+
+precedence left EQUALS;
+precedence left AND, OR;
+precedence left NOT;
+
+expr            ::= expr:e1 AND expr:e2                 {: RESULT = e1 && e2; :}
+                | expr:e1 OR expr:e2                    {: RESULT = e1 || e2; :}
+                | expr:e1 EQUALS expr:e2                {: RESULT = e1 == e2; :}
+                | NOT expr:e                            {: RESULT = !e; :}
+                | BL expr:e BR                          {: RESULT = e; :}
+                | LITERAL:b                             {: RESULT = b; :}
+                | VARIABLE:v                            {: RESULT = positives.contains(v); :}
+                | term:t1 EQUALS term:t2                {: RESULT = (t1 == t2); :}
+                | term:t1 GREATER term:t2               {: RESULT = (t1 > t2); :}
+                | term:t1 GREATER EQUALS term:t2        {: RESULT = (t1 >= t2); :}
+                | term:t1 SMALLER term:t2               {: RESULT = (t1 < t2); :}
+                | term:t1 SMALLER EQUALS term:t2        {: RESULT = (t1 <= t2); :}
+                ;
+
+term            ::= NUMBER:n                            {: RESULT = n; :}
+                | AL expressions:l AR                   {: RESULT = l.countTrue(); :}
+                ;
+
+expressions     ::= expr:e commaexpressions:c           {: RESULT = c; c.add(e); :}
+                ;
+
+commaexpressions::= COMMA expr:e commaexpressions:c     {: RESULT = c; c.add(e); :}
+                |                                       {: RESULT = new ParserLiteralList(); :}
+                ;

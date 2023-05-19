@@ -1,0 +1,620 @@
+{
+  "internalTitle" : "Posttraumatic Stress Disorder",
+  "titleDe" : "Posttraumatische Belastungsstörung",
+  "titleEn" : "Posttraumatic Stress Disorder",
+  "infodescriptionDe" : "Erlebt jemand ein traumatisches Erlebnis, ist es völlig normal, eine Reihe bestimmter Reaktionen darauf zu zeigen wie anhaltende Furcht, wiederkehrende Erinnerungen etc. Mit der Zeit erholen sich Menschen jedoch wieder von solch einem Ereignis. Bleibt die Erholung aus und bestehen die Symptome über lange Zeit fort, spricht man von einer posttraumatischen Belastungsstörung (PTSD).",
+  "infodescriptionEn" : "##SHORT DESCRIPTION##",
+  "infoprevalenceDe" : "Es wird angenommen, dass etwa 2-7% der Bevölkerung irgendwann in ihrem Leben durch eine PTSD betroffen sind.",
+  "infoprevalenceEn" : "##TEXT##",
+  "infocausesDe" : "Die PTSD wird immer durch ein sehr traumatisches Ereignis ausgelöst, dem die betroffene Person direkt ausgesetzt war oder das sie miterlebt hat. Typisch für eine PTSD sind Gefühle von Angst und Hilflosigkeit und dem subjektiven Fehlen jeder Möglichkeit zur Bewältigung des Ereignisses. Typische Auslöser einer PTSD sind unter anderem:\n-  Krieg, Verfolgung, Vertreibung, Kriegsgefangenschaft\n-  Vergewaltigung und sexuelle Gewalt im Allgemeinen\n-  Gewaltverbrechen\n-  Schwere Unfälle wie Verkehrsunfälle, Arbeitsunfälle, etc.\n-  Schwere Erkrankungen wie Krebs, Herzinfarkt, etc.\nEs besteht jedoch eine hohe individuelle Schwankungsbreite, welche Ereignisse als besonders traumatisch wahrgenommen werden.",
+  "infocausesEn" : "##TEXT##",
+  "infosymptomsDe" : "Die Symptome der PTSD sind sehr vielfältig und umfassen neben psychischen Begleiterkrankungen wie Depressionen, dissoziative Störungen usw. vor allem:\n-  Wiederholtes Erleben des Traumas in Form von Flashbacks, inneren Bildern, Alpträumen, usw. Dieses erneute Erleben drängt sich meist unkontrollierbar auf, und die Reaktionen auf die Erinnerungen gleichen den Reaktionen auf das traumatisierende Ereignis selbst\n-  Sozialer und emotionaler Rückzug wie Verlust von Lebensfreude, dem Gefühl emotionaler Abgestumpftheit, intensives Vermeidungsverhalten gegenüber Situationen, die an das Trauma erinneren können\n-  Vegetative Übererregbarkeit die sich durch Schlafstörungen, Reizbarkeit, erhöhte Aufmerksamkeit, Konzentrationsprobleme, Aggressionen und ähnlichem ausdrückt",
+  "infosymptomsEn" : "##TEXT##",
+  "infocourseDe" : "Unbehandelt chronifiziert die PTSD schnell und heilt selten von alleine aus. Professionelle Therapie kann die Symptome lindern und wieder ein relativ normales Leben ermöglichen.",
+  "infocourseEn" : "##TEXT##",
+  "infotreatmentDe" : "Direkt nach traumatischen Ereignissen erfolgt am besten eine Krisenintervention, die bei der anfänglichen Bewältigung unterstützt. Auf weitere Sicht haben sich Kombinationen aus Psychotherapie und medikamentöser Behandlung bewährt.",
+  "infotreatmentEn" : "##TEXT##",
+  "infolinksDe" : "https://www.psychenet.de/de/psychische-gesundheit/informationen/posttraumatische-belastungsstoerung.html\nhttps://www.patienten-information.de/kurzinformationen/ptbs#\nhttps://www.degpt.de/informationen/fuer-betroffene/trauma-und-traumafolgen/wie-%C3%A4u%C3%9Fern-sich-traumafolgest%C3%B6rungen/posttraumatische-belastungsst%C3%B6rung/\nhttps://www.apotheken-umschau.de/krankheiten-symptome/psychische-krankheiten/posttraumatische-belastungsstoerung-ptbs-740879.html\nhttps://www.gesundheit.gv.at/krankheiten/psyche/trauma/posttraumatische-belastungsstoerung\nhttps://psychische-hilfe.wien.gv.at/fakten/angststoerung/arten-von-angststoerung/posttraumatische-belastungsstoerung-ptbs/",
+  "infolinksEn" : "##LINKS##",
+  "modules" : [
+    {
+      "internalName" : "A",
+      "questions" : [
+        {
+          "internalId" : 0,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Direct_traumatic_experience",
+          "testedSymptom" : "Kriterium A.1",
+          "nameDe" : "Direkte traumatische Erfahrung",
+          "nameEn" : "Direct traumatic experience",
+          "questiontextDe" : "Waren Sie in Ihrem Leben selbst direkt Opfer eines traumatischen Erlebnisses?",
+          "questiontextEn" : "Have you directly been a victim of a traumatic experience somewhen in your life?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob Sie eines der folgenden Ereignisse erlebt haben, von dem Sie fortwährend belastet werden:",
+            "contentEn" : "Please indicate if you have experienced one of the following events if it causes continued distress to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 1,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Witnessed_traumatic_experience",
+          "testedSymptom" : "Kriterium A.2",
+          "nameDe" : "Miterleben von traumatischer Erfahrung",
+          "nameEn" : "Witnessing a traumatic experience",
+          "questiontextDe" : "Waren Sie selbst direkt Zeuge davon, wie anderen ein traumatisches Erlebnis wiederfuhr?",
+          "questiontextEn" : "Have you directly witnessed how a traumatic experience happened to someone other?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob Sie eines der folgenden Ereignisse erlebt haben, von dem Sie fortwährend belastet werden:",
+            "contentEn" : "Please indicate if you have experienced one of the following events if it causes continued distress to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 2,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Traumatic_experience_of_close_person",
+          "testedSymptom" : "Kriterium A.3",
+          "nameDe" : "Traumatische Erfahrung nahestehender Person",
+          "nameEn" : "Traumatic experience of close person",
+          "questiontextDe" : "Hat eine Ihnen sehr nahestehende Person ein traumatisches Erlebnis erlitten? Falls dieses Ereignis der Tod oder eine Bedrohung mit dem Tod einer nahestehenden Person war – war dieser Tod oder die Drohung dieses Todes mit Gewalt oder einem Unfall verbunden?",
+          "questiontextEn" : "Has a person very close to you had a traumatic experience? If this experience entails the death or threatened death of a close person – has this death or threatened death been violent or accidental?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob Sie eines der folgenden Ereignisse erlebt haben, von dem Sie fortwährend belastet werden:",
+            "contentEn" : "Please indicate if you have experienced one of the following events if it causes continued distress to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 3,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Extreme_traumatic_exposure",
+          "testedSymptom" : "Kriterium A.4",
+          "nameDe" : "Einem traumatischen Ereignis auf extreme Weise ausgesetzt gewesen",
+          "nameEn" : "Being exposed to a traumatic event in an extreme manner",
+          "questiontextDe" : "Waren Sie schrecklichen Details eines traumatischen Ereignisses wiederholt oder auf eine extreme Art ausgesetzt (z.B. Ersthelfer, die menschliche Überreste einsammeln; Polizist_Innen, die wiederholt und detailliert Kindesmissbrauch ausgesetzt waren; etc.)?",
+          "questiontextEn" : "Have you been repeatedly and/or extremely exposed to disturbing details of a traumatic event (e.g., first responders collecting human remains; police officers repeatedly exposed to details of child abuse; etc.)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob Sie eines der folgenden Ereignisse erlebt haben, von dem Sie fortwährend belastet werden:",
+            "contentEn" : "Please indicate if you have experienced one of the following events if it causes continued distress to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "B",
+      "questions" : [
+        {
+          "internalId" : 4,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Intrusive_memories",
+          "testedSymptom" : "Kriterium B.1",
+          "nameDe" : "Wiederkehrende Erinnerungen",
+          "nameEn" : "Recurring memories",
+          "questiontextDe" : "Wiederkehrende, unkontrollierbare, aufdringliche und schmerzhafte Erinnerungen an das traumatische Ereignis",
+          "questiontextEn" : "Recurrent, involuntary and intrusive distressing memories of the traumatic event",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 5,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Recurrent_dreams",
+          "testedSymptom" : "Kriterium B.2",
+          "nameDe" : "Wiederkehrende Träume",
+          "nameEn" : "Recurring dreams",
+          "questiontextDe" : "Wiederkehrende, belastende Träume, die inhaltlich und/oder emotional mit dem traumatischen Ereignis verbunden sind",
+          "questiontextEn" : "Recurrent distressing dreams which are connected to the traumatic event by their content or the emotions felt",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 6,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Dissociative_events",
+          "testedSymptom" : "Kriterium B.3",
+          "nameDe" : "Wiedererleben des traumatischen Ereignisses",
+          "nameEn" : "Reliving the traumatic experience",
+          "questiontextDe" : "Wiedererleben des traumatischen Ereignisses beispielsweise durch Flashbacks oder ähnliches",
+          "questiontextEn" : "Reliving the traumatic event for example through flashbacks",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 7,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Psychological_distress",
+          "testedSymptom" : "Kriterium B.4",
+          "nameDe" : "Seelisches Leid durch triggerende Ereignisse",
+          "nameEn" : "Psychological distress caused by trigger events",
+          "questiontextDe" : "Extremes oder lange andauerndes seelisches Leid durch innere oder äußere Ereignisse, die an das traumatische Erlebnis erinnern",
+          "questiontextEn" : "Intense or prolonged psychological distress caused by internal or external events which are a reminder of the traumatic event",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 8,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Physiological_reactions",
+          "testedSymptom" : "Kriterium B.5",
+          "nameDe" : "Körperliche Reaktionen",
+          "nameEn" : "Physiological reactions",
+          "questiontextDe" : "Deutliche körperliche Reaktionen auf innere oder äußere Ereignisse, die an das traumatische Erlebnis erinnern (z.B. Schwitzen, Herzklopfen, Atemnot, etc.)",
+          "questiontextEn" : "Marked physiological reactions to internal or external events which are a reminder of the traumatic event (e.g., sweating, palpitations, shortness of breath, etc.)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "C",
+      "questions" : [
+        {
+          "internalId" : 9,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Avoiding_distressing_thoughts",
+          "testedSymptom" : "Kriterium C.1",
+          "nameDe" : "Vermeidung von schmerzhaften Gedanken und Erinnerungen",
+          "nameEn" : "Avoidance of distressing thoughts and memories",
+          "questiontextDe" : "Versuch der Vermeidung von belastenden Gedanken, Erinnerungen oder Gefühlen, die mit dem traumatischem Ereignis in Zusammenhang stehen",
+          "questiontextEn" : "Trying to avoid distressing thoughts, memories or emotions that are closely associated with the traumatic event",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 10,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Avoiding_external_reminders",
+          "testedSymptom" : "Kriterium C.2",
+          "nameDe" : "Vermeidung an das Ereignis erinnert zu werden",
+          "nameEn" : "Avoidance of being reminded of the traumatic event",
+          "questiontextDe" : "Versuch der Vermeidung von Situationen, Personen, Orten oder Aktivitäten, die an das traumatische Ereignis erinnern",
+          "questiontextEn" : "Trying to avoid situations, persons, places or activities which are a reminder of the traumatic event",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "D",
+      "questions" : [
+        {
+          "internalId" : 11,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Dissociative_amnesia",
+          "testedSymptom" : "Kriterium D.1",
+          "nameDe" : "Dissoziative Amnesie",
+          "nameEn" : "Dissociative amnesia",
+          "questiontextDe" : "Unfähigkeit, sich an wichtige Aspekte des traumatischen Ereignisses zu erinnern, die nicht auf physische Ursachen zurückzuführen ist (wie Kopfverletzungen, Alkohol, Drogen, etc.)",
+          "questiontextEn" : "Inability to remember important aspects of the traumatic events, which are not attributable to physiological factors (like head injury, alcohol, drugs, etc.)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 12,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Negative_beliefs",
+          "testedSymptom" : "Kriterium D.2",
+          "nameDe" : "Negative Glaubenssätze",
+          "nameEn" : "Negativ beliefs",
+          "questiontextDe" : "Dauerhafte und übertriebene negative Glaubenssätze oder Erwartungen über sich selbst, andere oder die Welt (z.B. „Ich bin ein schlechter Mensch“, „Ich kann niemandem vertrauen“, „Die ganze Welt ist ständig gefährlich“, „Mein gesamtes Nervensystem ist für immer zerstört“)",
+          "questiontextEn" : "Persistent and exaggerated negative beliefs or expectations about oneself, others or the world (e.g., “I am bad”, “No one can be trusted”, “The world is completely dangerous”, “My whole nervous system is permanently ruined”)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 13,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Distorted_cognitions",
+          "testedSymptom" : "Kriterium D.3",
+          "nameDe" : "Verzerrte Kognitionen",
+          "nameEn" : "Distorted cognitions",
+          "questiontextDe" : "Dauerhafte und verzerrte Überzeugungen über die Ursache oder Konsequenzen des traumatischen Ereignisses, dass die Schuld auf Sie selbst oder andere überträgt",
+          "questiontextEn" : "Persistent and distorted beliefs about the cause or consequences of the traumatic event which lead to blaming yourself or others",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 14,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Negative_emotional_state",
+          "testedSymptom" : "Kriterium D.4",
+          "nameDe" : "Negativer emotionaler Zustand",
+          "nameEn" : "Negative emotional state",
+          "questiontextDe" : "Dauerhafte negative Emotionen im Alltag (z.B. Angst, Horror, Zorn, Schuld, Scham, etc.)",
+          "questiontextEn" : "Persistent negative emotions in daily life (e.g., fear, horror, anger, guilt, shame, etc.)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 15,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Diminished_interest",
+          "testedSymptom" : "Kriterium D.5",
+          "nameDe" : "Deutlich verringertes Interesse an Aktivitäten",
+          "nameEn" : "Significantly diminished interest in activities",
+          "questiontextDe" : "Deutlich verringertes Interesse oder Teilnahme an wichtigen Aktivitäten",
+          "questiontextEn" : "Markedly diminished interest or participation in significant activities",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 16,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Feelings_of_detachment",
+          "testedSymptom" : "Kriterium D.6",
+          "nameDe" : "Distanziertheit",
+          "nameEn" : "Detachment",
+          "questiontextDe" : "Gefühle der Distanziertheit oder Entfremdung bezüglich anderen",
+          "questiontextEn" : "Feelings of detachment or estrangement from others",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 17,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Inability_for_positive_emotions",
+          "testedSymptom" : "Kriterium D.7",
+          "nameDe" : "Dauerhafte Unfähigkeit zum Erleben positiver Emotionen",
+          "nameEn" : "Persistent inability to experience positive emotions",
+          "questiontextDe" : "Dauerhafte Unfähigkeit zum Erleben positiver Emotionen",
+          "questiontextEn" : "Persistent inability to experience positive emotions",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "E",
+      "questions" : [
+        {
+          "internalId" : 18,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Irritability",
+          "testedSymptom" : "Kriterium E.1",
+          "nameDe" : "Reizbarkeit",
+          "nameEn" : "Irritability",
+          "questiontextDe" : "Reizbarkeit und plötzliche Wutanfälle ohne direkten Grund gegenüber Gegenständen oder Personen",
+          "questiontextEn" : "Irritable behavior and angry outbursts without direct provocation toward objects or people",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 19,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Self_destructiveness",
+          "testedSymptom" : "Kriterium E.2",
+          "nameDe" : "Selbstzerstörisches Verhalten",
+          "nameEn" : "Self-destructiveness",
+          "questiontextDe" : "Rücksichtsloses oder selbstzerstörisches Verhalten (z.B. viel zu schnelles Fahren, exzessiver Konsum von Alkohol oder Drogen, exzessives Eingehen von Risiken, etc.)",
+          "questiontextEn" : "Reckless or self-destructive behavior (e.g., driving far too fast, excessive consumption of alcohol or drugs, excessive risk taking, etc.)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 20,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Hypervigilance",
+          "testedSymptom" : "Kriterium E.3",
+          "nameDe" : "Hypervigilanz",
+          "nameEn" : "Hypervigilance",
+          "questiontextDe" : "Erhöhte Wachsamkeit oder Wachheit",
+          "questiontextEn" : "Increased alertness",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 21,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Startle_response",
+          "testedSymptom" : "Kriterium E.4",
+          "nameDe" : "Extreme Schreckhaftigkeit",
+          "nameEn" : "Exaggerated startle response",
+          "questiontextDe" : "Extreme Schreckhaftigkeit",
+          "questiontextEn" : "Exaggerated startle response or jumpiness",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 22,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Reduced_concentration",
+          "testedSymptom" : "Kriterium E.5",
+          "nameDe" : "Konzentrationsprobleme",
+          "nameEn" : "Problems with concentration",
+          "questiontextDe" : "Konzentrationsprobleme",
+          "questiontextEn" : "Problems with concentration",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 23,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Sleep_disturbance",
+          "testedSymptom" : "Kriterium E.6",
+          "nameDe" : "Schlafstörungen",
+          "nameEn" : "Sleep disturbances",
+          "questiontextDe" : "Schlafstörungen (z.B. Schwierigkeiten einzuschlafen oder durchzuschlafen, ruheloser Schlaf)",
+          "questiontextEn" : "Sleep disturbances (e.g., difficulty falling or staying asleep or restless sleep)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:\nFragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "F",
+      "questions" : [
+        {
+          "internalId" : 24,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Duration_more_than_one_month",
+          "testedSymptom" : "Kriterium F",
+          "nameDe" : "Symptomdauer länger als ein Monat",
+          "nameEn" : "Duration of symptoms more than a month",
+          "questiontextDe" : "Anhaltende Symptome für mehr als einen Monat",
+          "questiontextEn" : "Persistent symptoms for more than one month",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eine der folgenden Fragen auf die vorhin von Ihnen gewählten Symptome zutrifft:\nFragen-Begleittext ab hier, english: Please indicate if one of the following questions applies to the symptoms chosen by you previously:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "G",
+      "questions" : [
+        {
+          "internalId" : 25,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Significant_distress",
+          "testedSymptom" : "Kriterium G",
+          "nameDe" : "Deutliches Leid oder Einschränkungen durch Symptome",
+          "nameEn" : "Significant distress or impairment because of symptoms",
+          "questiontextDe" : "Deutliches Leid oder Einschränkungen in sozialen, beruflichen oder anderen wichtigen Bereichen",
+          "questiontextEn" : "Significant distress or impairment in social, occupational or other important areas?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob eine der folgenden Fragen auf die vorhin von Ihnen gewählten Symptome zutrifft:\nFragen-Begleittext ab hier, english: Please indicate if one of the following questions applies to the symptoms chosen by you previously:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    }
+  ]}

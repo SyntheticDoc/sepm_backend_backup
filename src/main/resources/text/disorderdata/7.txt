@@ -1,0 +1,348 @@
+Posttraumatic Stress Disorder
+Diagnosetitel, deutsch: Posttraumatische Belastungsstörung
+Diagnosetitel, englisch: Posttraumatic Stress Disorder
+
+### INFOTEXT DEUTSCH ANFANG ###
+Erlebt jemand ein traumatisches Erlebnis, ist es völlig normal, eine Reihe bestimmter Reaktionen darauf zu zeigen wie anhaltende Furcht, wiederkehrende Erinnerungen etc. Mit der Zeit erholen sich Menschen jedoch wieder von solch einem Ereignis. Bleibt die Erholung aus und bestehen die Symptome über lange Zeit fort, spricht man von einer posttraumatischen Belastungsstörung (PTSD).
+
+Häufigkeit:
+Es wird angenommen, dass etwa 2-7% der Bevölkerung irgendwann in ihrem Leben durch eine PTSD betroffen sind.
+
+Ursachen:
+Die PTSD wird immer durch ein sehr traumatisches Ereignis ausgelöst, dem die betroffene Person direkt ausgesetzt war oder das sie miterlebt hat. Typisch für eine PTSD sind Gefühle von Angst und Hilflosigkeit und dem subjektiven Fehlen jeder Möglichkeit zur Bewältigung des Ereignisses. Typische Auslöser einer PTSD sind unter anderem:
+-	Krieg, Verfolgung, Vertreibung, Kriegsgefangenschaft
+-	Vergewaltigung und sexuelle Gewalt im Allgemeinen
+-	Gewaltverbrechen
+-	Schwere Unfälle wie Verkehrsunfälle, Arbeitsunfälle, etc.
+-	Schwere Erkrankungen wie Krebs, Herzinfarkt, etc.
+Es besteht jedoch eine hohe individuelle Schwankungsbreite, welche Ereignisse als besonders traumatisch wahrgenommen werden.
+
+Symptome:
+Die Symptome der PTSD sind sehr vielfältig und umfassen neben psychischen Begleiterkrankungen wie Depressionen, dissoziative Störungen usw. vor allem:
+-	Wiederholtes Erleben des Traumas in Form von Flashbacks, inneren Bildern, Alpträumen, usw. Dieses erneute Erleben drängt sich meist unkontrollierbar auf, und die Reaktionen auf die Erinnerungen gleichen den Reaktionen auf das traumatisierende Ereignis selbst
+-	Sozialer und emotionaler Rückzug wie Verlust von Lebensfreude, dem Gefühl emotionaler Abgestumpftheit, intensives Vermeidungsverhalten gegenüber Situationen, die an das Trauma erinneren können
+-	Vegetative Übererregbarkeit die sich durch Schlafstörungen, Reizbarkeit, erhöhte Aufmerksamkeit, Konzentrationsprobleme, Aggressionen und ähnlichem ausdrückt
+
+Verlauf:
+Unbehandelt chronifiziert die PTSD schnell und heilt selten von alleine aus. Professionelle Therapie kann die Symptome lindern und wieder ein relativ normales Leben ermöglichen.
+
+Behandlung:
+Direkt nach traumatischen Ereignissen erfolgt am besten eine Krisenintervention, die bei der anfänglichen Bewältigung unterstützt. Auf weitere Sicht haben sich Kombinationen aus Psychotherapie und medikamentöser Behandlung bewährt.
+
+Weiterführende Informationen:
+https://www.psychenet.de/de/psychische-gesundheit/informationen/posttraumatische-belastungsstoerung.html
+https://www.patienten-information.de/kurzinformationen/ptbs#
+https://www.degpt.de/informationen/fuer-betroffene/trauma-und-traumafolgen/wie-%C3%A4u%C3%9Fern-sich-traumafolgest%C3%B6rungen/posttraumatische-belastungsst%C3%B6rung/
+https://www.apotheken-umschau.de/krankheiten-symptome/psychische-krankheiten/posttraumatische-belastungsstoerung-ptbs-740879.html
+https://www.gesundheit.gv.at/krankheiten/psyche/trauma/posttraumatische-belastungsstoerung
+https://psychische-hilfe.wien.gv.at/fakten/angststoerung/arten-von-angststoerung/posttraumatische-belastungsstoerung-ptbs/
+
+### INFOTEXT DEUTSCH ENDE ###
+
+### INFOTEXT ENGLISCH ANFANG ###
+##SHORT DESCRIPTION##
+
+Prevalence:
+##TEXT##
+
+Causes:
+##TEXT##
+
+Symptoms:
+##TEXT##
+
+Course:
+##TEXT##
+
+Treatment:
+##TEXT##
+
+Additional information:
+##LINKS##
+
+### INFOTEXT ENGLISCH ENDE ###
+
+DSM-V Diagnostik
+
+Technische Anmerkung: PTSD setzt sich aus Kriterien A-G zusammen. Es muss aus jedem Kriterium mindestens eine Frage bejaht worden sein, damit PTSD diagnostiziert wird.
+
+Einleitungssatz am Anfang des Fragebogens, deutsch: Bitte geben Sie an, ob Sie eines der folgenden Ereignisse erlebt haben, von dem Sie fortwährend belastet werden:
+Einleitungssatz am Anfang des Fragebogens, english: Please indicate if you have experienced one of the following events if it causes continued distress to you:
+
+ID	0
+Interner Name	Direct_traumatic_experience
+Geprüftes Symptom	Kriterium A.1
+Symptomname, Deutsch	Direkte traumatische Erfahrung
+Symptomname, Englisch	Direct traumatic experience
+Fragentext, Deutsch	Waren Sie in Ihrem Leben selbst direkt Opfer eines traumatischen Erlebnisses?
+Fragentext, Englisch	Have you directly been a victim of a traumatic experience somewhen in your life?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A
+
+ID	1
+Interner Name	Witnessed_traumatic_experience
+Geprüftes Symptom	Kriterium A.2
+Symptomname, Deutsch	Miterleben von traumatischer Erfahrung
+Symptomname, Englisch	Witnessing a traumatic experience
+Fragentext, Deutsch	Waren Sie selbst direkt Zeuge davon, wie anderen ein traumatisches Erlebnis wiederfuhr?
+Fragentext, Englisch	Have you directly witnessed how a traumatic experience happened to someone other?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A
+
+ID	2
+Interner Name	Traumatic_experience_of_close_person
+Geprüftes Symptom	Kriterium A.3
+Symptomname, Deutsch	Traumatische Erfahrung nahestehender Person
+Symptomname, Englisch	Traumatic experience of close person
+Fragentext, Deutsch	Hat eine Ihnen sehr nahestehende Person ein traumatisches Erlebnis erlitten? Falls dieses Ereignis der Tod oder eine Bedrohung mit dem Tod einer nahestehenden Person war – war dieser Tod oder die Drohung dieses Todes mit Gewalt oder einem Unfall verbunden?
+Fragentext, Englisch	Has a person very close to you had a traumatic experience? If this experience entails the death or threatened death of a close person – has this death or threatened death been violent or accidental?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A
+
+ID	3
+Interner Name	Extreme_traumatic_exposure
+Geprüftes Symptom	Kriterium A.4
+Symptomname, Deutsch	Einem traumatischen Ereignis auf extreme Weise ausgesetzt gewesen
+Symptomname, Englisch	Being exposed to a traumatic event in an extreme manner
+Fragentext, Deutsch	Waren Sie schrecklichen Details eines traumatischen Ereignisses wiederholt oder auf eine extreme Art ausgesetzt (z.B. Ersthelfer, die menschliche Überreste einsammeln; Polizist_Innen, die wiederholt und detailliert Kindesmissbrauch ausgesetzt waren; etc.)?
+Fragentext, Englisch	Have you been repeatedly and/or extremely exposed to disturbing details of a traumatic event (e.g., first responders collecting human remains; police officers repeatedly exposed to details of child abuse; etc.)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A
+
+Technische Anmerkung: Falls bis jetzt keine Frage mit ja beantwortet wurde: Fragebogen abbrechen.
+
+Fragen-Begleittext ab hier, deutsch: Bitte geben Sie an, ob eines der folgenden Symptome im Zusammenhang mit dem vorhin genannten traumatischen Ereignis nach dem Ereignis bei Ihnen aufgetreten ist:
+Fragen-Begleittext ab hier, english: Please indicate if one of the following symptoms associated with the traumatic event mentioned before has been present after the event:
+
+ID	4
+Interner Name	Intrusive_memories
+Geprüftes Symptom	Kriterium B.1
+Symptomname, Deutsch	Wiederkehrende Erinnerungen
+Symptomname, Englisch	Recurring memories
+Fragentext, Deutsch	Wiederkehrende, unkontrollierbare, aufdringliche und schmerzhafte Erinnerungen an das traumatische Ereignis
+Fragentext, Englisch	Recurrent, involuntary and intrusive distressing memories of the traumatic event
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B
+
+ID	5
+Interner Name	Recurrent_dreams
+Geprüftes Symptom	Kriterium B.2
+Symptomname, Deutsch	Wiederkehrende Träume
+Symptomname, Englisch	Recurring dreams
+Fragentext, Deutsch	Wiederkehrende, belastende Träume, die inhaltlich und/oder emotional mit dem traumatischen Ereignis verbunden sind
+Fragentext, Englisch	Recurrent distressing dreams which are connected to the traumatic event by their content or the emotions felt
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B
+
+ID	6
+Interner Name	Dissociative_events
+Geprüftes Symptom	Kriterium B.3
+Symptomname, Deutsch	Wiedererleben des traumatischen Ereignisses
+Symptomname, Englisch	Reliving the traumatic experience
+Fragentext, Deutsch	Wiedererleben des traumatischen Ereignisses beispielsweise durch Flashbacks oder ähnliches
+Fragentext, Englisch	Reliving the traumatic event for example through flashbacks
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B
+
+ID	7
+Interner Name	Psychological_distress
+Geprüftes Symptom	Kriterium B.4
+Symptomname, Deutsch	Seelisches Leid durch triggerende Ereignisse
+Symptomname, Englisch	Psychological distress caused by trigger events
+Fragentext, Deutsch	Extremes oder lange andauerndes seelisches Leid durch innere oder äußere Ereignisse, die an das traumatische Erlebnis erinnern
+Fragentext, Englisch	Intense or prolonged psychological distress caused by internal or external events which are a reminder of the traumatic event
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B
+
+ID	8
+Interner Name	Physiological_reactions
+Geprüftes Symptom	Kriterium B.5
+Symptomname, Deutsch	Körperliche Reaktionen
+Symptomname, Englisch	Physiological reactions
+Fragentext, Deutsch	Deutliche körperliche Reaktionen auf innere oder äußere Ereignisse, die an das traumatische Erlebnis erinnern (z.B. Schwitzen, Herzklopfen, Atemnot, etc.)
+Fragentext, Englisch	Marked physiological reactions to internal or external events which are a reminder of the traumatic event (e.g., sweating, palpitations, shortness of breath, etc.)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B
+
+ID	9
+Interner Name	Avoiding_distressing_thoughts
+Geprüftes Symptom	Kriterium C.1
+Symptomname, Deutsch	Vermeidung von schmerzhaften Gedanken und Erinnerungen
+Symptomname, Englisch	Avoidance of distressing thoughts and memories
+Fragentext, Deutsch	Versuch der Vermeidung von belastenden Gedanken, Erinnerungen oder Gefühlen, die mit dem traumatischem Ereignis in Zusammenhang stehen
+Fragentext, Englisch	Trying to avoid distressing thoughts, memories or emotions that are closely associated with the traumatic event
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium C
+
+ID	10
+Interner Name	Avoiding_external_reminders
+Geprüftes Symptom	Kriterium C.2
+Symptomname, Deutsch	Vermeidung an das Ereignis erinnert zu werden
+Symptomname, Englisch	Avoidance of being reminded of the traumatic event
+Fragentext, Deutsch	Versuch der Vermeidung von Situationen, Personen, Orten oder Aktivitäten, die an das traumatische Ereignis erinnern
+Fragentext, Englisch	Trying to avoid situations, persons, places or activities which are a reminder of the traumatic event
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium C
+
+ID	11
+Interner Name	Dissociative_amnesia
+Geprüftes Symptom	Kriterium D.1
+Symptomname, Deutsch	Dissoziative Amnesie
+Symptomname, Englisch	Dissociative amnesia
+Fragentext, Deutsch	Unfähigkeit, sich an wichtige Aspekte des traumatischen Ereignisses zu erinnern, die nicht auf physische Ursachen zurückzuführen ist (wie Kopfverletzungen, Alkohol, Drogen, etc.)
+Fragentext, Englisch	Inability to remember important aspects of the traumatic events, which are not attributable to physiological factors (like head injury, alcohol, drugs, etc.)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium D
+
+ID	12
+Interner Name	Negative_beliefs
+Geprüftes Symptom	Kriterium D.2
+Symptomname, Deutsch	Negative Glaubenssätze
+Symptomname, Englisch	Negativ beliefs
+Fragentext, Deutsch	Dauerhafte und übertriebene negative Glaubenssätze oder Erwartungen über sich selbst, andere oder die Welt (z.B. „Ich bin ein schlechter Mensch“, „Ich kann niemandem vertrauen“, „Die ganze Welt ist ständig gefährlich“, „Mein gesamtes Nervensystem ist für immer zerstört“)
+Fragentext, Englisch	Persistent and exaggerated negative beliefs or expectations about oneself, others or the world (e.g., “I am bad”, “No one can be trusted”, “The world is completely dangerous”, “My whole nervous system is permanently ruined”)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium D
+
+ID	13
+Interner Name	Distorted_cognitions
+Geprüftes Symptom	Kriterium D.3
+Symptomname, Deutsch	Verzerrte Kognitionen
+Symptomname, Englisch	Distorted cognitions
+Fragentext, Deutsch	Dauerhafte und verzerrte Überzeugungen über die Ursache oder Konsequenzen des traumatischen Ereignisses, dass die Schuld auf Sie selbst oder andere überträgt
+Fragentext, Englisch	Persistent and distorted beliefs about the cause or consequences of the traumatic event which lead to blaming yourself or others
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium D
+
+ID	14
+Interner Name	Negative_emotional_state
+Geprüftes Symptom	Kriterium D.4
+Symptomname, Deutsch	Negativer emotionaler Zustand
+Symptomname, Englisch	Negative emotional state
+Fragentext, Deutsch	Dauerhafte negative Emotionen im Alltag (z.B. Angst, Horror, Zorn, Schuld, Scham, etc.)
+Fragentext, Englisch	Persistent negative emotions in daily life (e.g., fear, horror, anger, guilt, shame, etc.)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium D
+
+ID	15
+Interner Name	Diminished_interest
+Geprüftes Symptom	Kriterium D.5
+Symptomname, Deutsch	Deutlich verringertes Interesse an Aktivitäten
+Symptomname, Englisch	Significantly diminished interest in activities
+Fragentext, Deutsch	Deutlich verringertes Interesse oder Teilnahme an wichtigen Aktivitäten
+Fragentext, Englisch	Markedly diminished interest or participation in significant activities
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium D
+
+ID	16
+Interner Name	Feelings_of_detachment
+Geprüftes Symptom	Kriterium D.6
+Symptomname, Deutsch	Distanziertheit
+Symptomname, Englisch	Detachment
+Fragentext, Deutsch	Gefühle der Distanziertheit oder Entfremdung bezüglich anderen
+Fragentext, Englisch	Feelings of detachment or estrangement from others
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium D
+
+ID	17
+Interner Name	Inability_for_positive_emotions
+Geprüftes Symptom	Kriterium D.7
+Symptomname, Deutsch	Dauerhafte Unfähigkeit zum Erleben positiver Emotionen
+Symptomname, Englisch	Persistent inability to experience positive emotions
+Fragentext, Deutsch	Dauerhafte Unfähigkeit zum Erleben positiver Emotionen
+Fragentext, Englisch	Persistent inability to experience positive emotions
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium D
+
+ID	18
+Interner Name	Irritability
+Geprüftes Symptom	Kriterium E.1
+Symptomname, Deutsch	Reizbarkeit
+Symptomname, Englisch	Irritability
+Fragentext, Deutsch	Reizbarkeit und plötzliche Wutanfälle ohne direkten Grund gegenüber Gegenständen oder Personen
+Fragentext, Englisch	Irritable behavior and angry outbursts without direct provocation toward objects or people
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium E
+
+ID	19
+Interner Name	Self_destructiveness
+Geprüftes Symptom	Kriterium E.2
+Symptomname, Deutsch	Selbstzerstörisches Verhalten
+Symptomname, Englisch	Self-destructiveness
+Fragentext, Deutsch	Rücksichtsloses oder selbstzerstörisches Verhalten (z.B. viel zu schnelles Fahren, exzessiver Konsum von Alkohol oder Drogen, exzessives Eingehen von Risiken, etc.)
+Fragentext, Englisch	Reckless or self-destructive behavior (e.g., driving far too fast, excessive consumption of alcohol or drugs, excessive risk taking, etc.)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium E
+
+ID	20
+Interner Name	Hypervigilance
+Geprüftes Symptom	Kriterium E.3
+Symptomname, Deutsch	Hypervigilanz
+Symptomname, Englisch	Hypervigilance
+Fragentext, Deutsch	Erhöhte Wachsamkeit oder Wachheit
+Fragentext, Englisch	Increased alertness
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium E
+
+ID	21
+Interner Name	Startle_response
+Geprüftes Symptom	Kriterium E.4
+Symptomname, Deutsch	Extreme Schreckhaftigkeit
+Symptomname, Englisch	Exaggerated startle response
+Fragentext, Deutsch	Extreme Schreckhaftigkeit
+Fragentext, Englisch	Exaggerated startle response or jumpiness
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium E
+
+ID	22
+Interner Name	Reduced_concentration
+Geprüftes Symptom	Kriterium E.5
+Symptomname, Deutsch	Konzentrationsprobleme
+Symptomname, Englisch	Problems with concentration
+Fragentext, Deutsch	Konzentrationsprobleme
+Fragentext, Englisch	Problems with concentration
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium E
+
+ID	23
+Interner Name	Sleep_disturbance
+Geprüftes Symptom	Kriterium E.6
+Symptomname, Deutsch	Schlafstörungen
+Symptomname, Englisch	Sleep disturbances
+Fragentext, Deutsch	Schlafstörungen (z.B. Schwierigkeiten einzuschlafen oder durchzuschlafen, ruheloser Schlaf)
+Fragentext, Englisch	Sleep disturbances (e.g., difficulty falling or staying asleep or restless sleep)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium E
+
+Fragen-Begleittext ab hier, deutsch: Bitte geben Sie an, ob eine der folgenden Fragen auf die vorhin von Ihnen gewählten Symptome zutrifft:
+Fragen-Begleittext ab hier, english: Please indicate if one of the following questions applies to the symptoms chosen by you previously:
+
+ID	24
+Interner Name	Duration_more_than_one_month
+Geprüftes Symptom	Kriterium F
+Symptomname, Deutsch	Symptomdauer länger als ein Monat
+Symptomname, Englisch	Duration of symptoms more than a month
+Fragentext, Deutsch	Anhaltende Symptome für mehr als einen Monat
+Fragentext, Englisch	Persistent symptoms for more than one month
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium F
+
+ID	25
+Interner Name	Significant_distress
+Geprüftes Symptom	Kriterium G
+Symptomname, Deutsch	Deutliches Leid oder Einschränkungen durch Symptome
+Symptomname, Englisch	Significant distress or impairment because of symptoms
+Fragentext, Deutsch	Deutliches Leid oder Einschränkungen in sozialen, beruflichen oder anderen wichtigen Bereichen
+Fragentext, Englisch	Significant distress or impairment in social, occupational or other important areas?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium G
+
+Technische Anmerkung: Die Diagnose PTSD wird gestellt, wenn die folgende Anzahl an Fragen bejaht wurde:
+-	Min. eine Frage aus Kriterium A
+-	Min. eine Frage aus Kriterium B
+-	Min. eine Frage aus Kriterium C
+-	Min. zwei Fragen aus Kriterium D
+-	Min. zwei Fragen aus Kriterium E
+-	Die Frage aus Kriterium F
+-	Die Frage aus Kriterium G
+##END OF FILE##

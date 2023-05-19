@@ -1,0 +1,171 @@
+Major Depressive Disorder
+Diagnosetitel, deutsch: Major Depression (unipolare depressive Störung)
+Diagnosetitel, englisch: Major Depressive Disorder
+
+### INFOTEXT DEUTSCH ANFANG ###
+Die klassische Depression ist eine psychische Störung, die sich durch gedrückte Stimmung, Interesse- und Freudlosigkeit und mangelnden Antrieb auszeichnet. Sie verläuft oft in Phasen wechselnder Krankheitsschwere.
+Depression ist nicht mit „normaler“ Traurigkeit zu verwechseln, da die Depression sich durch eine Dämpfung aller Gefühle auszeichnet.
+
+Häufigkeit:
+Die Depression ist die häufigste psychische Erkrankung. Ihre Fallzahlen schwanken aber in der Fachliteratur aufgrund einer hohen Dunkelziffer stark. Es wird jedoch meist davon ausgegangen, dass in Deutschland etwa 10% der Bevölkerung mindestens einmal in ihrem Leben an einer behandlungsbedürftigen Depression erkranken. In Österreich leiden innerhalb eines Jahres mindestens 9,8% der Teilnehmer einer Studie an einer Depression.
+
+Ursachen:
+Die Ursachen für eine Depression sind nicht endgültig geklärt. Im derzeitigen biopsychosozialen Krankheitsmodell geht man aber davon aus, dass Depressionen multikausal sowohl durch genetische Disposition als auch durch Umweltfaktoren verursacht werden.
+
+Symptome:
+Kennzeichnend für eine Depression ist eine depressive, gedrückte Stimmung, ein Verlust an Interessen und eine Reduktion des Antriebs. Ebenfalls können eine Vielfalt weiterer Symptome wie vegetative Störungen (Störungen des Appetits, des Schlafs oder der sexuellen Aktivität, psychomotorische Störungen), verringerte Konzentrationsfähigkeit und Aufmerksamkeit, negative Gedanken und Gedankenkreisen, Selbstwertprobleme, erhöhte Infektanfälligkeit und vieles mehr auftreten. Auch wahnhafte Züge können während einer Depression auftreten.
+Desweiteren bestehen während einer Depression häufig Komorbiditäten mit anderen psychischen Erkrankungen wie Angststörungen.
+Depressionen sind sehr gefährliche Erkrankungen, die häufig mit einer erhöhten Suizidneigung einhergehen. Es wird vermutet, dass der größte Teil der Suizide auf Depressionen zurückzuführen ist.
+
+Verlauf:
+Depressionen verlaufen üblicherweise episodisch und phasenhaft. Oft wird ein Aufklaren der Stimmung für das Ende der Depression gehalten und dann die Behandlung abgebrochen, was zu einem erneuten Auftreten der Symptome führen kann. Aus diesem Grund soll eine Behandlung auch nach einer scheinbaren Erholung noch mindestens ein halbes Jahr weitergeführt werden.
+Ebenfalls häufig ist eine Depression mit etwas milderer Symptomatik und saisonalem Verlauf (die sogenannte „Winterdepression“).
+Depressionen tendieren dazu, ohne Behandlung zu chronifizieren.
+
+Behandlung:
+Der Goldstandard in der Behandlung der Depression ist die Psychotherapie, bei schwereren Depressionen zusätzlich durch eine medikamentöse Behandlung unterstützt.
+Bei leichteren Verlaufsformen und vor allem bei der Winterdepression hat sich auch die sogenannte „Lichttherapie“ bewährt.
+
+Weiterführende Informationen:
+https://www.deutsche-depressionshilfe.de/start
+https://depressionsliga.de/
+https://www.buendnis-depression.at/
+https://www.sozialversicherung.at/cdscontent/load?contentid=10008.715373
+http://www.depression.at/
+
+### INFOTEXT DEUTSCH ENDE ###
+
+### INFOTEXT ENGLISCH ANFANG ###
+##SHORT DESCRIPTION##
+Depression is a psychic disorder which is characterized by a persistent feeling of sadness and a loss of interest, joy and motivation.  //ToDo
+Depression is distinguishable from “ordinary” sadness as it dampens all emotions.
+
+Prevalence:
+Depression is the most common psychic disorder.   Precise case numbers in literature fluctuate though because of a high number of unreported or undiagnosed cases. Nevertheless, it is often presumed that about 10% of germans’ population disease at least once in their lifetime with depression that requires treatment. In Austria at least 9.5% of participants of a study suffer from depression within a year.
+
+Causes:
+Causes for developing depression are not entirely determined. Currently it is assumed   that depression is multi-causal, caused by both genetic disposition well as environmental factors.
+
+Symptoms:
+Depression is characterized by a dampened, depressed mood, loss of interests and decrease of motivation and drive. Furthermore, a variety of additional symptoms such as vegetative disorder (reduced appetite, sleep disturbances, loss of libido, psychomotor disorder  ), decrease in concentration and attentiveness, negative thoughts and thought loops, self-esteem issues, susceptibility to infections may occur. 
+Additionally other psychic disorders often develop as a  comorbidity to depression such as anxiety disorder. 
+Depression is a very dangerous illness, often accompanied by a increased suicidal ideation. Therefore it is assumed that the vast majority of suicides are attributed to depression.
+
+Course:
+Depression usually occurs is periodic episodes. Often an episode of brighten mood is mistaken as the end of the depression and treatments get interrupted.
+
+Treatment:
+##TEXT##
+
+Additional information:
+##LINKS##
+
+### INFOTEXT ENGLISCH ENDE ###
+
+
+DSM-V Diagnostik
+
+Technische Anmerkung: Von den folgenden Symptomen müssen fünf oder mehr innerhalb desselben zweiwöchigen Zeitraums auftreten, mindestens eines der Symptome muss Symptom (1) oder Symptom (2) sein.
+
+Einleitungssatz am Anfang des Fragebogens, deutsch: Bitte geben Sie für die folgenden Symptome an, ob sie bei Ihnen in den letzten beiden Wochen aufgetreten sind.
+Bitte geben Sie nur solche Symptome an, die nicht direkt auf körperliche Auswirkungen von Suchtmitteln (inklusive Alkohol), Medikamenten oder anderen Krankheiten zurückzuführen sind.
+Einleitungssatz am Anfang des Fragebogens, english: Please indicate if the following symptoms have been present in the last two weeks.
+Please choose only symptoms which are not attributable to the physiological effects of addictive substances (including alcohol), medication or another medical condition.
+
+ID	1
+Interner Name	Depressed_mood
+Geprüftes Symptom	Depressed mood
+Symptomname, Deutsch	Depressive Stimmung
+Symptomname, Englisch	Depressed mood
+Fragentext, Deutsch	Depressive Stimmung; Gefühle der Trauer, Hoffnungslosigkeit, innerer Leere
+Fragentext, Englisch	Depressed mood; feelings of sadness, hopelessness, emptiness
+Antwortformat	Ja/nein/weiß nicht
+ 
+ID	2
+Interner Name	Diminished_interest
+Geprüftes Symptom	Diminished interest/pleasure
+Symptomname, Deutsch	Verringertes Interesse, verringerte Fähigkeit Freude zu empfinden
+Symptomname, Englisch	Diminished Interest, diminished ability to experience joy
+Fragentext, Deutsch	Deutlich verringertes Interesse an nahezu allen Aktivitäten für den größten Teil des Tages, deutlich verringerte Fähigkeit Freude an solchen Aktivitäten zu empfinden
+Fragentext, Englisch	Markedly diminished interest or pleasure in almost all activities most of the day
+Antwortformat	Ja/nein/weiß nicht
+
+ID	3
+Interner Name	Weight_dysregulation
+Geprüftes Symptom	Weight or appetite dysregulation
+Symptomname, Deutsch	Unbeabsichtigter Gewichtsverlust oder -zunahme
+Symptomname, Englisch	Unintended loss or gain of weight
+Fragentext, Deutsch	Unbeabsichtigter Verlust oder Zunahme von Körpergewicht um mehr als 5% innerhalb eines Monats oder deutliche Zunahme oder Verringerung des Appetits
+Fragentext, Englisch	Unintended loss or gain of body weight of more than 5% within one month or markedly increase or decrease in appetite
+Antwortformat	Ja/nein/weiß nicht
+Bemerkungen	Muss nur gestellt werden, wenn (1) oder (2) positiv beantwortet wurde
+
+ID	4
+Interner Name	Insomnia
+Geprüftes Symptom	Insomnia
+Symptomname, Deutsch	Schlafstörungen
+Symptomname, Englisch	Sleep disturbances
+Fragentext, Deutsch	Schlaflosigkeit oder deutlich erhöhtes Schlafbedürfnis
+Fragentext, Englisch	Sleeplessness or markedly increase of sleep need
+Antwortformat	Ja/nein/weiß nicht
+Bemerkungen	Muss nur gestellt werden, wenn (1) oder (2) positiv beantwortet wurde
+
+ID	5
+Interner Name	Psychomotor_disturbance
+Geprüftes Symptom	Psychomotor disturbance
+Symptomname, Deutsch	Psychomotorische Störung
+Symptomname, Englisch	Psychomotor disturbance
+Fragentext, Deutsch	Agitation und schwer kontrollierbarer Bewegungsdrang oder stark reduziertes Bewegungsbedürfnis, was tatsächlich in deutlich erhöhten oder reduzierten Bewegungsausmaß resultiert
+Fragentext, Englisch	Psychomotor agitation and difficulty to contain urges to move or markedly decreased drive for movement, resulting in actual increased or decreased body movements
+Antwortformat	Ja/nein/weiß nicht
+Bemerkungen	Muss nur gestellt werden, wenn (1) oder (2) positiv beantwortet wurde
+
+ID	6
+Interner Name	Fatigue
+Geprüftes Symptom	Fatigue
+Symptomname, Deutsch	Erschöpfung
+Symptomname, Englisch	Fatigue
+Fragentext, Deutsch	Erschöpfung oder Gefühl mangelnder Energie
+Fragentext, Englisch	Fatigue or loss of energy
+Antwortformat	Ja/nein/weiß nicht
+Bemerkungen	Muss nur gestellt werden, wenn (1) oder (2) positiv beantwortet wurde
+
+ID	7
+Interner Name	Worthlessness_guilt
+Geprüftes Symptom	Feelings of worthlessness or guilt
+Symptomname, Deutsch	Gefühle der Wertlosigkeit oder Schuldgefühle
+Symptomname, Englisch	Feelings of worthlessness or guilt
+Fragentext, Deutsch	Starkes Gefühl der Wertlosigkeit oder deutliche Schuldgefühle (ausgenommen Gefühle der Schuld bezogen auf das aktuelle Krank-sein)
+Fragentext, Englisch	Feelings of worthlessness or excessive or inappropriate guilt (except feelings of guilt for being sick)
+Antwortformat	Ja/nein/weiß nicht
+Bemerkungen	Muss nur gestellt werden, wenn (1) oder (2) positiv beantwortet wurde
+
+ID	8
+Interner Name	Diminished_concentration
+Geprüftes Symptom	Trouble concentrating
+Symptomname, Deutsch	Konzentrationsstörungen
+Symptomname, Englisch	Trouble concentrating
+Fragentext, Deutsch	Reduzierte Konzentration; Schwierigkeiten, klar zu denken oder Schwierigkeiten, Entscheidungen zu fällen
+Fragentext, Englisch	Diminished ability to think or concentrate, or indecisiveness
+Antwortformat	Ja/nein/weiß nicht
+Bemerkungen	Muss nur gestellt werden, wenn (1) oder (2) positiv beantwortet wurde
+
+ID	9
+Interner Name	Suicidality
+Geprüftes Symptom	Suicidality
+Symptomname, Deutsch	Suizidalität
+Symptomname, Englisch	Suicidality
+Fragentext, Deutsch	Wiederkehrende Gedanken an den Tod, wiederkehrende Gedanken an Selbstmord ohne konkreten Plan zur Umsetzung, bereits ausgeführter Selbstmordversuch oder bereits vorhandener Plan zur Selbsttötung
+Fragentext, Englisch	Recurrent thoughts of death, recurrent thoughts about suicide without a specific plan, suicide attempt or a specific plan for committing suicide
+Antwortformat	Ja/nein/weiß nicht
+Bemerkungen	Muss nur gestellt werden, wenn (1) oder (2) positiv beantwortet wurde
+Wird diese Frage bejaht, muss dem User ein Hinweis mit Notfall- und Kriseninterventions-Telefonnummern angezeigt werden!
+
+Technische Anmerkung: Wenn eine der folgenden Krankheiten im Test als vorhanden beurteilt wird, darf NICHT gleichzeitig Major Depression als vorhanden beurteilt werden:
+●	Schizoaffective disorder / Schizoaffektive Störung
+●	Schizophrenia / Schizophrenia
+●	Schizophreniform disorder / Schizophreniforme Störung
+●	Delusional disorder / Wahnhafte Störung
+●	Other specified and unspecified schizophrenia spectrum and psychotic disorders / Andere spezifizierte oder unspezifizierte Störungen aus dem schizophrenen Spektrum oder psychotische Störungen
+Ebenfalls darf die Diagnose Major Depression nicht gestellt werden, wenn eine manische oder hypomanische Episode in einem anderen Fragebogen diagnostiziert wurde, AUSSER alle manischen oder hypomanischen Episoden wurden von Substanzmissbrauch ausgelöst
+## END OF FILE ##

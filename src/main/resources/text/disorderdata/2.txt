@@ -1,0 +1,346 @@
+Autism Spectrum Disorder
+Diagnosetitel, deutsch: Autismus-Spektrum-Störung
+Diagnosetitel, englisch: Autism Spectrum Disorder
+
+### INFOTEXT DEUTSCH ANFANG ###
+Autismus ist eine tiefgreifende Störung der neurologischen Entwicklung mit unbekannter Ursache. Der Störung liegt eine fundamentale Störung der Wahrnehmungs- und Informationsverarbeitung des Gehirns zugrunde, die sich unter anderem in Reizüberflutung durch mangelnde Filterung externer Reize, Störungen in der sozialen Entwicklung und repetitiven (sich wiederholenden, stereotypen) Verhaltensmustern ausdrückt.
+Die Störung ist sehr komplex und umfasst viele Untertypen und Varianten.
+
+Häufigkeit:
+In den USA und anderen Ländern wurde in den letzten Jahren eine Häufigkeit von Autismus-Spektrum-Störungen nahe 1% in der Gesamtbevölkerung festgestellt. (American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition. Arlington, VA, American Psychiatric Association, 2013.) 
+
+Ursachen:
+Für Autismus-Spektrum-Störungen wird heute hauptsächlich eine genetische Störung der Hirnentwicklung angenommen, bei der unter anderem eine von der Norm abweichende Konnektivität zwischen unterschiedlichen Hirnarealen festgestellt wurde.
+Die Vorstellung, das Autismus-Spektrum-Störungen durch Impfungen verursacht werden, gilt als eindeutig widerlegt.
+
+Symptome:
+Im DSM-5 werden die grundlegenden Eigenschaften von Autismus-Spektrum-Störungen wie folgt eingeteilt:
+Kriterium A: Dauerhafte Beeinträchtigung in wechselseitiger sozialer Kommunikation und in sozialer Interaktion
+Kriterium B: Eingeschränkte und repetitive Verhaltensweisen, Interessen oder Aktivitäten
+Kriterium C und D: Kriterium A und B müssen von früher Kindheit an nachweisbar sein und die täglichen Aktivitäten deutlich beeinträchtigen
+
+Verlauf:
+Autismus-Spektrum-Störungen sind keine degenerativen Krankheiten und verschlimmern sich in der Regel nicht. Betroffene lernen im Verlauf ihres Lebens eher, die spezifischen Symptome und Beeinträchtigungen ihrer Krankheit zu kompensieren, wenn nicht zusätzlich eine deutliche Intelligenzminderung oder andere psychische Störungen gleichzeitig bestehen.
+
+Behandlung:
+Da die Ursache von Autismus-Spektrum-Störungen nach wie vor unbekannt ist, ist sie einer therapeutischen Beeinflussung leider nicht zugänglich.
+Therapeutische Interventionen beinhalten daher gezielte Trainings mit den Betroffenen und ihren Angehörigen wie Kommunikationstrainings, die bestimmte Defizite ausgleichen sollen. Auch eine Anpassung der Umwelt an die Bedürfnisse des/der Betroffenen sind wichtige Therapieziele.
+
+Weiterführende Informationen:
+https://www.neurologen-und-psychiater-im-netz.org/kinder-jugendpsychiatrie-psychosomatik-und-psychotherapie/stoerungen-erkrankungen/autismus-spektrum-stoerung-ass/stoerungsbild/
+https://www.autismus.de/
+https://www.autistenhilfe.at/
+https://www.gesundheit.gv.at/krankheiten/psyche/diagnose-therapie
+
+### INFOTEXT DEUTSCH ENDE ###
+
+### INFOTEXT ENGLISCH ANFANG ###
+
+Prevalence:
+##TEXT##
+
+Causes:
+##TEXT##
+
+Symptoms:
+##TEXT##
+
+Course:
+##TEXT##
+
+Treatment:
+##TEXT##
+
+Additional information:
+https://www.neurologen-und-psychiater-im-netz.org/kinder-jugendpsychiatrie-psychosomatik-und-psychotherapie/stoerungen-erkrankungen/autismus-spektrum-stoerung-ass/stoerungsbild/
+https://www.autismus.de/
+https://www.autistenhilfe.at/
+https://www.gesundheit.gv.at/krankheiten/psyche/diagnose-therapie
+
+### INFOTEXT ENGLISCH ENDE ###
+
+
+DSM-V Diagnostik
+
+Technische Anmerkung: Für Autismus-Spektrum-Störungen gibt es vier diagnostische Kriterien, von denen die ersten zwei jeweils mehrere symptomatische Fragen beinhalten. Wird auch nur eine dieser symptomatischen Fragen bei Kriterium A bejaht, wird es als vorhanden angenommen. Bei Kriterium B müssen mindestens zwei Fragen bejaht werden.
+Jedes Unterkriterium (wie z.B. Kriterium A.1) gilt als bejaht, wenn mindestens eine Frage daraus bejaht wurde.
+Werden alle Kriterien A-D bejaht, wird die Diagnose Autismus-Spektrum-Störungen gestellt – fehlt auch nur eines der Kriterien, wird keine Diagnose gestellt
+
+Einleitungssatz am Anfang des Fragebogens, deutsch: Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.
+Bitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen
+Einleitungssatz am Anfang des Fragebogens, english: Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. 
+Please choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders.
+
+ID	0
+Interner Name	Social_reciprocity_deficit_1
+Geprüftes Symptom	Deficit in social-emotional reciprocity, Criterion A
+Symptomname, Deutsch	Gestörte Annäherung an andere
+Symptomname, Englisch	Abnormal social approach
+Fragentext, Deutsch	Haben Sie häufig auffällige Probleme, auf andere sozial zuzugehen?
+Fragentext, Englisch	Do you often have noticeable problems approaching others socially?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.1
+
+ID	1
+Interner Name	Social_reciprocity_deficit_2
+Geprüftes Symptom	Deficit in social-emotional reciprocity, Criterion A
+Symptomname, Deutsch	Gestörte wechselseitige Kommunikation
+Symptomname, Englisch	Failure of normal back-and-forth conversation
+Fragentext, Deutsch	Haben Sie häufig Probleme damit, ein Gespräch wechselseitig zu gestalten, also beispielsweise zu erkennen, wann sie an der Reihe sind zu sprechen oder ein Gespräch überhaupt aufrechtzuerhalten?
+Fragentext, Englisch	Do you often have problems with normal back-and-forth conversation, for example problems with noticing when it is your turn to speak or keeping conversations going at all?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.1
+
+ID	2
+Interner Name	Social_reciprocity_deficit_3
+Geprüftes Symptom	Deficit in social-emotional reciprocity, Criterion A
+Symptomname, Deutsch	Verringertes Teilen von Interessen und Gefühlen mit anderen
+Symptomname, Englisch	Reduced sharing of interests and emotions with others
+Fragentext, Deutsch	Tendieren sie auffällig häufig dazu, ihre Interessen, Gefühle und Gedanken nicht mit anderen zu teilen?
+Fragentext, Englisch	Do you often and noticeably tend to not share your interests, feelings and thoughts with others?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.1
+
+ID	3
+Interner Name	Social_reciprocity_deficit_4
+Geprüftes Symptom	Deficit in social-emotional reciprocity, Criterion A
+Symptomname, Deutsch	Unvermögen, soziale Interaktionen zu beginnen oder darauf zu reagieren
+Symptomname, Englisch	Failure to initiate or respond to social interactions
+Fragentext, Deutsch	Haben Sie häufig Schwierigkeiten, soziale Interaktionen mit anderen zu beginnen oder auf solche Interaktionen zu reagieren?
+Fragentext, Englisch	Do you often have problems with initiating social interactions with others or to respond to such interactions?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.1
+
+ID	4
+Interner Name	Nonverbal_deficit_1
+Geprüftes Symptom	Deficit in nonverbal communicative behaviors, Criterion A
+Symptomname, Deutsch	Fehlende Übereinstimmung verbaler und nichtverbaler Kommunikation
+Symptomname, Englisch	Lack of match between verbal and nonverbal communication
+Fragentext, Deutsch	Haben Sie den Eindruck, dass oft ihre Körpersprache nicht zu dem passt, was Sie sagen, oder haben andere Ihnen das öfters gesagt?
+Fragentext, Englisch	Do you think that your body language does not match what you are saying verbally, or have others told you so several times?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.2
+
+ID	5
+Interner Name	Nonverbal_deficit_2
+Geprüftes Symptom	Deficit in nonverbal communicative behaviors, Criterion A
+Symptomname, Deutsch	Auffälligkeiten im Augenkontakt oder in der Körpersprache
+Symptomname, Englisch	Abnormalities in eye contact and body language
+Fragentext, Deutsch	Haben Sie den Eindruck Schwierigkeiten damit zu haben, normalen Augenkontakt aufrechtzuerhalten oder eine adäquate Körpersprache zu verwenden, oder haben andere Ihnen das öfters gesagt?
+Fragentext, Englisch	Do you think that you have difficulties with normal eye contact or using adequate body language, or have others told you so several times?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.2
+
+ID	6
+Interner Name	Nonverbal_deficit_3
+Geprüftes Symptom	Deficit in nonverbal communicative behaviors, Criterion A
+Symptomname, Deutsch	Defizite im Verständnis und Gebrauch von Gesten
+Symptomname, Englisch	Deficits in understanding and use of gestures
+Fragentext, Deutsch	Haben Sie Schwierigkeiten damit, körperliche Gesten anderer zu verstehen und selbst solche Gesten zu verwenden?
+Fragentext, Englisch	Do you have difficulties with understanding physical gestures of others or using such gestures yourself?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.2
+
+ID	7
+Interner Name	Nonverbal_deficit_4
+Geprüftes Symptom	Deficit in nonverbal communicative behaviors, Criterion A
+Symptomname, Deutsch	Starrer Gesichtsausdruck und fehlen nichtverbaler Kommunikation
+Symptomname, Englisch	Lack of facial expression and nonverbal communication
+Fragentext, Deutsch	Haben Sie den Eindruck, über einen starren Gesichtsausdruck und einen Mangel an nichtverbaler Kommunikation/Körpersprache zu verfügen, oder haben andere Ihnen das öfters gesagt?
+Fragentext, Englisch	Do you think that you lack facial expressions and nonverbal communicative behaviors/body language, or have others told you so several times?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.2
+
+ID	8
+Interner Name	Relationship_deficit_1
+Geprüftes Symptom	Deficit in relationships, Criterion A
+Symptomname, Deutsch	Schwierigkeiten, das Verhalten an soziale Kontexte anzupassen
+Symptomname, Englisch	Difficulties of adjusting behavior to social contexts
+Fragentext, Deutsch	Haben Sie auffällige Schwierigkeiten darin, ihr Verhalten an soziale Kontexte anzupassen, sich also der Situation entsprechend zu verhalten?
+Fragentext, Englisch	Do you have noticeably difficulties in adjusting your behavior to social contexts like choosing behaviors appropriate for a given situation?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.3
+
+ID	9
+Interner Name	Relationship_deficit_2
+Geprüftes Symptom	Deficit in relationships, Criterion A
+Symptomname, Deutsch	Schwierigkeiten, Freunde zu gewinnen
+Symptomname, Englisch	Difficulties in making friends
+Fragentext, Deutsch	Haben Sie auffällige Schwierigkeiten darin, Freunde zu gewinnen?
+Fragentext, Englisch	Do you have noticeable difficulties in making friends?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.3
+
+ID	10
+Interner Name	Relationship_deficit_3
+Geprüftes Symptom	Deficit in relationships, Criterion A
+Symptomname, Deutsch	Nicht vorhandenes Interesse an anderen
+Symptomname, Englisch	Absence of interest in peers
+Fragentext, Deutsch	Fehlt Ihnen fast immer das Interesse an anderen?
+Fragentext, Englisch	Do you exhibit an absence of interest in peers/others?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium A.3
+
+ID	11
+Interner Name	Stereotyped_behavior_1
+Geprüftes Symptom	Stereotyped behavior, Criterion B
+Symptomname, Deutsch	Stereotype oder repetitive Bewegungen
+Symptomname, Englisch	Stereotyped or repetitive motor movements
+Fragentext, Deutsch	Verfügen Sie über Bewegungsmuster, die sie häufig auf stereotype oder repetitive Weise wiederholen?
+Fragentext, Englisch	Do you exhibit patterns of movement, which you often repeat stereotypically or repetitively?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.1
+
+ID	12
+Interner Name	Stereotyped_behavior_2
+Geprüftes Symptom	Stereotyped behavior, Criterion B
+Symptomname, Deutsch	Stereotype Verwendung von Objekten
+Symptomname, Englisch	Stereotyped use of objects
+Fragentext, Deutsch	Verwenden Sie oft Objekte auf stereotype oder sich wiederholende Weise, beispielsweise durch Anordnung von Objekten auf eine bestimmte Weise oder die Ausrichtung einer Gruppe von Objekten in eine bestimmte Richtung?
+Fragentext, Englisch	Do you often use objects in a stereotypically or repetitive manner, like lining up objects in specific patterns or aligning groups of objects in certain directions?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.1
+
+ID	13
+Interner Name	Stereotyped_behavior_3
+Geprüftes Symptom	Stereotyped behavior, Criterion B
+Symptomname, Deutsch	Stereotype Verwendung von Sprache
+Symptomname, Englisch	Stereotyped use of speech
+Fragentext, Deutsch	Verwenden Sie oft Sprache auf eine stereotype oder sich wiederholende Weise, beispielsweise indem sie ständig wiederholen, was andere sagen, oder häufig Phrasen verwenden, die andere sehr eigentümlich finden?
+Fragentext, Englisch	Do you often use language in a stereotypical or repetitive manner, like echoing back what others say often, or often using phrases others find very peculiar?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.1
+
+ID	14
+Interner Name	Inflexibility_1
+Geprüftes Symptom	Inflexibility and insistence on sameness, Criterion B
+Symptomname, Deutsch	Widerstand gegen Änderungen
+Symptomname, Englisch	Resistance to changes
+Fragentext, Deutsch	Beeinträchtigt es Ihr Wohlbefinden auf deutliche Weise, wenn Routinen nicht eingehalten werden oder sich Kleinigkeiten ändern, oder wenn sich irgendetwas verändert?
+Fragentext, Englisch	Does it impact your wellbeing extremely if routines change, do you exhibit extreme distress at small changes or have difficulties with any changes?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.1
+
+ID	15
+Interner Name	Inflexibility_2
+Geprüftes Symptom	Inflexibility and insistence on sameness, Criterion B
+Symptomname, Deutsch	Rigide Denkmuster
+Symptomname, Englisch	Rigid thinking patterns
+Fragentext, Deutsch	Gibt es starre Denkmuster, an denen Sie oft intensiv festhalten, auch wenn Sie sie eigentlich ändern sollten?
+Fragentext, Englisch	Do you exhibit rigid and fixed thinking patterns you are holding on to intensively, even though you should actually change them?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.1
+
+ID	16
+Interner Name	Inflexibility_3
+Geprüftes Symptom	Inflexibility and insistence on sameness, Criterion B
+Symptomname, Deutsch	Rituale
+Symptomname, Englisch	Rituals
+Fragentext, Deutsch	Gibt es feste und eigentümliche Rituale, an denen Sie unbedingt festhalten müssen, wie beispielsweise feste Begrüßungsrituale?
+Fragentext, Englisch	Do you have fixed and peculiar rituals you have to adhere to at any cost, like fixed greeting rituals?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.1
+
+ID	17
+Interner Name	Inflexibility_4
+Geprüftes Symptom	Inflexibility and insistence on sameness, Criterion B
+Symptomname, Deutsch	Unflexible Routinen
+Symptomname, Englisch	Inflexible routines
+Fragentext, Deutsch	Haben Sie feste Routinen, von denen nicht abgewichen werden darf, wie einen bestimmten Weg immer wieder genau so zu gehen oder jeden Tag dasselbe zu essen?
+Fragentext, Englisch	Do you have fixed routines from which no deviation is allowed, like taking the same route again and again or eating the same food every day?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.1
+
+ID	18
+Interner Name	Fixations_1
+Geprüftes Symptom	Highly restricted, fixated interests, Criterion B
+Symptomname, Deutsch	Abnormer Bezug zu Objekten
+Symptomname, Englisch	Abnormal relationship to objects
+Fragentext, Deutsch	Haben Sie eine sehr starke emotionale Bindung zu ungewöhnlichen Objekten, oder beschäftigen Sie sich außergewöhnlich oft mit solchen?
+Fragentext, Englisch	Do you have a very strong emotional attachment to unusual objects, or are you preoccupied extraordinarily often with such objects?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.2
+
+ID	19
+Interner Name	Fixations_2
+Geprüftes Symptom	Highly restricted, fixated interests, Criterion B
+Symptomname, Deutsch	Eingeschränkte, fixierte Interessen
+Symptomname, Englisch	Restricted, fixated interests
+Fragentext, Deutsch	Haben Sie stark eingeschränkte Interessen, mit denen Sie sich unter Ausschluss von fast allem anderen beschäftigen oder um die Ihre Gedanken permanent kreisen?
+Fragentext, Englisch	Do you have strongly restricted interests, with which you engage while excluding nearly anything else, or with which you are permanently preoccupied mentally?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.2
+
+ID	20
+Interner Name	HyperHypoReactivity_1
+Geprüftes Symptom	Hyper- or hyporeactivity to sensory input, Criterion B
+Symptomname, Deutsch	Anscheinende Gleichgültigkeit gegenüber Schmerz/Temperaturunterschieden
+Symptomname, Englisch	Apparent Indifference to pain/temperature
+Fragentext, Deutsch	Scheinen Sie oft gleichgültig gegenüber Schmerzen oder deutlichen Temperaturunterschieden zu sein?
+Fragentext, Englisch	Do you often seem to be indifferent to pain or considerable differences in temperature?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.2
+
+ID	21
+Interner Name	HyperHypoReactivity_1
+Geprüftes Symptom	Hyper- or hyporeactivity to sensory input, Criterion B
+Symptomname, Deutsch	Starke Abneigung gegenüber Geräuschen oder Texturen
+Symptomname, Englisch	Marked adverse response to specific sounds or textures
+Fragentext, Deutsch	Gibt es bestimmte Geräusche oder bestimmte Oberflächen oder Gegenstände, die sich für sie extrem unangenehm anfühlen, für die meisten anderen Menschen aber offenbar relativ normal sind?
+Fragentext, Englisch	Do certain sounds, surfaces or objects exist, which feel extremely unpleasant to you, while apparently being relatively normal for other people?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.2
+
+ID	22
+Interner Name	HyperHypoReactivity_1
+Geprüftes Symptom	Hyper- or hyporeactivity to sensory input, Criterion B
+Symptomname, Deutsch	Exzessives riechen an oder berühren von Objekten
+Symptomname, Englisch	Excessive smelling or touching of objects
+Fragentext, Deutsch	Gibt es Objekte, an denen Sie außergewöhnlich oft riechen oder die sie außergewöhnlich anfassen, so dass es für andere auffällig ist?
+Fragentext, Englisch	Do certain objects exist, which you smell or touch excessively often, so that others take note of it?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.2
+
+ID	23
+Interner Name	HyperHypoReactivity_1
+Geprüftes Symptom	Hyper- or hyporeactivity to sensory input, Criterion B
+Symptomname, Deutsch	Visuelle Faszination für Licht oder Bewegung
+Symptomname, Englisch	Visual fascination with lights or movement
+Fragentext, Deutsch	Gibt es bestimmte Lichteffekte, Bewegungen oder ähnliches, von dem sie den Blick kaum abwenden können?
+Fragentext, Englisch	Do certain light effects or movements exist, from which you hardly can avert your gaze?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium B.2
+
+ID	24
+Interner Name	CriterionC
+Geprüftes Symptom	Kriterium C
+Symptomname, Deutsch	Vorhandensein von Symptomen in früher Entwicklung
+Symptomname, Englisch	Presence of symptoms in early development
+Fragentext, Deutsch	Sind die Symptome, die sie bejaht haben, schon in ihrer Kindheit oder Jugend vorhanden gewesen, wenn auch vielleicht in einem geringeren Ausmaß?
+Fragentext, Englisch	Have all Symptoms you have chosen been present in your childhood or teenage years, even if they were less obvious?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium C
+
+ID	25
+Interner Name	CriterionD
+Geprüftes Symptom	Kriterium D
+Symptomname, Deutsch	Signifikante Beeinträchtigung im Alltag
+Symptomname, Englisch	Significant impairment in everyday life
+Fragentext, Deutsch	Beeinträchtigen die Symptome, die Sie bejaht haben, Ihr Alltagsleben, Ihr soziales Leben, Ihre berufliche Tätigkeit oder andere wichtige Bereiche auf deutliche Weise?
+Fragentext, Englisch	Do the symptoms you have chosen impact your everyday life, your social life, your occupational life or other important areas strongly and negatively?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium D
+
+ID	26
+Interner Name	CriterionE
+Geprüftes Symptom	Kriterium E
+Symptomname, Deutsch	Diagnostizierte Intelligenzminderung oder Entwicklungsverzögerung
+Symptomname, Englisch	Diagnosed intellectual disability or global developmental delay
+Fragentext, Deutsch	Wurde bei Ihnen bereits eine Intelligenzminderung oder eine deutliche generelle Entwicklungsverzögerung diagnostiziert?
+Fragentext, Englisch	Have you ever been diagnosed with an intellectual disability or a global developmental delay?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Kriterium E
+
+Technische Anmerkung: Die Diagnose wird gestellt, IF:
+Criterion A = true AND Criterion B = true AND Criterion C = true AND Criterion D = true AND Criterion E = false
+##END OF FILE##

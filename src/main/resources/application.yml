@@ -1,0 +1,103 @@
+logging:
+  file.name: ./log/backend.log
+  level:
+    #org.hibernate.SQL: DEBUG
+    #org.hibernate.type: TRACE
+    root: INFO
+    at.ac.tuwien.sepm.groupphase.backend: DEBUG
+    org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping: TRACE
+
+spring:
+  datasource:
+    url: jdbc:h2:file:./database/db;AUTO_SERVER=TRUE;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    driver-class-name: org.h2.Driver
+    username: admin
+    password: password
+  jpa:
+    # Set this property to true if you want to see the executed queries
+    show-sql: false
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        enable_lazy_load_no_trans: true
+        dialect: org.hibernate.dialect.H2Dialect
+    # Allows to fetch lazy properties outside of the original transaction. Although this sounds helpful, the property
+    # is disabled since it breaks the principle of least astonishment and leads to bad performance. The learn more,
+    # follow this link: https://bit.ly/2LaX9ku
+    open-in-view: true
+  h2:
+    console:
+      enabled: true
+    open-in-view: false
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: MentalHealthChecker.tuwien.ac.at@gmail.com
+    password: ?7oVra4t3UnOTG5|y-7e?BGE$DU@s&i%
+    protocol: smtp
+    properties.mail.smtp:
+      auth: true
+      starttls.enable: true
+      connectiontimeout: 5000
+      timeout: 3000
+      writetimeout: 5000
+  thymeleaf:
+    prefix: classpath:/templates/
+
+security:
+  auth:
+    header: Authorization
+    prefix: "Bearer "
+    login-uri: /api/v1/login
+  jwt:
+    # Use http://www.allkeysgenerator.com/ to generate secrets
+    secret: aPdSgVkYp3s6v9y$B&E(H+MbQeThWmZq4t7w!z%C*F-JaNcRfUjXn2r5u8x/A?D(
+    type: JWT
+    issuer: secure-backend
+    audience: secure-app
+    # 12 hours in milliseconds
+    expiration-time: 43200000
+
+
+management:
+  server:
+    port: 8081
+  endpoint:
+    shutdown:
+      enabled: true
+    metrics:
+      enabled: true
+    prometheus:
+      enabled: true
+    health:
+      probes:
+        enabled: true
+  endpoints:
+    web:
+      exposure:
+        include:
+          - health
+          - info
+          - shutdown
+          - metrics
+          - env
+  metrics:
+    export:
+      prometheus:
+        enabled: true
+application:
+  registration:
+    emailSenderAddress: MentalHealthChecker.tuwien.ac.at@gmail.com
+    emailSenderName: Mental Health Checker User Registration
+    emailVerifyUri: http://localhost:4200/#/account/login/key?key=
+
+---
+spring:
+  config:
+    activate:
+      on-cloud-platform: kubernetes
+  lifecycle:
+    timeout-per-shutdown-phase: 30s
+server:
+  shutdown: graceful

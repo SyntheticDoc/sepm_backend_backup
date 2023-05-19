@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "version": 0,
+    "text": {
+      "de": {
+        "intro": "introDE",
+        "prevalence": "prevalenceDE",
+        "displayName": "displayNameDE",
+        "causes": "causesDE",
+        "symptoms": "symptomsDE",
+        "course": "courseDE",
+        "treatment": "treatmentDE",
+        "links": "linksDE"
+      },
+      "en": {
+        "intro": "introEN",
+        "prevalence": "prevalenceEN",
+        "displayName": "displayNameEN",
+        "causes": "causesEN",
+        "symptoms": "symptomsEN",
+        "course": "courseEN",
+        "treatment": "treatmentEN",
+        "links": "linksEN"
+      }
+    },
+    "modules": [
+      0
+    ],
+    "logic": "q0 AND q1",
+    "deleted": false
+  }
+]

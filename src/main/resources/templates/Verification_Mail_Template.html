@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" th:lang="${#locale.language}" >
+<head>
+    <title th:text="#{register.verify_email.content.title}"></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<p th:text="#{register.verify_email.content.greeting(${name})}"></p>
+<p th:utext="#{register.verify_email.content.body}"></p>
+<h3>
+    <a th:href="@{${hrefUrl}}" target="_self" th:text="#{register.verify_email.content.verify}">VERIFY</a>
+</h3>
+<p th:utext="#{register.verify_email.content.end}"></p>
+</body>
+</html>

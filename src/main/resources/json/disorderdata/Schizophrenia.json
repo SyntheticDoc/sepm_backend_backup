@@ -1,0 +1,380 @@
+{
+  "internalTitle" : "Schizophrenia",
+  "titleDe" : "Schizophrenie",
+  "titleEn" : "Schizophrenia",
+  "infodescriptionDe" : "Schizophrenie ist ein Sammelbegriff für eine sehr heterogene Gruppe unterschiedlicher Erkrankungen, die sich auf sehr verschiedene Weise äußern können. Ihnen allen gemeinsam sind erhebliche Störungen des gesamten inneren Erlebens und Verhaltens.\nEntgegen der Laienmeinung hat Schizophrenie nichts mit einer sogenannten „gespaltenen Persönlichkeit“ zu tun, auch das Vorkommen mehrerer Persönlichkeiten gleichzeitig ist kein Kennzeichen einer Schizophrenie.",
+  "infodescriptionEn" : "##SHORT DESCRIPTION##",
+  "infoprevalenceDe" : "Es wird angenommen, dass etwas 0,3%-0,7% der Bevölkerung in ihrem Leben irgendwann an Schizophrenie erkranken.",
+  "infoprevalenceEn" : "##TEXT##",
+  "infocausesDe" : "Erkrankungen aus dem schizophrenen Formenkreis werden meistens von einer Kombination von Faktoren verursacht, unter denen besonders biologische Faktoren eine prominente Rolle einnehmen. So sind neurologische Abweichungen von der Norm bei schizophrenen Patient_innen hinreichend dokumentiert, und genetische Ursachen spielen ebenso wie Komplikationen beim Geburtsvorgang eine wichtige Rolle.\nEs scheinen auch psychologische und soziale Faktoren an der Entstehung der Schizophrenie beteiligt zu sein, von denen viele allerdings noch nicht hinreichend erforscht sind.",
+  "infocausesEn" : "##TEXT##",
+  "infosymptomsDe" : "Typisch für Schizophrenien ist die Unterteilung in Positivsymptome und Negativsymptome. \nUnter Positivsymptome fallen typische Erscheinungsbilder wie formale Denkstörungen, desorganisiertes Verhalten, Halluzination und Wahn. \nNegativsymptome sind entschieden häufiger und umfassen Schwierigkeiten des emotionalen Ausdrucks bis hin zur völligen Emotionslosigkeit, unangepasster Affekt (beispielsweise Lachen, wenn man traurig ist), Desinteresse an anderen und sozialer Rückzug, Antriebsstörungen und Apathie.\nDa Schizophrenie ein Oberbegriff für eine ganze Reihe von Krankheiten ist, ist es nicht verwunderlich, dass man die Schizophrenie meist in weitere Untertypen unterteilt wie beispielsweise die paranoide Schizophrenie, die hebephrene Schizophrenie, die katatone Schizophrenie oder die Schizophrenia simplex.",
+  "infosymptomsEn" : "##TEXT##",
+  "infocourseDe" : "Die Schizophrenie kann sehr unterschiedlich schnell anfangen, sowohl akute Anfänge innerhalb von vier Wochen bis hin zu jahrelangem, sich zuspitzendem Verlauf (Schizophrenia simplex) ist die Spanne groß. Im akuten Schub steht meist die Positivsymptomatik im Vordergrund, während die sogenannten Residualphasen zwischen den Schüben von der Negativsymptomatik dominiert werden.\nPrognostisch kann man davon ausgehen, dass etwa ein Drittel aller Patient_innen mit Schizophrenie erfolgreich geheilt werden können oder zumindest eine starke Verbesserung der Symptomatik erzielt werden kann. Bei einem weiteren Drittel wird die Erkrankung über das Leben ungefähr gleich bleiben oder allenfalls eine leichte Verbesserung eintreten, während sich bei dem letzten Drittel leider die Krankheit immer weiter verschlechtert.",
+  "infocourseEn" : "##TEXT##",
+  "infotreatmentDe" : "Wie bei den meisten psychischen Störungen erfolgt auch hier die Behandlung multimodal. Ein sehr wichtiger Pfeiler der Behandlung ist die medikamentöse Therapie beispielsweise mit Neuroleptika, die einen akuten Schub durchbrechen können und oft erst weiterführende Maßnahmen möglich machen. Auch in der Vorbeugung vor erneuten Schüben nehmen Neuroleptika eine zentrale Stellung ein.\nDesweiteren gibt es auch eine Reihe psychotherapeutischer und psychoedukativer Verfahren, die die Behandlung unterstützen.",
+  "infotreatmentEn" : "##TEXT##",
+  "infolinksDe" : "https://www.tk.de/techniker/gesundheit-und-medizin/behandlungen-und-medizin/psychische-erkrankungen/was-ist-schizophrenie-2017900?tkcm=ab\nhttps://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/schizophrenie-und-schizophrene-psychosen\nhttps://www.gesundheitsinformation.de/wie-zeigt-sich-eine-schizophrenie.html\nhttps://www.minimed.at/medizinische-themen/psyche/schizophrenie/\nhttps://psd-wien.at/information/schizophrenie\nhttps://www.gesundheit.gv.at/krankheiten/psyche/schizophrenie",
+  "infolinksEn" : "https://www.tk.de/techniker/gesundheit-und-medizin/behandlungen-und-medizin/psychische-erkrankungen/was-ist-schizophrenie-2017900?tkcm=ab\nhttps://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/schizophrenie-und-schizophrene-psychosen\nhttps://www.gesundheitsinformation.de/wie-zeigt-sich-eine-schizophrenie.html\nhttps://www.minimed.at/medizinische-themen/psyche/schizophrenie/\nhttps://psd-wien.at/information/schizophrenie\nhttps://www.gesundheit.gv.at/krankheiten/psyche/schizophrenie",
+  "modules" : [
+    {
+      "internalName" : "A",
+      "questions" : [
+        {
+          "internalId" : 0,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Delusions",
+          "testedSymptom" : "Criterion A.1",
+          "nameDe" : "Wahn",
+          "nameEn" : "Delusions",
+          "questiontextDe" : "Hatten Sie Gedanken oder Ideen, die Ihren Mitmenschen seltsam, bizarr und unverständlich vorkamen und die verglichen mit Ihren Mitmenschen äußerst untypisch sind? Wurden diese Ideen von anderen als unrealistisch bezeichnet? (zum Beispiel die Vorstellung, Sie wären eine ganz außergewöhnliche und einzigartige Person und auserwählt; die Vorstellung, dass andere Sie beobachten, Ihnen folgen und alle ihre Handlungen aufzeichnen; die Vorstellung, das andere ihre Gedanken lesen können oder sich Ihre Gedanken zu anderen ausbreiten; etc.)",
+          "questiontextEn" : "Did you have thoughts or ideas which seemed strange, bizarre or incomprehensible to others and which were highly atypical, compared to other people’s thoughts around you? Did others think that those thoughts or ideas of yours are highly unrealistic? (for example the idea of being a very important and special person and being chosen by higher powers; the idea that others observe and follow you and track all of you actions; the idea that others can read your thoughts or that your thoughts spread to others; etc.)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 1,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Hallucinations",
+          "testedSymptom" : "Criterion A.2",
+          "nameDe" : "Halluzinationen",
+          "nameEn" : "Hallucinations",
+          "questiontextDe" : "Haben Sie wiederholt und deutlich Dinge gesehen, gehört, gefühlt, geschmeckt oder gerochen, die andere nicht wahrnehmen konnten? Fanden andere Menschen diese Wahrnehmungen bizarr und unverständlich?",
+          "questiontextEn" : "Did you repeatedly and clearly see, hear, feel, taste or smell things others couldn’t perceive? Did others find those perceptions bizarre and unexplainable?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 2,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disorganized_speech_1",
+          "testedSymptom" : "Criterion A.3",
+          "nameDe" : "Desorganisierte Sprache, Gedankenblockade",
+          "nameEn" : "Disorganized speech, thought blocking",
+          "questiontextDe" : "Haben Sie beim Sprechen oft den Faden verloren und spontan vergessen, worum es in dem Gespräch überhaupt ging, so als ob ihre Gedanken blockiert wären?",
+          "questiontextEn" : "Did you often stop speaking and spontaneously forget the original topic, as if your thoughts have been blocked?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 3,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disorganized_speech_2",
+          "testedSymptom" : "Criterion A.3",
+          "nameDe" : "Desorganisierte Sprache, Neologismen",
+          "nameEn" : "Disorganized speech, neologisms",
+          "questiontextDe" : "Verwenden Sie beim Sprechen oft Begriffe, die neuartig sind und von noch niemand anderem vor Ihnen verwendet wurden?",
+          "questiontextEn" : "Do you often use words while speaking which are new and have never been used by anyone before yourself?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 4,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disorganized_speech_3",
+          "testedSymptom" : "Criterion A.3",
+          "nameDe" : "Desorganisierte Sprache, Perseverationen",
+          "nameEn" : "Disorganized speech, perseverations",
+          "questiontextDe" : "Wiederholen Sie beim Sprechen oft immer wieder Wörter oder Phrasen, so als sie unter einem Zwang zur Wiederholung stünden?",
+          "questiontextEn" : "Do you often repeat words or phrases while speaking, just as if you were forced to repeat them?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 5,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disorganized_speech_4",
+          "testedSymptom" : "Criterion A.3",
+          "nameDe" : "Desorganisierte Sprache, Sprachdruck",
+          "nameEn" : "Disorganized speech, speech presure",
+          "questiontextDe" : "Sprechen Sie oft extrem schnell, vielleicht sogar so schnell, dass niemand mehr Sie verstehen kann?",
+          "questiontextEn" : "Do you often speak extremely rapidly, sometimes even to a point where nobody else can understand you anymore?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 6,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disorganized_speech_5",
+          "testedSymptom" : "Criterion A.3",
+          "nameDe" : "Desorganisierte Sprache, Inkohärenz",
+          "nameEn" : "Disorganized speech, incoherence",
+          "questiontextDe" : "Haben Sie den Eindruck, dass andere sehr oft dem was Sie sagen nicht mehr folgen können und keinen inneren Zusammenhang in ihren Aussagen mehr erkennen?",
+          "questiontextEn" : "Do you feel that others often are not able anymore to follow what you are saying and don’t see any connection between your statements anymore? ",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 7,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disorganized_behavior_1",
+          "testedSymptom" : "Criterion A.4",
+          "nameDe" : "Desorganisiertes Verhalten, mangelnde Funktionsfähigkeit im Alltag",
+          "nameEn" : "Disorganized behavior, decline in daily functioning",
+          "questiontextDe" : "Haben Sie den Eindruck, dass ihre Funktionsfähigkeit im Alltag erheblich eingeschränkt ist und es Ihnen extrem schwerfällt, alltägliche Tätigkeiten auszuführen?",
+          "questiontextEn" : "Do you feel that your daily functioning is severy impaired and that it is extremely difficult for you to do everyday’s chores?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 8,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disorganized_behavior_2",
+          "testedSymptom" : "Criterion A.4",
+          "nameDe" : "Desorganisiertes Verhalten, Unangebrachte emotionale Reaktionen",
+          "nameEn" : "Disorganized behavior, inappropriate emotional reactions",
+          "questiontextDe" : "Haben Sie den Eindruck, dass Ihre emotionalen Reaktionen als unangebracht angesehen werden (z.B. lautes Lachen auf einer Beerdigung, grundlose Aggression, plötzliches Weinen obwohl Sie rundum glücklich sind etc.)?",
+          "questiontextEn" : "Do you feel that your emotional reactions are gauged inappropriate by others (e.g., loud laughing on a funeral, aggression without being provoked, sudden crying while being completely happy)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 9,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disorganized_behavior_3",
+          "testedSymptom" : "Criterion A.4",
+          "nameDe" : "Desorganisiertes Verhalten, mangelnde Impulskontrolle",
+          "nameEn" : "Disorganized behavior, lack of impulse control",
+          "questiontextDe" : "Fällt es Ihnen sehr schwer, plötzliche innere Impulse zu kontrollieren (z.B. unkontrollierte Einkäufe, unkontrollierte Ausbrüche von Aggression oder Agitation, ständiges Handeln ohne nachzudenken, etc.)?",
+          "questiontextEn" : "Is it difficult for you to control sudden inner impulses (e.g., uncontrolled shopping sprees, uncontrolled aggression or agitation, permanent acting without thinking)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 10,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Disorganized_behavior_4",
+          "testedSymptom" : "Criterion A.4",
+          "nameDe" : "Desorganisiertes Verhalten, bizarres oder zielloses Verhalten",
+          "nameEn" : "Disorganized behavior, behavior that appears bizarre or lacking purpose",
+          "questiontextDe" : "Haben Sie öfters auf eine Weise gehandelt, die für andere oder Sie selbst völlig bizarr und unnachvollziehbar war oder völlig ohne Grund stattfand?",
+          "questiontextEn" : "Did you act sometimes in a manner which seemed completely bizarre and incomprehensible to others or to you, or which had no purpose whatsoever?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 11,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Negative_symptoms_1",
+          "testedSymptom" : "Criterion A.5",
+          "nameDe" : "Negativsymptome, verarmter Affekt",
+          "nameEn" : "Negativsymptome, reduced affect",
+          "questiontextDe" : "Haben Sie den Eindruck, ihre emotionale Erlebnisfähigkeit wäre eingeschränkt (z.B. Unfähigkeit, Freude zu empfinden; scheinbare Gleichgültigkeit allem gegenüber; etc.)?",
+          "questiontextEn" : "Do you feel that your ability to experience emotions is significantly reduced (e.g., inability to experience joy; seemingly being indifferent to everything; etc.)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 12,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Negative_symptoms_2",
+          "testedSymptom" : "Criterion A.5",
+          "nameDe" : "Negativsymptome, verminderter Antrieb",
+          "nameEn" : "Negativsymptome, reduced drive",
+          "questiontextDe" : "Haben Sie den Eindruck, kaum Interesse and Dingen zu zeigen und generell wenig aktiv zu sein?",
+          "questiontextEn" : "Do you feel like being interested in almost nothing and being very inactive in general?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 13,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Negative_symptoms_3",
+          "testedSymptom" : "Criterion A.5",
+          "nameDe" : "Negativsymptome, verringerte Psychomotorik",
+          "nameEn" : "Negativsymptome, reduced psychomotor functioning",
+          "questiontextDe" : "Haben Sie den Eindruck, nur über eingeschränkte Mimik und Gestik zu verfügen oder immer in demselben Tonfall zu sprechen?",
+          "questiontextEn" : "Do you feel like your facial expressions and body language are greatly reduced or that you always talk in the same tone?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 14,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Negative_symptoms_4",
+          "testedSymptom" : "Criterion A.5",
+          "nameDe" : "Negativsymptome, verarmtes Denken",
+          "nameEn" : "Negativsymptome, reduced ability to think",
+          "questiontextDe" : "Haben Sie den Eindruck, ihr Kopf wäre oft leer und sie würden kaum denken oder dass sie außerordentlich einfallslos wären?",
+          "questiontextEn" : "Do you feel that your head is always empty and as if you would be thinking not very much most of the time, or that you are extraordinarily unimaginative?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:",
+            "contentEn" : "Please choose which of the following symptoms have been present for at least a month most of the time:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "B",
+      "questions" : [
+        {
+          "internalId" : 15,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Symptoms_disturb_life",
+          "testedSymptom" : "Criterion B",
+          "nameDe" : "Symptome beeinträchtigen Leben auf deutliche Weise",
+          "nameEn" : "Symptoms disturb life significantly",
+          "questiontextDe" : "War, während die vorhin genannten Symptome auftraten, Ihr alltägliches Funktionieren während der Arbeit, in den persönlichen Beziehungen oder in der Selbstfürsorge erheblich beeinträchtigt?",
+          "questiontextEn" : "Was your daily functioning at work, in interpersonal relationships or in self-care disturbed significantly while the symptoms mentioned before were active?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, ob die folgende Frage auf die von Ihnen vorhin angegebenen Symptome zutrifft:\nWeiterer Fragebogentext, english: Please indicate if the following question applies to the symptoms you have chosen in the last part of the questionnaire:",
+            "contentEn" : "null"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    }
+  ]}

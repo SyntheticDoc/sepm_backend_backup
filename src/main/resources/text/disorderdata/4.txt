@@ -1,0 +1,245 @@
+Schizophrenia
+Diagnosetitel, deutsch: Schizophrenie
+Diagnosetitel, englisch: Schizophrenia
+
+### INFOTEXT DEUTSCH ANFANG ###
+Schizophrenie ist ein Sammelbegriff für eine sehr heterogene Gruppe unterschiedlicher Erkrankungen, die sich auf sehr verschiedene Weise äußern können. Ihnen allen gemeinsam sind erhebliche Störungen des gesamten inneren Erlebens und Verhaltens.
+Entgegen der Laienmeinung hat Schizophrenie nichts mit einer sogenannten „gespaltenen Persönlichkeit“ zu tun, auch das Vorkommen mehrerer Persönlichkeiten gleichzeitig ist kein Kennzeichen einer Schizophrenie.
+
+Häufigkeit:
+Es wird angenommen, dass etwas 0,3%-0,7% der Bevölkerung in ihrem Leben irgendwann an Schizophrenie erkranken.
+
+Ursachen:
+Erkrankungen aus dem schizophrenen Formenkreis werden meistens von einer Kombination von Faktoren verursacht, unter denen besonders biologische Faktoren eine prominente Rolle einnehmen. So sind neurologische Abweichungen von der Norm bei schizophrenen Patient_innen hinreichend dokumentiert, und genetische Ursachen spielen ebenso wie Komplikationen beim Geburtsvorgang eine wichtige Rolle.
+Es scheinen auch psychologische und soziale Faktoren an der Entstehung der Schizophrenie beteiligt zu sein, von denen viele allerdings noch nicht hinreichend erforscht sind.
+
+Symptome:
+Typisch für Schizophrenien ist die Unterteilung in Positivsymptome und Negativsymptome. 
+Unter Positivsymptome fallen typische Erscheinungsbilder wie formale Denkstörungen, desorganisiertes Verhalten, Halluzination und Wahn. 
+Negativsymptome sind entschieden häufiger und umfassen Schwierigkeiten des emotionalen Ausdrucks bis hin zur völligen Emotionslosigkeit, unangepasster Affekt (beispielsweise Lachen, wenn man traurig ist), Desinteresse an anderen und sozialer Rückzug, Antriebsstörungen und Apathie.
+Da Schizophrenie ein Oberbegriff für eine ganze Reihe von Krankheiten ist, ist es nicht verwunderlich, dass man die Schizophrenie meist in weitere Untertypen unterteilt wie beispielsweise die paranoide Schizophrenie, die hebephrene Schizophrenie, die katatone Schizophrenie oder die Schizophrenia simplex.
+
+Verlauf:
+Die Schizophrenie kann sehr unterschiedlich schnell anfangen, sowohl akute Anfänge innerhalb von vier Wochen bis hin zu jahrelangem, sich zuspitzendem Verlauf (Schizophrenia simplex) ist die Spanne groß. Im akuten Schub steht meist die Positivsymptomatik im Vordergrund, während die sogenannten Residualphasen zwischen den Schüben von der Negativsymptomatik dominiert werden.
+Prognostisch kann man davon ausgehen, dass etwa ein Drittel aller Patient_innen mit Schizophrenie erfolgreich geheilt werden können oder zumindest eine starke Verbesserung der Symptomatik erzielt werden kann. Bei einem weiteren Drittel wird die Erkrankung über das Leben ungefähr gleich bleiben oder allenfalls eine leichte Verbesserung eintreten, während sich bei dem letzten Drittel leider die Krankheit immer weiter verschlechtert.
+
+Behandlung:
+Wie bei den meisten psychischen Störungen erfolgt auch hier die Behandlung multimodal. Ein sehr wichtiger Pfeiler der Behandlung ist die medikamentöse Therapie beispielsweise mit Neuroleptika, die einen akuten Schub durchbrechen können und oft erst weiterführende Maßnahmen möglich machen. Auch in der Vorbeugung vor erneuten Schüben nehmen Neuroleptika eine zentrale Stellung ein.
+Desweiteren gibt es auch eine Reihe psychotherapeutischer und psychoedukativer Verfahren, die die Behandlung unterstützen.
+
+Weiterführende Informationen:
+https://www.tk.de/techniker/gesundheit-und-medizin/behandlungen-und-medizin/psychische-erkrankungen/was-ist-schizophrenie-2017900?tkcm=ab
+https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/schizophrenie-und-schizophrene-psychosen
+https://www.gesundheitsinformation.de/wie-zeigt-sich-eine-schizophrenie.html
+https://www.minimed.at/medizinische-themen/psyche/schizophrenie/
+https://psd-wien.at/information/schizophrenie
+https://www.gesundheit.gv.at/krankheiten/psyche/schizophrenie
+
+### INFOTEXT DEUTSCH ENDE ###
+
+### INFOTEXT ENGLISCH ANFANG ###
+##SHORT DESCRIPTION##
+
+Prevalence:
+##TEXT##
+
+Causes:
+##TEXT##
+
+Symptoms:
+##TEXT##
+
+Course:
+##TEXT##
+
+Treatment:
+##TEXT##
+
+Additional information:
+https://www.tk.de/techniker/gesundheit-und-medizin/behandlungen-und-medizin/psychische-erkrankungen/was-ist-schizophrenie-2017900?tkcm=ab
+https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/schizophrenie-und-schizophrene-psychosen
+https://www.gesundheitsinformation.de/wie-zeigt-sich-eine-schizophrenie.html
+https://www.minimed.at/medizinische-themen/psyche/schizophrenie/
+https://psd-wien.at/information/schizophrenie
+https://www.gesundheit.gv.at/krankheiten/psyche/schizophrenie
+
+### INFOTEXT ENGLISCH ENDE ###
+
+DSM-V Diagnostik
+
+Technische Anmerkung: Schizophrenie wird diagnostiziert, wenn mindestens zwei der Symptome von Criterion A positiv sind UND mindestens eines davon Symptom A.1, A.2 oder A.3 ist.
+
+Einleitungssatz am Anfang des Fragebogens, deutsch: Bitte wählen Sie aus, ob eines der folgenden Symptome mindestens einen Monat lang relativ durchgehend vorhanden war:
+Einleitungssatz am Anfang des Fragebogens, english: Please choose which of the following symptoms have been present for at least a month most of the time:
+
+ID	0
+Interner Name	Delusions
+Geprüftes Symptom	Criterion A.1
+Symptomname, Deutsch	Wahn
+Symptomname, Englisch	Delusions
+Fragentext, Deutsch	Hatten Sie Gedanken oder Ideen, die Ihren Mitmenschen seltsam, bizarr und unverständlich vorkamen und die verglichen mit Ihren Mitmenschen äußerst untypisch sind? Wurden diese Ideen von anderen als unrealistisch bezeichnet? (zum Beispiel die Vorstellung, Sie wären eine ganz außergewöhnliche und einzigartige Person und auserwählt; die Vorstellung, dass andere Sie beobachten, Ihnen folgen und alle ihre Handlungen aufzeichnen; die Vorstellung, das andere ihre Gedanken lesen können oder sich Ihre Gedanken zu anderen ausbreiten; etc.)
+Fragentext, Englisch	Did you have thoughts or ideas which seemed strange, bizarre or incomprehensible to others and which were highly atypical, compared to other people’s thoughts around you? Did others think that those thoughts or ideas of yours are highly unrealistic? (for example the idea of being a very important and special person and being chosen by higher powers; the idea that others observe and follow you and track all of you actions; the idea that others can read your thoughts or that your thoughts spread to others; etc.)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Hauptsymptom, eines dieser Symptome muss wahr sein, damit Schizophrenie diagnostiziert werden kann
+
+ID	1
+Interner Name	Hallucinations
+Geprüftes Symptom	Criterion A.2
+Symptomname, Deutsch	Halluzinationen
+Symptomname, Englisch	Hallucinations
+Fragentext, Deutsch	Haben Sie wiederholt und deutlich Dinge gesehen, gehört, gefühlt, geschmeckt oder gerochen, die andere nicht wahrnehmen konnten? Fanden andere Menschen diese Wahrnehmungen bizarr und unverständlich?
+Fragentext, Englisch	Did you repeatedly and clearly see, hear, feel, taste or smell things others couldn’t perceive? Did others find those perceptions bizarre and unexplainable?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Hauptsymptom, eines dieser Symptome muss wahr sein, damit Schizophrenie diagnostiziert werden kann
+
+ID	2
+Interner Name	Disorganized_speech_1
+Geprüftes Symptom	Criterion A.3
+Symptomname, Deutsch	Desorganisierte Sprache, Gedankenblockade
+Symptomname, Englisch	Disorganized speech, thought blocking
+Fragentext, Deutsch	Haben Sie beim Sprechen oft den Faden verloren und spontan vergessen, worum es in dem Gespräch überhaupt ging, so als ob ihre Gedanken blockiert wären?
+Fragentext, Englisch	Did you often stop speaking and spontaneously forget the original topic, as if your thoughts have been blocked?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Hauptsymptom, eines dieser Symptome muss wahr sein, damit Schizophrenie diagnostiziert werden kann
+
+ID	3
+Interner Name	Disorganized_speech_2
+Geprüftes Symptom	Criterion A.3
+Symptomname, Deutsch	Desorganisierte Sprache, Neologismen
+Symptomname, Englisch	Disorganized speech, neologisms
+Fragentext, Deutsch	Verwenden Sie beim Sprechen oft Begriffe, die neuartig sind und von noch niemand anderem vor Ihnen verwendet wurden?
+Fragentext, Englisch	Do you often use words while speaking which are new and have never been used by anyone before yourself?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Hauptsymptom, eines dieser Symptome muss wahr sein, damit Schizophrenie diagnostiziert werden kann
+
+ID	4
+Interner Name	Disorganized_speech_3
+Geprüftes Symptom	Criterion A.3
+Symptomname, Deutsch	Desorganisierte Sprache, Perseverationen
+Symptomname, Englisch	Disorganized speech, perseverations
+Fragentext, Deutsch	Wiederholen Sie beim Sprechen oft immer wieder Wörter oder Phrasen, so als sie unter einem Zwang zur Wiederholung stünden?
+Fragentext, Englisch	Do you often repeat words or phrases while speaking, just as if you were forced to repeat them?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Hauptsymptom, eines dieser Symptome muss wahr sein, damit Schizophrenie diagnostiziert werden kann
+
+ID	5
+Interner Name	Disorganized_speech_4
+Geprüftes Symptom	Criterion A.3
+Symptomname, Deutsch	Desorganisierte Sprache, Sprachdruck
+Symptomname, Englisch	Disorganized speech, speech presure
+Fragentext, Deutsch	Sprechen Sie oft extrem schnell, vielleicht sogar so schnell, dass niemand mehr Sie verstehen kann?
+Fragentext, Englisch	Do you often speak extremely rapidly, sometimes even to a point where nobody else can understand you anymore?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Hauptsymptom, eines dieser Symptome muss wahr sein, damit Schizophrenie diagnostiziert werden kann
+
+ID	6
+Interner Name	Disorganized_speech_5
+Geprüftes Symptom	Criterion A.3
+Symptomname, Deutsch	Desorganisierte Sprache, Inkohärenz
+Symptomname, Englisch	Disorganized speech, incoherence
+Fragentext, Deutsch	Haben Sie den Eindruck, dass andere sehr oft dem was Sie sagen nicht mehr folgen können und keinen inneren Zusammenhang in ihren Aussagen mehr erkennen?
+Fragentext, Englisch	Do you feel that others often are not able anymore to follow what you are saying and don’t see any connection between your statements anymore? 
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Hauptsymptom, eines dieser Symptome muss wahr sein, damit Schizophrenie diagnostiziert werden kann
+
+ID	7
+Interner Name	Disorganized_behavior_1
+Geprüftes Symptom	Criterion A.4
+Symptomname, Deutsch	Desorganisiertes Verhalten, mangelnde Funktionsfähigkeit im Alltag
+Symptomname, Englisch	Disorganized behavior, decline in daily functioning
+Fragentext, Deutsch	Haben Sie den Eindruck, dass ihre Funktionsfähigkeit im Alltag erheblich eingeschränkt ist und es Ihnen extrem schwerfällt, alltägliche Tätigkeiten auszuführen?
+Fragentext, Englisch	Do you feel that your daily functioning is severy impaired and that it is extremely difficult for you to do everyday’s chores?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+ID	8
+Interner Name	Disorganized_behavior_2
+Geprüftes Symptom	Criterion A.4
+Symptomname, Deutsch	Desorganisiertes Verhalten, Unangebrachte emotionale Reaktionen
+Symptomname, Englisch	Disorganized behavior, inappropriate emotional reactions
+Fragentext, Deutsch	Haben Sie den Eindruck, dass Ihre emotionalen Reaktionen als unangebracht angesehen werden (z.B. lautes Lachen auf einer Beerdigung, grundlose Aggression, plötzliches Weinen obwohl Sie rundum glücklich sind etc.)?
+Fragentext, Englisch	Do you feel that your emotional reactions are gauged inappropriate by others (e.g., loud laughing on a funeral, aggression without being provoked, sudden crying while being completely happy)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+ID	9
+Interner Name	Disorganized_behavior_3
+Geprüftes Symptom	Criterion A.4
+Symptomname, Deutsch	Desorganisiertes Verhalten, mangelnde Impulskontrolle
+Symptomname, Englisch	Disorganized behavior, lack of impulse control
+Fragentext, Deutsch	Fällt es Ihnen sehr schwer, plötzliche innere Impulse zu kontrollieren (z.B. unkontrollierte Einkäufe, unkontrollierte Ausbrüche von Aggression oder Agitation, ständiges Handeln ohne nachzudenken, etc.)?
+Fragentext, Englisch	Is it difficult for you to control sudden inner impulses (e.g., uncontrolled shopping sprees, uncontrolled aggression or agitation, permanent acting without thinking)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+ID	10
+Interner Name	Disorganized_behavior_4
+Geprüftes Symptom	Criterion A.4
+Symptomname, Deutsch	Desorganisiertes Verhalten, bizarres oder zielloses Verhalten
+Symptomname, Englisch	Disorganized behavior, behavior that appears bizarre or lacking purpose
+Fragentext, Deutsch	Haben Sie öfters auf eine Weise gehandelt, die für andere oder Sie selbst völlig bizarr und unnachvollziehbar war oder völlig ohne Grund stattfand?
+Fragentext, Englisch	Did you act sometimes in a manner which seemed completely bizarre and incomprehensible to others or to you, or which had no purpose whatsoever?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+ID	11
+Interner Name	Negative_symptoms_1
+Geprüftes Symptom	Criterion A.5
+Symptomname, Deutsch	Negativsymptome, verarmter Affekt
+Symptomname, Englisch	Negativsymptome, reduced affect
+Fragentext, Deutsch	Haben Sie den Eindruck, ihre emotionale Erlebnisfähigkeit wäre eingeschränkt (z.B. Unfähigkeit, Freude zu empfinden; scheinbare Gleichgültigkeit allem gegenüber; etc.)?
+Fragentext, Englisch	Do you feel that your ability to experience emotions is significantly reduced (e.g., inability to experience joy; seemingly being indifferent to everything; etc.)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+ID	12
+Interner Name	Negative_symptoms_2
+Geprüftes Symptom	Criterion A.5
+Symptomname, Deutsch	Negativsymptome, verminderter Antrieb
+Symptomname, Englisch	Negativsymptome, reduced drive
+Fragentext, Deutsch	Haben Sie den Eindruck, kaum Interesse and Dingen zu zeigen und generell wenig aktiv zu sein?
+Fragentext, Englisch	Do you feel like being interested in almost nothing and being very inactive in general?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+ID	13
+Interner Name	Negative_symptoms_3
+Geprüftes Symptom	Criterion A.5
+Symptomname, Deutsch	Negativsymptome, verringerte Psychomotorik
+Symptomname, Englisch	Negativsymptome, reduced psychomotor functioning
+Fragentext, Deutsch	Haben Sie den Eindruck, nur über eingeschränkte Mimik und Gestik zu verfügen oder immer in demselben Tonfall zu sprechen?
+Fragentext, Englisch	Do you feel like your facial expressions and body language are greatly reduced or that you always talk in the same tone?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+ID	14
+Interner Name	Negative_symptoms_4
+Geprüftes Symptom	Criterion A.5
+Symptomname, Deutsch	Negativsymptome, verarmtes Denken
+Symptomname, Englisch	Negativsymptome, reduced ability to think
+Fragentext, Deutsch	Haben Sie den Eindruck, ihr Kopf wäre oft leer und sie würden kaum denken oder dass sie außerordentlich einfallslos wären?
+Fragentext, Englisch	Do you feel that your head is always empty and as if you would be thinking not very much most of the time, or that you are extraordinarily unimaginative?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+
+Weiterer Fragebogentext, deutsch: Bitte geben Sie an, ob die folgende Frage auf die von Ihnen vorhin angegebenen Symptome zutrifft:
+Weiterer Fragebogentext, english: Please indicate if the following question applies to the symptoms you have chosen in the last part of the questionnaire:
+
+ID	15
+Interner Name	Symptoms_disturb_life
+Geprüftes Symptom	Criterion B
+Symptomname, Deutsch	Symptome beeinträchtigen Leben auf deutliche Weise
+Symptomname, Englisch	Symptoms disturb life significantly
+Fragentext, Deutsch	War, während die vorhin genannten Symptome auftraten, Ihr alltägliches Funktionieren während der Arbeit, in den persönlichen Beziehungen oder in der Selbstfürsorge erheblich beeinträchtigt?
+Fragentext, Englisch	Was your daily functioning at work, in interpersonal relationships or in self-care disturbed significantly while the symptoms mentioned before were active?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+
+
+Technische Anmerkung: Schizophrenie wird diagnostiziert, wenn mindestens zwei Fragen aus Criterion A bejaht werden, mindestens eine davon Frage A.1, A.2 oder A.3 ist und die Frage aus Criterion B bejaht wurde.
+Schizophrenie darf nicht diagnostiziert werden, wenn:
+Criterion D: Schizoaffektive Persönlichkeitsstörung, depressive oder bipolare Störung diagnostiziert wurde
+Criterion F: Autismus diagnostiziert wurde – es sei denn, alle Schizophreniekriterien sind vorhanden und Symptom A.1 oder A.2 sind vorhanden, dann wird dennoch Schizophrenie diagnostiziert
+##END OF FILE##

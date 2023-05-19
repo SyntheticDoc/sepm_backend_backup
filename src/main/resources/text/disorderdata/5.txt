@@ -1,0 +1,175 @@
+Generalized Anxiety Disorder
+Diagnosetitel, deutsch: Generalisierte Angststörung
+Diagnosetitel, englisch: Generalized Anxiety Disorder
+
+### INFOTEXT DEUTSCH ANFANG ###
+Die generalisierte Angststörung unterscheidet sich von den spezifischen Phobien dadurch, dass bei ihr eine anhaltende irrationale und übermäßige Angst zentral ist, die keinen speziellen oder nicht nur einen Grund hat. Sie zeichnet sich aus durch eine Angst, die in Intensität, Dauer und Frequenz in keinem Verhältnis mehr zu den befürchteten Ereignissen steht. Diese Ängste sind schwierig zu kontrollieren und beeinträchtigen durch die Häufigkeit und Intensität ihres Auftretens die Handlungsfähigkeit im Alltag.
+
+Häufigkeit:
+Innerhalb einer Spanne von zwölf Monaten leiden ungefähr 2,9% der Bevölkerung der USA unter einer generalisierten Angststörung. Es wird davon ausgegangen, dass insgesamt 9% der gesamten Bevölkerung irgendwann in ihrem Leben mindestens einmal unter einer generalisierten Angststörung leidet.
+
+Ursachen:
+Es werden genetische und biologische Ursachen angenommen, die eine erhöhte Anfälligkeit für Stress verursachen. Dennoch zeichnet sich die generalisierte Angststörung vor allem durch Kreisläufe aus Erwartungsängsten, Verlagerung der Aufmerksamkeit auf interne Inhalte und besonderer Wachsamkeit gegenüber angstauslösenden Reizen aus.
+
+Symptome:
+Die Ängste der generalisierten Angststörung beziehen sich bei Erwachsenen meistens auf alltägliche Lebensumstände wie Verantwortlichkeiten im Beruf, die Gesundheit, Finanzen, die Gesundheit von Familienmitgliedern oder diversen Kleinigkeiten (wie Hausarbeit, das Verpassen von Verabredungen etc.). In diesem Sinne ist die generalisierte Angststörung ziellos, da sie sich nicht wie die spezifischen Phobien auf eine bestimmte Klasse von Objekten bezieht, sondern fließend zwischen den unterschiedlichsten Objekten wechselt.
+Die generalisierten Ängste werden häufig auch von körperlichen Stresssymptomen begleitet wie Ruhelosigkeit, Schlafstörungen, Erschöpfung oder vegetative Angstsymptome (Schwitzen, Zittern, etc.). Generell kommen dem Umfeld und sozialen Faktoren wahrscheinlich die bedeutendste Rolle bei der Entstehung von Angststörungen zu.
+
+Verlauf:
+Meistens begleitet die generalisierte Angststörung die Betroffenen schon seit frühester Kindheit und nimmt während ihres Lebens an Intensität immer mal wieder zu und wieder ab. Etwa 40% aller Betroffenen erfahren eine vollständige Heilung.
+
+Behandlung:
+Ihren Ursachen entsprechend ist die primäre therapeutische Intervention bei einer generalisierten Angststörung die Psychotherapie, oft in Form von Verhaltenstherapie oder Psychoanalyse. Bei schweren Formen kann eine medikamentöse Begleittherapie mit angstlösenden Medikamenten, Neuroleptika, Antidepressiva oder Stimmungsstabilisatoren indiziert sein.
+
+Weiterführende Informationen:
+https://www.gesundheitsinformation.de/generalisierte-angststoerung.html
+https://www.psychenet.de/de/psychische-gesundheit/informationen/generalisierte-angststoerung.html
+https://www.therapie.de/psyche/info/index/diagnose/angst/generalisierte-angststoerung/
+https://psd-wien.at/information/angststoerungen
+https://www.gesundheit.gv.at/krankheiten/psyche/neurose/angststoerung-diagnose
+
+### INFOTEXT DEUTSCH ENDE ###
+
+### INFOTEXT ENGLISCH ANFANG ###
+##SHORT DESCRIPTION##
+
+Prevalence:
+##TEXT##
+
+Causes:
+##TEXT##
+
+Symptoms:
+##TEXT##
+
+Course:
+##TEXT##
+
+Treatment:
+##TEXT##
+
+Additional information:
+##LINKS##
+
+### INFOTEXT ENGLISCH ENDE ###
+
+DSM-V Diagnostik
+
+Technische Anmerkung: ##TEXT##
+
+Einleitungssatz am Anfang des Fragebogens, deutsch: Bitte geben Sie an, welche der folgenden Aussagen auf Sie zutreffen:
+Einleitungssatz am Anfang des Fragebogens, english: Please indicate which of the following statements applies to you:
+
+ID	0
+Interner Name	Excessive_anxiety
+Geprüftes Symptom	Criterion A
+Symptomname, Deutsch	Exzessive Ängste und Sorgen
+Symptomname, Englisch	Excessive anxiety and worry
+Fragentext, Deutsch	Haben Sie die letzten sechs Monate exzessive Ängste und Sorgen bezüglich unterschiedlicher Ereignisse oder Aktivitäten (wie Ihre Leistung bei der Arbeit oder in der Schule) gehabt? Sind diese Sorgen während dieser Zeit an mehr Tagen vorhanden als nicht vorhanden gewesen?
+Fragentext, Englisch	Did you experience excessive anxiety and worry about a number of different events or activities (such as work or school performance) in the last six months? Did those worries occur more days than not during this time?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+ID	1
+Interner Name	Worry_difficult_to_control
+Geprüftes Symptom	Criterion B
+Symptomname, Deutsch	Schwierigkeiten, Sorgen zu kontrollieren
+Symptomname, Englisch	Difficulties in controlling worries
+Fragentext, Deutsch	Haben Sie Schwierigkeiten dabei, diese Sorgen/Ängste zu kontrollieren?
+Fragentext, Englisch	Do you find it difficult to control those worries/fears?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+
+Einleitender Satz vor nächstem Fragensatz, deutsch: Bitte geben Sie an, ob eines der folgenden Symptome die Angst/die Sorgen begleitet hat:
+Einleitender Satz vor nächstem Fragensatz, english: Please indicate, if one of the following symptoms has accompanied your fears/worries:
+
+ID	2
+Interner Name	Anxiety_symptoms_1
+Geprüftes Symptom	Criterion C.1
+Symptomname, Deutsch	Begleitsymptome von Angst, Ruhelosigkeit
+Symptomname, Englisch	Symptoms of anxiety, Restlessness
+Fragentext, Deutsch	Ruhelosigkeit oder das Gefühl ständiger angespannter Erwartung des Eintritts eines schlechten Ereignisses
+Fragentext, Englisch	Restlessness or the feeling of being permanently on edge
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu Criterion C
+
+ID	3
+Interner Name	Anxiety_symptoms_2
+Geprüftes Symptom	Criterion C.2
+Symptomname, Deutsch	Begleitsymptome von Angst, leichte Erschöpfbarkeit
+Symptomname, Englisch	Symptoms of anxiety, being easily fatigued
+Fragentext, Deutsch	Leichte Erschöpfbarkeit
+Fragentext, Englisch	Being easily fatigued
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu Criterion C
+
+ID	4
+Interner Name	Anxiety_symptoms_3
+Geprüftes Symptom	Criterion C.3
+Symptomname, Deutsch	Begleitsymptome von Angst, Konzentrationsschwierigkeiten
+Symptomname, Englisch	Symptoms of anxiety, Difficulties concentrating
+Fragentext, Deutsch	Konzentrationsschwierigkeiten oder plötzliche Gedankenleere
+Fragentext, Englisch	Difficulty concentrating or mind going blank
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu Criterion C
+
+ID	5
+Interner Name	Anxiety_symptoms_4
+Geprüftes Symptom	Criterion C.4
+Symptomname, Deutsch	Begleitsymptome von Angst, Reizbarkeit
+Symptomname, Englisch	Symptoms of anxiety, irritability
+Fragentext, Deutsch	Reizbarkeit
+Fragentext, Englisch	Irritability
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu Criterion C
+
+ID	6
+Interner Name	Anxiety_symptoms_5
+Geprüftes Symptom	Criterion C.5
+Symptomname, Deutsch	Begleitsymptome von Angst, Muskelverspannungen
+Symptomname, Englisch	Symptoms of anxiety, muscle tension
+Fragentext, Deutsch	Muskelverspannungen
+Fragentext, Englisch	Muscle tension
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu Criterion C
+
+ID	7
+Interner Name	Anxiety_symptoms_6
+Geprüftes Symptom	Criterion C.6
+Symptomname, Deutsch	Begleitsymptome von Angst, Schlafstörungen
+Symptomname, Englisch	Symptoms of anxiety, sleep disturbances
+Fragentext, Deutsch	Schlafstörungen (Probleme einzuschlafen, durchzuschlafen oder rastloser, unzureichender Schlaf)
+Fragentext, Englisch	Sleep disturbance (difficulty falling or staying asleep, or restless, unsatisfactory sleep)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu Criterion C
+
+Einleitender Satz vor nächstem Fragensatz, deutsch: Bitte geben Sie an, ob die folgende Frage zutrifft:
+Einleitender Satz vor nächstem Fragensatz, english: Please indicate if the following question applies:
+
+ID	8
+Interner Name	Symptoms_present_long_enough
+Geprüftes Symptom	Criterion C
+Symptomname, Deutsch	Symptome lang genug vorhanden
+Symptomname, Englisch	Symptoms present long enough
+Fragentext, Deutsch	Waren zumindest manche der vorigen Symptome in den letzten 6 Monaten mehr Tage vorhanden als nicht vorhanden?
+Fragentext, Englisch	Have the previous symptoms been present in the last 6 months for more days than not?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+
+Einleitender Satz vor nächstem Fragensatz, deutsch: Bitte geben Sie an, ob die folgende Frage auf Ihre Ängste oder Sorgen zutrifft:
+Einleitender Satz vor nächstem Fragensatz, english: Please indicate if the following question applies to your fears or worries:
+
+ID	9
+Interner Name	Symptoms_cause_distress
+Geprüftes Symptom	Criterion D
+Symptomname, Deutsch	Symptome verursachen signifikantes Leid
+Symptomname, Englisch	Symptoms cause significant distress
+Fragentext, Deutsch	Verursachen die Ängste, Sorgen oder die physischen Symptome erhebliches Leid oder Einschränkungen in sozialen, beruflichen oder anderen wichtigen Bereichen?
+Fragentext, Englisch	Do the anxieties, worries or physical symptoms cause significant distress or impairment in social, occupational or other important areas?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	
+
+Technische Anmerkung: Die Diagnose der Angststörung wird gestellt, wenn die Kriterien A, B und D bejaht wurden Symptoms_present_long_enough bejaht wurde und mindestens drei der Kriterien C.1-C.6 bejaht wurden.
+##END OF FILE##

@@ -1,0 +1,54 @@
+[
+  {
+    "id" : 0,
+    "version" : 1,
+    "optional": false,
+    "text":
+    {
+      "de" : { "header" :  "Frage 1", "text":  "Erste Frage des Fragebogens", "displayName" :  "F1"},
+      "en" : { "header" :  "Question 1", "text":  "First question of the questionnaire", "displayName" :  "Q1"}
+    },
+    "answerType": "Text",
+    "answerPossibilities": {
+      "de": ["Ja", "Nein", "Ich weiß nicht"],
+      "en": ["Yes", "No", "I dont know"]
+    },
+    "logic": "(q = 0)",
+    "deleted": false
+  },
+  {
+    "id" : 1,
+    "version" : 1,
+    "optional": false,
+    "text":
+    {
+      "de" : { "header" :  "Frage 2", "text":  "Zweite Frage des Fragebogens", "displayName" :  "F2"},
+      "en" : { "header" :  "Question 2", "text":  "Second question of the questionnaire", "displayName" :  "Q2"}
+    },
+    "answerType": "Text",
+    "answerPossibilities": {
+      "de": ["Ja", "Nein", "Ich weiß nicht"],
+      "en": ["Yes", "No", "I dont know"]
+    },
+    "logic": "(q = 1)",
+    "deleted": false
+  },
+  {
+    "id" : 1,
+    "version" : 2,
+    "optional": false,
+    "text":
+    {
+      "de" : { "header" :  "Frage 2 Edition 2", "text":  "Zweite Frage des Fragebogens überarbeitet", "displayName" :  "F2"},
+      "en" : { "header" :  "Question 2 edition 2", "text":  "Second question of the questionnaire updated", "displayName" :  "Q2"}
+    },
+    "answerType": "Text",
+    "answerPossibilities": {
+      "de": ["Ja", "Nein", "Ich weiß nicht"],
+      "en": ["Yes", "No", "I dont know"]
+    },
+    "logic": "(q = 1)",
+    "dependsOn": 0,
+    "deleted": false
+  }
+]

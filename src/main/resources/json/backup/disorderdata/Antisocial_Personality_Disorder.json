@@ -1,0 +1,256 @@
+{
+  "internalTitle" : "Antisocial Personality Disorder",
+  "titleDe" : "Antisoziale Persönlichkeitsstörung",
+  "titleEn" : "Antisocial Personality Disorder",
+  "infodescriptionDe" : "Die antisoziale Persönlichkeitsstörung ist durch anhaltendes verantwortungsloses und antisoziales Verhalten gekennzeichnet. Die Störung kann sich durch übersteigertes Selbstvertrauen und Machtgefühl und ein extremes Streben nach materiellen Werten ohne Rücksicht auf andere auszeichnen, aber auch durch impulsives und feindseliges Verhalten oder deutliche Aggression gegenüber anderen.\nDie Schwelle gegenüber sozial schädlichem Verhalten wie Gewalt und Aggression sind bei Menschen mit antisozialer Persönlichkeitsstörung oft auffällig niedrig.\nDas antisoziale Verhalten ist fast immer schon in der Jugend und Kindheit zu beobachten.",
+  "infodescriptionEn" : "##SHORT DESCRIPTION##",
+  "infoprevalenceDe" : "Die antisoziale Persönlichkeitsstörung kommt bei Männern deutlich öfter als bei Frauen vor. Vor allem unter Häftlingen ist diese Persönlichkeitsstörung wesentlich häufiger zu finden als in der Allgemeinbevölkerung.\nIn der Allgemeinbevölkerung sollen etwa 3% der männlichen Bevölkerung und 1% der weiblichen Bevölkerung unter einer antisozialen Persönlichkeitsstörung leiden.",
+  "infoprevalenceEn" : "##TEXT##",
+  "infocausesDe" : "Für die antisoziale Persönlichkeitsstörung wird ein Zusammenspiel biologischer und psychologisch-sozialer Faktoren angenommen. Es werden familiäre Häufungen und eine gewisse genetische Prädisposition beobachtet. Auch eine Dysfunktion im Bereich des Frontalhirns lässt sich oft beobachten.\nPersonen mit antisozialer Persönlichkeitsstörung stammen oft aus dysfunktionalen und lieblosen Familien, in denen physische und psychische Gewalt an der Tagesordnung sind. Auch Lernfaktoren spielen eine große Rolle, so dass bei Personen mit dieser Störung womöglich aggressives und rücksichtsloses Verhalten eher belohnt und anerkannt wurde als sozialverträglicheres Verhalten.",
+  "infocausesEn" : "##TEXT##",
+  "infosymptomsDe" : "Personen mit einer antisozialen Persönlichkeitsstörung scheinen an einem auffälligen Mangel von Empathie zu leiden und wenig bis keine Rücksicht auf andere Menschen zu nehmen. Soziale Normen und Regeln werden regelmäßig ignoriert und mit voller Absicht übertreten. Auch klassisches Risiko- und kriminelles Verhalten wie Alkohol- und Drogenkonsum, Lügen, Stehlen, Vandalismus etc. ist häufig. Die Frustrationstoleranz ist oft sehr niedrig, ebenso wie die Schwelle für aggressives Verhalten. Beziehungen und persönliche Bindungen bleiben oft locker und oberflächlich. Meist fehlt ein Schuldbewusstsein gegenüber diesen Verhaltensweisen völlig.",
+  "infosymptomsEn" : "##TEXT##",
+  "infocourseDe" : "Für eine erfolgreiche Behandlung ist ein subjektiver Leidensdruck des Betroffenen notwendig. Da dieser bei Personen mit antisozialer Persönlichkeitsstörung oft fehlt, kann die Störung oft chronifizieren und zu schwerwiegenden Problemen wie Straffälligkeit führen. Im mittleren Lebensalter nimmt der Hang zu antisozialem Verhalten und zur Kriminalität oft etwas ab.\nDurch eine Behandlung kann oft ein besser Verhalten erlernt werden und damit das Risiko für Straffälligkeit oder andere Probleme deutlich verringert werden.",
+  "infocourseEn" : "##TEXT##",
+  "infotreatmentDe" : "Die Behandlung erfolgt meist durch Psychotherapie und Soziotherapie. Eine medikamentöse Therapie wird lediglich bei begleitenden Erkrankungen angewandt.",
+  "infotreatmentEn" : "##TEXT##",
+  "infolinksDe" : "https://www.therapie.de/psyche/info/index/diagnose/persoenlichkeitsstoerungen/antisozial/\nhttps://www.meine-gesundheit.de/krankheit/krankheiten/dissoziale-persoenlichkeitsstoerung\nhttps://www.gesundheit.gv.at/krankheiten/psyche/persoenlichkeitsstoerung/ueberblick",
+  "infolinksEn" : "##LINKS##",
+  "modules" : [
+    {
+      "internalName" : "A",
+      "questions" : [
+        {
+          "internalId" : 0,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Unlawful_behavior",
+          "testedSymptom" : "Kriterium A.1",
+          "nameDe" : "Kriminelles Verhalten",
+          "nameEn" : "Unlawful behavior",
+          "questiontextDe" : "Haben Sie schon öfters Dinge getan, wegen denen man üblicherweise verhaftet werden kann?",
+          "questiontextEn" : "Have you done acts often for which one usually could get arrested?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 1,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Deceitfulness",
+          "testedSymptom" : "Kriterium A.2",
+          "nameDe" : "Arglist",
+          "nameEn" : "Deceitfulness",
+          "questiontextDe" : "Verhalten Sie sich oft arglistig, beispielsweise indem Sie wiederholt lügen oder andere hereinlegen oder hintergehen?",
+          "questiontextEn" : "Do you often behave deceitful, for example by lying repeatedly or by conning or tricking others?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 2,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Impulsivity",
+          "testedSymptom" : "Kriterium A.3",
+          "nameDe" : "Impulsivität",
+          "nameEn" : "Impulsivity",
+          "questiontextDe" : "Verhalten Sie sich oft impulsiv und handeln, ohne groß nachzudenken oder ihre Handlungen zu planen?",
+          "questiontextEn" : "Do you often behave impulsively and act without thinking much or without planning your actions?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 3,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Aggressiveness",
+          "testedSymptom" : "Kriterium A.4",
+          "nameDe" : "Reizbarkeit und Aggressivität",
+          "nameEn" : "Irritability and aggressiveness",
+          "questiontextDe" : "Sind sie reizbar und geraten oft in körperliche Auseinandersetzungen?",
+          "questiontextEn" : "Are you irritable and prone to get into physical fights?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 4,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Recklessness",
+          "testedSymptom" : "Kriterium A.5",
+          "nameDe" : "Rücksichtslosigkeit und Leichtsinn",
+          "nameEn" : "Recklessness",
+          "questiontextDe" : "Verhalten Sie sich oft rücksichtslos und/oder leichtsinnig und ignorieren Ihre eigene Sicherheit oder die anderer?",
+          "questiontextEn" : "Do you often behave recklessly and ignore your safety or the safety of others?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 5,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Irresponsibility",
+          "testedSymptom" : "Kriterium A.6",
+          "nameDe" : "Unverantwortliches Verhalten",
+          "nameEn" : "Irresponsibility",
+          "questiontextDe" : "Verhalten Sie sich oft unverantwortlich, indem Sie beispielsweise in Ihrem Beruf nicht richtig arbeiten oder finanzielle Verpflichtungen nicht einhalten?",
+          "questiontextEn" : "Do you often behave irresponsibly, for example by failing to sustain consistent work effort or not honoring financial obligations?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 6,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Lack_of_remorse",
+          "testedSymptom" : "Kriterium A.7",
+          "nameDe" : "Fehlendes Schuldbewusstsein",
+          "nameEn" : "Lack of remorse",
+          "questiontextDe" : "Fühlen Sie keine Schuld, wenn Sie sich auf eine der vorhin beschriebenen Weisen verhalten?",
+          "questiontextEn" : "Do you not feel guilty when behaving in one of the ways described in previous questions?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "B",
+      "questions" : [
+        {
+          "internalId" : 7,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Eighteen_years_old",
+          "testedSymptom" : "Kriterium B",
+          "nameDe" : "Über 18",
+          "nameEn" : "18 years or older",
+          "questiontextDe" : "Sind sie 18 Jahre alt oder älter?",
+          "questiontextEn" : "Are you 18 years old or older?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "C",
+      "questions" : [
+        {
+          "internalId" : 8,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Childhood_conduct_disorder",
+          "testedSymptom" : "Kriterium C",
+          "nameDe" : "Verhaltensstörungen in Kindheit",
+          "nameEn" : "Conduct disorder in childhood",
+          "questiontextDe" : "Haben Sie die beschriebenen oder ähnliche Verhaltensweisen auch schon bevor Sie 15 Jahre alt waren gezeigt?",
+          "questiontextEn" : "Did you exhibit the behaviors described in previous questions or similar behaviors already before you were 15 years old?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "D",
+      "questions" : [
+        {
+          "internalId" : 9,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Not_another_disorder",
+          "testedSymptom" : "Kriterium D",
+          "nameDe" : "Verhalten nicht anderen Störungen zuzuordnen",
+          "nameEn" : "Behavior not attributable to other disorders",
+          "questiontextDe" : "Zeigen Sie die beschriebenen Verhaltensweisen nicht nur exklusiv im Zusammenhang mit akuten Episoden einer schizophrenen oder bipolaren Störung, sondern auch in anderen Situationen?",
+          "questiontextEn" : "Do you exhibit the behaviors described in previous questions not exclusively during the course of an acute episode of schizophrenia or bipolar disorder, but also in other situations?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, welche der folgenden Fragen auf Sie zutrifft:",
+            "contentEn" : "Please indicate which of the following questions applies to you:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    }
+  ]}

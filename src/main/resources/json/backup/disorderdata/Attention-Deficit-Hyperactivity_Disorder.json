@@ -1,0 +1,556 @@
+{
+  "internalTitle" : "Attention-Deficit/Hyperactivity Disorder",
+  "titleDe" : "Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung",
+  "titleEn" : "Attention-Deficit/Hyperactivity Disorder",
+  "infodescriptionDe" : "Die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) zeichnet sich durch ein dauerhaftes Muster von Unaufmerksamkeit und/oder Hyperaktivität/Impulsivität aus, welches das alltägliche Funktionieren und die seelische Entwicklung beeinträchtigt. Die entsprechenden Eigenschaften müssen hierbei in einem weit über der Norm liegenden Ausmaß beobachtbar sein und verursachen meistens einen hohen Leidensdruck für die Betroffenen.",
+  "infodescriptionEn" : "##SHORT DESCRIPTION##",
+  "infoprevalenceDe" : "Übersichtsstudien in der Bevölkerung schätzen, dass ADHS in den meisten Kulturen in ca. 5% aller Kinder und in etwa 2,5% aller Erwachsenen auftritt.",
+  "infoprevalenceEn" : "##TEXT##",
+  "infocausesDe" : "Die Entstehungsursachen der Störung sind sehr komplex und umfassen heute sowohl neurobiologische als auch genetische und soziale Ursachen. Das Hauptaugenmerk liegt mittlerweile aber eher auf neurobiologischen Erklärungsmodellen als auf pädagogischen oder sozialen.",
+  "infocausesEn" : "##TEXT##",
+  "infosymptomsDe" : "Die Unaufmerksamkeit manifestiert sich durch das plötzliche Abbrechen von Aufgaben, einen Mangel an Beharrlichkeit, Schwierigkeiten mit dem Aufrechterhalten einer Fokussiertheit auf Aufgaben und einer Desorganisation. Die Unaufmerksamkeit resultiert hierbei nicht auf Ablehnung oder mangelndem Verständnis.\nHyperaktivität drückt sich vor allem durch exzessive körperliche Aktivität aus (beispielsweise ein Kind, das unablässig herumrennt), die nicht an die Situation angepasst ist. Ausuferndes Herumzappeln, ungeduldiges mit den Fingern auf einem Tisch klopfen oder exzessive Gesprächigkeit. Bei Erwachsenen manifestiert sich die Hyperaktivität meist als ein Gefühl außerordentlicher Ruhelosigkeit oder Überbelastung anderer durch extrem hohe Aktivität.\nImpulsivität bezieht sich auf unüberlegte, spontane Handlungen, die in der Hitze des Moments ohne größeres Nachdenken entstehen und die eine beträchtliche Gefahr für das betreffende Individuum darstellen können (wie beispielsweise spontan und ohne zu schauen auf die Straße laufen). Impulsive Verhaltensweisen können sich auch durch die Überschreitung sozialer Grenzen (z.B. häufiges Unterbrechen anderer) oder das Fällen wichtiger Entscheidungen ohne Beachtung von Langzeit-Konsequenzen bemerkbar machen.",
+  "infosymptomsEn" : "##TEXT##",
+  "infocourseDe" : "Die Störung beginnt meistens mit auffällig erhöhter körperlicher Aktivität im Kindheitsalter, zu der vor allem in der Schule bald Aufmerksamkeitsprobleme hinzutreten. Im weiteren Verlauf wird die extreme körperliche Aktivität oft internalisiert und stellt sich als innere Rastlosigkeit und Ruhelosigkeit dar. Die meisten unbehandelten Kinder bleiben bis ins Erwachsenenalter deutlich durch die Störung beeinträchtigt. In einigen Fällen kann die Störung in der Kindheit auch in eine antisoziale Persönlichkeitsstörung münden.",
+  "infocourseEn" : "##TEXT##",
+  "infotreatmentDe" : "Die Behandlung der ADHS erfolgt multimodal und umfasst meistens eine Mischung aus Psychotherapie, medikamentöser Therapie und psychosozialer Interventionen. Besonders die medikamentöse Therapie ist bei mittleren und schwereren Fällen eine sehr wichtige Säule der Therapie, welche die Effektivität von Psychotherapie maßgeblich erhöhen kann.",
+  "infotreatmentEn" : "##TEXT##",
+  "infolinksDe" : "https://www.adhs.info/fuer-eltern-und-angehoerige/adhs-was-ist-das/\nhttps://www.patienten-information.de/kurzinformationen/adhs\nhttps://www.gesundheitsinformation.de/adhs-bei-erwachsenen.html\nhttps://www.gesundheit.gv.at/krankheiten/psyche/adhs/inhalt\nhttps://www.sozialministerium.at/dam/jcr:6b26467d-34bc-438f-86be-04be6fd811cb/adhs-bericht.pdf",
+  "infolinksEn" : "https://www.adhs.info/fuer-eltern-und-angehoerige/adhs-was-ist-das/\nhttps://www.patienten-information.de/kurzinformationen/adhs\nhttps://www.gesundheitsinformation.de/adhs-bei-erwachsenen.html\nhttps://www.gesundheit.gv.at/krankheiten/psyche/adhs/inhalt\nhttps://www.sozialministerium.at/dam/jcr:6b26467d-34bc-438f-86be-04be6fd811cb/adhs-bericht.pdf",
+  "modules" : [
+    {
+      "internalName" : "A",
+      "questions" : [
+        {
+          "internalId" : 0,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Carelessness",
+          "testedSymptom" : "Inattention a.",
+          "nameDe" : "Achtlosigkeit und Ungenauigkeit",
+          "nameEn" : "Carelessness and inaccuracy",
+          "questiontextDe" : "Machen Sie oft unnötige Fehler in Schulaufgaben, Aufgaben während der Arbeit oder anderen Aufgaben des Alltags, oder übersehen Sie oft Details (z.B. ungenaues Arbeiten, Übersehen von wichtigen Details der Aufgabe)",
+          "questiontextEn" : "Do you often make careless mistakes in schoolwork, at work or during other activities, or do you fail to give close attention to details (e.g., overlooks or misses details, work is inaccurate)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 1,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Difficulty_sustaining_attention",
+          "testedSymptom" : "Inattention b.",
+          "nameDe" : "Schwierigkeiten mit der Aufrechterhaltung der Aufmerksamkeit",
+          "nameEn" : "Difficulties sustaining attention",
+          "questiontextDe" : "Fällt es Ihnen oft schwer, die Aufmerksamkeit während Tätigkeiten aufrechtzuerhalten (beispielsweise Schwierigkeiten, die Konzentration während eines Vortrags, während Gesprächen oder längerem Lesen aufrechtzuerhalten)?",
+          "questiontextEn" : "Do you often have difficulties sustaining attention in tasks or activities (e.g., has difficulty remaining focused during lectures, conversations or lengthy reading)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 2,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Absence_of_mind",
+          "testedSymptom" : "Inattention c.",
+          "nameDe" : "Geistige Abwesenheit",
+          "nameEn" : "Absence of mind",
+          "questiontextDe" : "Wirkt es oft so, als ob Sie nicht zuhören, auch wenn sie direkt angesprochen werden (beispielsweise so als ob sie geistig abwesend wären, obwohl es keine offensichtlichen Ablenkungen gibt)",
+          "questiontextEn" : "Do you often seem to not be listening, even if spoken to directly (e.g., mind seems elsewhere, even in the absence of any obvious distraction)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 3,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Losing_focus",
+          "testedSymptom" : "Inattention d.",
+          "nameDe" : "Mangelnder Fokus",
+          "nameEn" : "Lack of focus",
+          "questiontextDe" : "Haben Sie oft Schwierigkeiten, Anweisungen zu Ende auszuführen und schaffen Sie es oft nicht, Schulaufgaben, Haushaltstätigkeiten oder Aufgaben bei der Arbeit zu beenden (beispielsweise indem Sie Aufgaben anfangen, aber schnell den Fokus verlieren und sich sehr leicht ablenken lassen)?",
+          "questiontextEn" : "Do you often fail to follow through on instructions and fail to finish schoolwork, chores or duties in the workplace (e.g., starting tasks but quickly losing focus and being easily sidetracked)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 4,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Poor_organisation",
+          "testedSymptom" : "Inattention e.",
+          "nameDe" : "Mangelnde Organisation",
+          "nameEn" : "Poor organization",
+          "questiontextDe" : "Haben Sie oft Schwierigkeiten, Aufgaben und Tätigkeiten zu organisieren und zu verwalten (beispielsweise Schwierigkeiten im Bewältigen aufeinander folgender Aufgaben; Schwierigkeiten, Materialien und Besitztümer in Ordnung zu halten; die Verrichtung von Tätigkeiten auf chaotische und desorganisierte Weise; schlechtes Zeitmanagement; Verpassen von Deadlines)?",
+          "questiontextEn" : "Do you often have difficulties organizing tasks and activities (e.g., difficulty managing sequential tasks; difficulty keeping materials and belongings in order; doing messy and disorganized work; having poor time management; failing to meet deadlines)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 5,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Dislike_mental_effort",
+          "testedSymptom" : "Inattention f.",
+          "nameDe" : "Ablehnung geistiger Anstrengung",
+          "nameEn" : "Dislike of mental effort",
+          "questiontextDe" : "Haben Sie eine deutliche Abneigung gegenüber Aufgaben, die eine längere geistige Anstrengung benötigen oder vermeiden Sie solche Aufgeben wenn möglich (beispielsweise Schul-/Hausaufgaben; das Verfassen von Berichten, das Ausfüllen von Formularen, das Lesen längerer Schriftstücke)?",
+          "questiontextEn" : "Do you often avoid or dislike tasks that require sustained mental effort, or are you reluctant to engage in such tasks (e.g., schoolwork or homework; preparing reports, completing forms, reviewing lengthy papers)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 6,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Losing_stuff",
+          "testedSymptom" : "Inattention g.",
+          "nameDe" : "Verlieren von Gegenständen",
+          "nameEn" : "Losing of things",
+          "questiontextDe" : "Verlieren Sie oft Gegenstände, die für bestimmte Aufgaben und Tätigkeiten wichtig sind (beispielsweise Schulmaterialien, Stifte, Bücher, Werkzeug, Brieftaschen, Schlüssel, Schriftstücke, Brillen, Mobiltelefone)?",
+          "questiontextEn" : "Do you often lose things necessary for tasks or activities (e.g, school materials, pencils, books, tools, wallets, keys, paperwork, eyeglasses, mobile telephones)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 7,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Easily_distracted",
+          "testedSymptom" : "Inattention h.",
+          "nameDe" : "Leichte Ablenkbarkeit",
+          "nameEn" : "Easy distractibility",
+          "questiontextDe" : "Sind Sie durch äußere Umstände leicht von dem ablenkbar, was Sie gerade tun?",
+          "questiontextEn" : "Are you easily distracted by external Stimuli from what you are doing at the moment?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 8,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Forgetfulness",
+          "testedSymptom" : "Inattention i.",
+          "nameDe" : "Vergesslichkeit",
+          "nameEn" : "Forgetfulness",
+          "questiontextDe" : "Sind Sie bei Alltagstätigkeiten oft vergesslich (beispielsweise bei Hausarbeit, Tätigkeiten für andere, Zurückrufen von Anrufern, Bezahlen von Rechnungen, Einhaltung von Verabredungen)?",
+          "questiontextEn" : "Are you often forgetful in daily activities (e.g., doing chores, running errands, returning calls, paying bills, keeping appointments)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 9,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Childhood_symptoms_inattention",
+          "testedSymptom" : "Criterion Inattention-B",
+          "nameDe" : "Symptome bereits in Kindheit vorhanden",
+          "nameEn" : "Symptoms already noticeable in childhood",
+          "questiontextDe" : "Waren von allen Symptomen, die sie vorhin bejaht haben, einige auch schon im Alter von unter 12 Jahren bemerkbar?",
+          "questiontextEn" : "For all symptoms which you choose “yes” for before, have some of them already been present prior to age 12 years?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 10,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Symptoms_in_more_than_one_setting_inattention",
+          "testedSymptom" : "Criterion Inattention-C",
+          "nameDe" : "Symptome in mehr als einem Setting vorhanden",
+          "nameEn" : "Symptoms present in more than one setting",
+          "questiontextDe" : "Machen sich von allen Symptomen, die sie vorhin bejaht haben, einige in mehr als einem Setting (z.B. Zuhause, in der Schule, auf der Arbeit, bei Freunden oder Verwandten, in anderen Aktivitäten) bemerkbar?",
+          "questiontextEn" : "From all symptoms you choose “yes” for before, do some of them interfere with more than one setting (e.g., at home, school, work, with friends or relatives, in other activities",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 11,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Symptoms_interfere_with_life_inattention",
+          "testedSymptom" : "Criterion Inattention-D",
+          "nameDe" : "Symptome reduzieren Lebensqualität",
+          "nameEn" : "Symptoms reduce quality of life",
+          "questiontextDe" : "Reduzieren die von Ihnen gewählten Symptome Ihre Funktionsfähigkeit auf in sozialen, akademischen oder beruflichen Kontexten?",
+          "questiontextEn" : "Do the symptoms you have chosen reduce your social, academic or occupational functioning?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "B",
+      "questions" : [
+        {
+          "internalId" : 12,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Psychomotor_unrest",
+          "testedSymptom" : "Hyperactivity a.",
+          "nameDe" : "Psychomotorische Unruhe",
+          "nameEn" : "Psychomotor unrest",
+          "questiontextDe" : "Spielen/Zappeln Sie oft mit den Händen oder Füßen oder rutschen auf Ihrem Sitzplatz herum?",
+          "questiontextEn" : "Do you often fidget with or tap hands or feets or squirm in your seat?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 13,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Leaving_seat",
+          "testedSymptom" : "Hyperactivity b.",
+          "nameDe" : "Plötzliches Verlassen des Sitzplatzes",
+          "nameEn" : "Sudden leaving of seat",
+          "questiontextDe" : "Verlassen Sie oft Ihren Sitzplatz in Situationen, in denen ein Sitzenbleiben erwartet wird (beispielsweise Verlassen Ihres Platzes im Klassenzimmer, im Büro, in anderen Situationen, in denen es nötig ist, auf seinem Platz zu bleiben)?",
+          "questiontextEn" : "Do you often leave your seat in situations when remaining seated is expected (e.g., leaving your place in the classroom, in the office, or other situations that require remaining in place)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 14,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Restlessness",
+          "testedSymptom" : "Hyperactivity c.",
+          "nameDe" : "Rastlosigkeit",
+          "nameEn" : "Restlessness",
+          "questiontextDe" : "Fühlen Sie sich oft rastlos oder ruhelos?",
+          "questiontextEn" : "Do you often feel restless?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 15,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Unable_to_be_quiet",
+          "testedSymptom" : "Hyperactivity d.",
+          "nameDe" : "Unvermögen, leise an Aktivitäten teilzunehmen",
+          "nameEn" : "Inability to engage in activities quietly",
+          "questiontextDe" : "Fällt es Ihnen oft schwer, an Freizeitaktivitäten leise oder ruhig teilzunehmen?",
+          "questiontextEn" : "Are you often unable to play or engage in leisure activities quietly?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 16,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Increased_drive",
+          "testedSymptom" : "Hyperactivity e.",
+          "nameDe" : "Erhöhter Antrieb",
+          "nameEn" : "Increased drive",
+          "questiontextDe" : "Fühlen Sie sich oft „auf dem Sprung“, als ob Sie „von einem inneren Motor getrieben“ wären (beispielsweise es nicht schaffen oder sich dabei unwohl fühlen für längere Zeit ruhig zu sitzen, wie in einem Restaurant oder in Meetings)?",
+          "questiontextEn" : "Do you feel often “on the go”, acting as if “driven by a motor” (e.g., being unable to be or uncomfortable being still for extended time, as in restaurants or meetings)",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 17,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Talkativeness",
+          "testedSymptom" : "Hyperactivity f.",
+          "nameDe" : "Exzessives reden",
+          "nameEn" : "Excessive talking",
+          "questiontextDe" : "Reden Sie oft exzessiv viel?",
+          "questiontextEn" : "Do you often talk excessively?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 18,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Inadequate_conversation_turns",
+          "testedSymptom" : "Hyperactivity g.",
+          "nameDe" : "Ungeduld in Gesprächen",
+          "nameEn" : "Impatience in conversations",
+          "questiontextDe" : "Platzen Sie oft mit Antworten heraus, bevor eine Frage zu Ende gestellt wurde (beispielsweise in dem Sie die Sätze anderer beenden; Unfähigkeit, in Gesprächen zu warten, bis Sie an der Reihe sind)? ",
+          "questiontextEn" : "Do you often blurt out an answer before a question has been completed (e.g., completing people’s sentences; unable to wait for your turn in conversations)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 19,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Impatience_while_waiting",
+          "testedSymptom" : "Hyperactivity h.",
+          "nameDe" : "Ungeduld beim warten",
+          "nameEn" : "Impatience while waiting",
+          "questiontextDe" : "Haben Sie oft Schwierigkeiten damit zu warten, bis Sie an der Reihe sind (beispielsweise beim Schlange stehen)?",
+          "questiontextEn" : "Do you often have difficulties waiting for your turn (e.g., while waiting in line)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 20,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Interrupting_others",
+          "testedSymptom" : "Hyperactivity i.",
+          "nameDe" : "Unterbrechen anderer",
+          "nameEn" : "Interrupting others",
+          "questiontextDe" : "Unterbrechen Sie oft andere oder drängen sich Ihnen auf (beispielsweise indem Sie sich in Konversationen, Spiele oder Aktivitäten hineindrängen; indem Sie Gegenstände anderer verwenden ohne um Erlaubnis zu fragen; indem Sie anderen aus der Hand nehmen oder übernehmen, was sie gerade tun)?",
+          "questiontextEn" : "Do you often interrupt or intrude on others (e.g., butting into conversations, games or activities; using other people’s things without asking or receiving permission; intruding into or taking over what others are doing)?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 21,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Childhood_symptoms_hyperactivity",
+          "testedSymptom" : "Criterion Hyperactivity-B",
+          "nameDe" : "Symptome bereits in Kindheit vorhanden",
+          "nameEn" : "Symptoms already noticeable in childhood",
+          "questiontextDe" : "Waren von allen Symptomen, die sie vorhin bejaht haben, einige auch schon im Alter von unter 12 Jahren bemerkbar?",
+          "questiontextEn" : "For all symptoms which you choose “yes” for before, have some of them already been present prior to age 12 years?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 22,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Symptoms_in_more_than_one_setting_hyperactivity",
+          "testedSymptom" : "Criterion Hyperactivity-C",
+          "nameDe" : "Symptome in mehr als einem Setting vorhanden",
+          "nameEn" : "Symptoms present in more than one setting",
+          "questiontextDe" : "Machen sich von allen Symptomen, die sie vorhin bejaht haben, einige in mehr als einem Setting (z.B. Zuhause, in der Schule, auf der Arbeit, bei Freunden oder Verwandten, in anderen Aktivitäten) bemerkbar?",
+          "questiontextEn" : "From all symptoms you choose “yes” for before, do some of them interfere with more than one setting (e.g., at home, school, work, with friends or relatives, in other activities",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 23,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Symptoms_interfere_with_life_hyperactivity",
+          "testedSymptom" : "Criterion Hyperactivity-D",
+          "nameDe" : "Symptome reduzieren Lebensqualität",
+          "nameEn" : "Symptoms reduce quality of life",
+          "questiontextDe" : "Reduzieren die von Ihnen gewählten Symptome Ihre Funktionsfähigkeit auf in sozialen, akademischen oder beruflichen Kontexten?",
+          "questiontextEn" : "Do the symptoms you have chosen reduce your social, academic or occupational functioning?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:",
+            "contentEn" : "Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:"
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    }
+  ]}

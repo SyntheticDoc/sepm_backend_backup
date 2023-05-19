@@ -1,0 +1,634 @@
+{
+  "internalTitle" : "Autism Spectrum Disorder",
+  "titleDe" : "Autismus-Spektrum-Störung",
+  "titleEn" : "Autism Spectrum Disorder",
+  "infodescriptionDe" : "Autismus ist eine tiefgreifende Störung der neurologischen Entwicklung mit unbekannter Ursache. Der Störung liegt eine fundamentale Störung der Wahrnehmungs- und Informationsverarbeitung des Gehirns zugrunde, die sich unter anderem in Reizüberflutung durch mangelnde Filterung externer Reize, Störungen in der sozialen Entwicklung und repetitiven (sich wiederholenden, stereotypen) Verhaltensmustern ausdrückt.\nDie Störung ist sehr komplex und umfasst viele Untertypen und Varianten.",
+  "infodescriptionEn" : "null",
+  "infoprevalenceDe" : "In den USA und anderen Ländern wurde in den letzten Jahren eine Häufigkeit von Autismus-Spektrum-Störungen nahe 1% in der Gesamtbevölkerung festgestellt. (American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition. Arlington, VA, American Psychiatric Association, 2013.) ",
+  "infoprevalenceEn" : "##TEXT##",
+  "infocausesDe" : "Für Autismus-Spektrum-Störungen wird heute hauptsächlich eine genetische Störung der Hirnentwicklung angenommen, bei der unter anderem eine von der Norm abweichende Konnektivität zwischen unterschiedlichen Hirnarealen festgestellt wurde.\nDie Vorstellung, das Autismus-Spektrum-Störungen durch Impfungen verursacht werden, gilt als eindeutig widerlegt.",
+  "infocausesEn" : "##TEXT##",
+  "infosymptomsDe" : "Im DSM-5 werden die grundlegenden Eigenschaften von Autismus-Spektrum-Störungen wie folgt eingeteilt:\nKriterium A: Dauerhafte Beeinträchtigung in wechselseitiger sozialer Kommunikation und in sozialer Interaktion\nKriterium B: Eingeschränkte und repetitive Verhaltensweisen, Interessen oder Aktivitäten\nKriterium C und D: Kriterium A und B müssen von früher Kindheit an nachweisbar sein und die täglichen Aktivitäten deutlich beeinträchtigen",
+  "infosymptomsEn" : "##TEXT##",
+  "infocourseDe" : "Autismus-Spektrum-Störungen sind keine degenerativen Krankheiten und verschlimmern sich in der Regel nicht. Betroffene lernen im Verlauf ihres Lebens eher, die spezifischen Symptome und Beeinträchtigungen ihrer Krankheit zu kompensieren, wenn nicht zusätzlich eine deutliche Intelligenzminderung oder andere psychische Störungen gleichzeitig bestehen.",
+  "infocourseEn" : "##TEXT##",
+  "infotreatmentDe" : "Da die Ursache von Autismus-Spektrum-Störungen nach wie vor unbekannt ist, ist sie einer therapeutischen Beeinflussung leider nicht zugänglich.\nTherapeutische Interventionen beinhalten daher gezielte Trainings mit den Betroffenen und ihren Angehörigen wie Kommunikationstrainings, die bestimmte Defizite ausgleichen sollen. Auch eine Anpassung der Umwelt an die Bedürfnisse des/der Betroffenen sind wichtige Therapieziele.",
+  "infotreatmentEn" : "##TEXT##",
+  "infolinksDe" : "https://www.neurologen-und-psychiater-im-netz.org/kinder-jugendpsychiatrie-psychosomatik-und-psychotherapie/stoerungen-erkrankungen/autismus-spektrum-stoerung-ass/stoerungsbild/\nhttps://www.autismus.de/\nhttps://www.autistenhilfe.at/\nhttps://www.gesundheit.gv.at/krankheiten/psyche/diagnose-therapie",
+  "infolinksEn" : "https://www.neurologen-und-psychiater-im-netz.org/kinder-jugendpsychiatrie-psychosomatik-und-psychotherapie/stoerungen-erkrankungen/autismus-spektrum-stoerung-ass/stoerungsbild/\nhttps://www.autismus.de/\nhttps://www.autistenhilfe.at/\nhttps://www.gesundheit.gv.at/krankheiten/psyche/diagnose-therapie",
+  "modules" : [
+    {
+      "internalName" : "A",
+      "questions" : [
+        {
+          "internalId" : 0,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Social_reciprocity_deficit_1",
+          "testedSymptom" : "Deficit in social-emotional reciprocity, Criterion A",
+          "nameDe" : "Gestörte Annäherung an andere",
+          "nameEn" : "Abnormal social approach",
+          "questiontextDe" : "Haben Sie häufig auffällige Probleme, auf andere sozial zuzugehen?",
+          "questiontextEn" : "Do you often have noticeable problems approaching others socially?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 1,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Social_reciprocity_deficit_2",
+          "testedSymptom" : "Deficit in social-emotional reciprocity, Criterion A",
+          "nameDe" : "Gestörte wechselseitige Kommunikation",
+          "nameEn" : "Failure of normal back-and-forth conversation",
+          "questiontextDe" : "Haben Sie häufig Probleme damit, ein Gespräch wechselseitig zu gestalten, also beispielsweise zu erkennen, wann sie an der Reihe sind zu sprechen oder ein Gespräch überhaupt aufrechtzuerhalten?",
+          "questiontextEn" : "Do you often have problems with normal back-and-forth conversation, for example problems with noticing when it is your turn to speak or keeping conversations going at all?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 2,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Social_reciprocity_deficit_3",
+          "testedSymptom" : "Deficit in social-emotional reciprocity, Criterion A",
+          "nameDe" : "Verringertes Teilen von Interessen und Gefühlen mit anderen",
+          "nameEn" : "Reduced sharing of interests and emotions with others",
+          "questiontextDe" : "Tendieren sie auffällig häufig dazu, ihre Interessen, Gefühle und Gedanken nicht mit anderen zu teilen?",
+          "questiontextEn" : "Do you often and noticeably tend to not share your interests, feelings and thoughts with others?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 3,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Social_reciprocity_deficit_4",
+          "testedSymptom" : "Deficit in social-emotional reciprocity, Criterion A",
+          "nameDe" : "Unvermögen, soziale Interaktionen zu beginnen oder darauf zu reagieren",
+          "nameEn" : "Failure to initiate or respond to social interactions",
+          "questiontextDe" : "Haben Sie häufig Schwierigkeiten, soziale Interaktionen mit anderen zu beginnen oder auf solche Interaktionen zu reagieren?",
+          "questiontextEn" : "Do you often have problems with initiating social interactions with others or to respond to such interactions?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 4,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Nonverbal_deficit_1",
+          "testedSymptom" : "Deficit in nonverbal communicative behaviors, Criterion A",
+          "nameDe" : "Fehlende Übereinstimmung verbaler und nichtverbaler Kommunikation",
+          "nameEn" : "Lack of match between verbal and nonverbal communication",
+          "questiontextDe" : "Haben Sie den Eindruck, dass oft ihre Körpersprache nicht zu dem passt, was Sie sagen, oder haben andere Ihnen das öfters gesagt?",
+          "questiontextEn" : "Do you think that your body language does not match what you are saying verbally, or have others told you so several times?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 5,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Nonverbal_deficit_2",
+          "testedSymptom" : "Deficit in nonverbal communicative behaviors, Criterion A",
+          "nameDe" : "Auffälligkeiten im Augenkontakt oder in der Körpersprache",
+          "nameEn" : "Abnormalities in eye contact and body language",
+          "questiontextDe" : "Haben Sie den Eindruck Schwierigkeiten damit zu haben, normalen Augenkontakt aufrechtzuerhalten oder eine adäquate Körpersprache zu verwenden, oder haben andere Ihnen das öfters gesagt?",
+          "questiontextEn" : "Do you think that you have difficulties with normal eye contact or using adequate body language, or have others told you so several times?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 6,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Nonverbal_deficit_3",
+          "testedSymptom" : "Deficit in nonverbal communicative behaviors, Criterion A",
+          "nameDe" : "Defizite im Verständnis und Gebrauch von Gesten",
+          "nameEn" : "Deficits in understanding and use of gestures",
+          "questiontextDe" : "Haben Sie Schwierigkeiten damit, körperliche Gesten anderer zu verstehen und selbst solche Gesten zu verwenden?",
+          "questiontextEn" : "Do you have difficulties with understanding physical gestures of others or using such gestures yourself?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 7,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Nonverbal_deficit_4",
+          "testedSymptom" : "Deficit in nonverbal communicative behaviors, Criterion A",
+          "nameDe" : "Starrer Gesichtsausdruck und fehlen nichtverbaler Kommunikation",
+          "nameEn" : "Lack of facial expression and nonverbal communication",
+          "questiontextDe" : "Haben Sie den Eindruck, über einen starren Gesichtsausdruck und einen Mangel an nichtverbaler Kommunikation/Körpersprache zu verfügen, oder haben andere Ihnen das öfters gesagt?",
+          "questiontextEn" : "Do you think that you lack facial expressions and nonverbal communicative behaviors/body language, or have others told you so several times?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 8,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Relationship_deficit_1",
+          "testedSymptom" : "Deficit in relationships, Criterion A",
+          "nameDe" : "Schwierigkeiten, das Verhalten an soziale Kontexte anzupassen",
+          "nameEn" : "Difficulties of adjusting behavior to social contexts",
+          "questiontextDe" : "Haben Sie auffällige Schwierigkeiten darin, ihr Verhalten an soziale Kontexte anzupassen, sich also der Situation entsprechend zu verhalten?",
+          "questiontextEn" : "Do you have noticeably difficulties in adjusting your behavior to social contexts like choosing behaviors appropriate for a given situation?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 9,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Relationship_deficit_2",
+          "testedSymptom" : "Deficit in relationships, Criterion A",
+          "nameDe" : "Schwierigkeiten, Freunde zu gewinnen",
+          "nameEn" : "Difficulties in making friends",
+          "questiontextDe" : "Haben Sie auffällige Schwierigkeiten darin, Freunde zu gewinnen?",
+          "questiontextEn" : "Do you have noticeable difficulties in making friends?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 10,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Relationship_deficit_3",
+          "testedSymptom" : "Deficit in relationships, Criterion A",
+          "nameDe" : "Nicht vorhandenes Interesse an anderen",
+          "nameEn" : "Absence of interest in peers",
+          "questiontextDe" : "Fehlt Ihnen fast immer das Interesse an anderen?",
+          "questiontextEn" : "Do you exhibit an absence of interest in peers/others?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "B",
+      "questions" : [
+        {
+          "internalId" : 11,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Stereotyped_behavior_1",
+          "testedSymptom" : "Stereotyped behavior, Criterion B",
+          "nameDe" : "Stereotype oder repetitive Bewegungen",
+          "nameEn" : "Stereotyped or repetitive motor movements",
+          "questiontextDe" : "Verfügen Sie über Bewegungsmuster, die sie häufig auf stereotype oder repetitive Weise wiederholen?",
+          "questiontextEn" : "Do you exhibit patterns of movement, which you often repeat stereotypically or repetitively?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 12,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Stereotyped_behavior_2",
+          "testedSymptom" : "Stereotyped behavior, Criterion B",
+          "nameDe" : "Stereotype Verwendung von Objekten",
+          "nameEn" : "Stereotyped use of objects",
+          "questiontextDe" : "Verwenden Sie oft Objekte auf stereotype oder sich wiederholende Weise, beispielsweise durch Anordnung von Objekten auf eine bestimmte Weise oder die Ausrichtung einer Gruppe von Objekten in eine bestimmte Richtung?",
+          "questiontextEn" : "Do you often use objects in a stereotypically or repetitive manner, like lining up objects in specific patterns or aligning groups of objects in certain directions?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 13,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Stereotyped_behavior_3",
+          "testedSymptom" : "Stereotyped behavior, Criterion B",
+          "nameDe" : "Stereotype Verwendung von Sprache",
+          "nameEn" : "Stereotyped use of speech",
+          "questiontextDe" : "Verwenden Sie oft Sprache auf eine stereotype oder sich wiederholende Weise, beispielsweise indem sie ständig wiederholen, was andere sagen, oder häufig Phrasen verwenden, die andere sehr eigentümlich finden?",
+          "questiontextEn" : "Do you often use language in a stereotypical or repetitive manner, like echoing back what others say often, or often using phrases others find very peculiar?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 14,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Inflexibility_1",
+          "testedSymptom" : "Inflexibility and insistence on sameness, Criterion B",
+          "nameDe" : "Widerstand gegen Änderungen",
+          "nameEn" : "Resistance to changes",
+          "questiontextDe" : "Beeinträchtigt es Ihr Wohlbefinden auf deutliche Weise, wenn Routinen nicht eingehalten werden oder sich Kleinigkeiten ändern, oder wenn sich irgendetwas verändert?",
+          "questiontextEn" : "Does it impact your wellbeing extremely if routines change, do you exhibit extreme distress at small changes or have difficulties with any changes?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 15,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Inflexibility_2",
+          "testedSymptom" : "Inflexibility and insistence on sameness, Criterion B",
+          "nameDe" : "Rigide Denkmuster",
+          "nameEn" : "Rigid thinking patterns",
+          "questiontextDe" : "Gibt es starre Denkmuster, an denen Sie oft intensiv festhalten, auch wenn Sie sie eigentlich ändern sollten?",
+          "questiontextEn" : "Do you exhibit rigid and fixed thinking patterns you are holding on to intensively, even though you should actually change them?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 16,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Inflexibility_3",
+          "testedSymptom" : "Inflexibility and insistence on sameness, Criterion B",
+          "nameDe" : "Rituale",
+          "nameEn" : "Rituals",
+          "questiontextDe" : "Gibt es feste und eigentümliche Rituale, an denen Sie unbedingt festhalten müssen, wie beispielsweise feste Begrüßungsrituale?",
+          "questiontextEn" : "Do you have fixed and peculiar rituals you have to adhere to at any cost, like fixed greeting rituals?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 17,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Inflexibility_4",
+          "testedSymptom" : "Inflexibility and insistence on sameness, Criterion B",
+          "nameDe" : "Unflexible Routinen",
+          "nameEn" : "Inflexible routines",
+          "questiontextDe" : "Haben Sie feste Routinen, von denen nicht abgewichen werden darf, wie einen bestimmten Weg immer wieder genau so zu gehen oder jeden Tag dasselbe zu essen?",
+          "questiontextEn" : "Do you have fixed routines from which no deviation is allowed, like taking the same route again and again or eating the same food every day?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 18,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Fixations_1",
+          "testedSymptom" : "Highly restricted, fixated interests, Criterion B",
+          "nameDe" : "Abnormer Bezug zu Objekten",
+          "nameEn" : "Abnormal relationship to objects",
+          "questiontextDe" : "Haben Sie eine sehr starke emotionale Bindung zu ungewöhnlichen Objekten, oder beschäftigen Sie sich außergewöhnlich oft mit solchen?",
+          "questiontextEn" : "Do you have a very strong emotional attachment to unusual objects, or are you preoccupied extraordinarily often with such objects?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 19,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "Fixations_2",
+          "testedSymptom" : "Highly restricted, fixated interests, Criterion B",
+          "nameDe" : "Eingeschränkte, fixierte Interessen",
+          "nameEn" : "Restricted, fixated interests",
+          "questiontextDe" : "Haben Sie stark eingeschränkte Interessen, mit denen Sie sich unter Ausschluss von fast allem anderen beschäftigen oder um die Ihre Gedanken permanent kreisen?",
+          "questiontextEn" : "Do you have strongly restricted interests, with which you engage while excluding nearly anything else, or with which you are permanently preoccupied mentally?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 20,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "HyperHypoReactivity_1",
+          "testedSymptom" : "Hyper- or hyporeactivity to sensory input, Criterion B",
+          "nameDe" : "Anscheinende Gleichgültigkeit gegenüber Schmerz/Temperaturunterschieden",
+          "nameEn" : "Apparent Indifference to pain/temperature",
+          "questiontextDe" : "Scheinen Sie oft gleichgültig gegenüber Schmerzen oder deutlichen Temperaturunterschieden zu sein?",
+          "questiontextEn" : "Do you often seem to be indifferent to pain or considerable differences in temperature?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 21,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "HyperHypoReactivity_1",
+          "testedSymptom" : "Hyper- or hyporeactivity to sensory input, Criterion B",
+          "nameDe" : "Starke Abneigung gegenüber Geräuschen oder Texturen",
+          "nameEn" : "Marked adverse response to specific sounds or textures",
+          "questiontextDe" : "Gibt es bestimmte Geräusche oder bestimmte Oberflächen oder Gegenstände, die sich für sie extrem unangenehm anfühlen, für die meisten anderen Menschen aber offenbar relativ normal sind?",
+          "questiontextEn" : "Do certain sounds, surfaces or objects exist, which feel extremely unpleasant to you, while apparently being relatively normal for other people?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 22,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "HyperHypoReactivity_1",
+          "testedSymptom" : "Hyper- or hyporeactivity to sensory input, Criterion B",
+          "nameDe" : "Exzessives riechen an oder berühren von Objekten",
+          "nameEn" : "Excessive smelling or touching of objects",
+          "questiontextDe" : "Gibt es Objekte, an denen Sie außergewöhnlich oft riechen oder die sie außergewöhnlich anfassen, so dass es für andere auffällig ist?",
+          "questiontextEn" : "Do certain objects exist, which you smell or touch excessively often, so that others take note of it?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        },
+        {
+          "internalId" : 23,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "HyperHypoReactivity_1",
+          "testedSymptom" : "Hyper- or hyporeactivity to sensory input, Criterion B",
+          "nameDe" : "Visuelle Faszination für Licht oder Bewegung",
+          "nameEn" : "Visual fascination with lights or movement",
+          "questiontextDe" : "Gibt es bestimmte Lichteffekte, Bewegungen oder ähnliches, von dem sie den Blick kaum abwenden können?",
+          "questiontextEn" : "Do certain light effects or movements exist, from which you hardly can avert your gaze?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "C",
+      "questions" : [
+        {
+          "internalId" : 24,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "CriterionC",
+          "testedSymptom" : "Kriterium C",
+          "nameDe" : "Vorhandensein von Symptomen in früher Entwicklung",
+          "nameEn" : "Presence of symptoms in early development",
+          "questiontextDe" : "Sind die Symptome, die sie bejaht haben, schon in ihrer Kindheit oder Jugend vorhanden gewesen, wenn auch vielleicht in einem geringeren Ausmaß?",
+          "questiontextEn" : "Have all Symptoms you have chosen been present in your childhood or teenage years, even if they were less obvious?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "D",
+      "questions" : [
+        {
+          "internalId" : 25,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "CriterionD",
+          "testedSymptom" : "Kriterium D",
+          "nameDe" : "Signifikante Beeinträchtigung im Alltag",
+          "nameEn" : "Significant impairment in everyday life",
+          "questiontextDe" : "Beeinträchtigen die Symptome, die Sie bejaht haben, Ihr Alltagsleben, Ihr soziales Leben, Ihre berufliche Tätigkeit oder andere wichtige Bereiche auf deutliche Weise?",
+          "questiontextEn" : "Do the symptoms you have chosen impact your everyday life, your social life, your occupational life or other important areas strongly and negatively?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    },
+    {
+      "internalName" : "D",
+      "questions" : [
+        {
+          "internalId" : 26,
+          "version" : 1,
+          "optional" : false,
+          "internalName" : "CriterionE",
+          "testedSymptom" : "Kriterium E",
+          "nameDe" : "Diagnostizierte Intelligenzminderung oder Entwicklungsverzögerung",
+          "nameEn" : "Diagnosed intellectual disability or global developmental delay",
+          "questiontextDe" : "Wurde bei Ihnen bereits eine Intelligenzminderung oder eine deutliche generelle Entwicklungsverzögerung diagnostiziert?",
+          "questiontextEn" : "Have you ever been diagnosed with an intellectual disability or a global developmental delay?",
+          "answerFormat" : "Ja/Nein/Weiß nicht",
+          "QuestionHeader" : 
+          {
+            "internalTitle" : "null",
+            "contentDe" : "Bitte geben Sie an, welche der folgenden Symptome früher auf sie zugetroffen haben oder heute noch zutreffen. Bejahen Sie ein Symptom auch, wenn sie nicht genau dasselbe, aber sehr ähnliche Symptome haben.\nBitte bejahen Sie nur solche Symptome, die nicht auf einer diagnostizierten Intelligenzminderung oder Entwicklungsverzögerung beruhen",
+            "contentEn" : "Please indicate if the following symptoms have been present earlier in your life or today. Also choose a symptom if you don’t show it exactly in the way asked by the question, but very similarly. \nPlease choose only Symptoms which are not caused by already diagnosed intellectual impairment or developmental disorders."
+          },
+          "answer" : "",
+          "logic" : "",
+          "dependsOn" : null,
+          "deleted" : false
+        }
+  ]    }
+  ]}

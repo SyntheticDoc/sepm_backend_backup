@@ -1,0 +1,152 @@
+Obsessive-Compulsive Disorder
+Diagnosetitel, deutsch: Zwangsstörung
+Diagnosetitel, englisch: Obsessive-Compulsive Disorder
+
+### INFOTEXT DEUTSCH ANFANG ###
+Zwangsstörungen zeichnen sich durch das Vorhandensein von Zwangsgedanken und Zwangshandlungen aus. Der Zwang wird oft als übermächtig und unkontrollierbar erlebt und beeinträchtigt auf diese Weise die Lebensqualität deutlich. Die meisten Betroffenen werden sowohl von Zwangsgedanken als auch von Zwangshandlungen beeinträchtigt
+
+Häufigkeit:
+Die Zwangsstörung tritt bei 1-3% der Bevölkerung mindestens einmal im Leben auf.
+
+Ursachen:
+Wie bei vielen anderen psychischen Krankheiten wird auch bei der Zwangsstörung ein Zusammenspiel von biologischen und psychologischen Faktoren diskutiert. Die Störung ist zu einem gewissen Grad vererbbar und geht mit nachweisbaren Änderungen im Hirnstoffwechsel einher, deren Bedeutung aber unbekannt ist.
+Heute dominieren vor allem verhaltenstherapeutische und kognitionspsychologische Erklärungen, die die Zwangsstörung unter anderem als erlernten Prozess charakterisieren.
+
+Symptome:
+Die Zwangsstörung zeichnet sich vor allem durch Zwangsgedanken und Zwangshandlungen aus.
+Zwangsgedanken umfassen alle Denkinhalte, die sich zwanghaft aufdrängen, zumeist als sehr unangenehm empfunden werden und sich größtenteils der willentlichen Kontrolle entziehen. Das Denken selbst kann auch zwanghafte Formen annehmen und zu formalen Denkstörungen führen, indem beispielsweise Perseverationen auftreten (zwanghafte Wiederholung bestimmter Denkinhalte) oder auf bestimmte Objekte eingeengtes Denken. Ebenfalls eindrücklich ist der Zwangsimpuls, bei dem Betroffene einen übermäßig starken Impuls spüren, eine aggressive Handlung zu unternehmen, die sie aber eigentlich ablehnen.
+Zwangshandlungen kennzeichnen Handlungen, bei denen Betroffene das Gefühl haben, unter einem Handlungszwang zu stehen, die sich also ihrer willentlichen Kontrolle entziehen. Vor allem werden immense Gefühle von Anspannung und Angst berichtet, wenn die Betroffenen gezwungen werden oder sich selbst zwingen, die Zwangshandlung nicht auszuführen. Besonders bekannt ist beispielsweise der Waschzwang, aber auch Kontrollzwänge (ständige Überprüfung ob der Herd abgeschaltet ist, ob der Hausschlüssel da ist etc.), Ordnungszwänge (Zwang, ständig eine ganz exakte, penible Ordnung aufrechterhalten zu müssen mit ständigem sortieren) oder verbale Zwänge (Zwang, immer wieder bestimmte Sätze/Geräusche zu wiederholen) kommen häufig vor.
+
+Verlauf:
+Da die Zwangsstörung in der Bevölkerung relativ unbekannt ist, bleibt sie lange unentdeckt und unbehandelt und chronifiziert deswegen. Ohne Behandlung haben sich von beobachteten Betroffenen in einem 40-Jahres-Zeitraum lediglich 20% erholt. Mit einer zielgerichteten Behandlung kann die Störung jedoch oft sehr gut in den Griff bekommen werden.
+
+Behandlung:
+Die Behandlung der Zwangsstörung erfolgt primär durch die kognitive Verhaltenstherapie. In einigen Fällen können Antidepressiva oder Neuroleptika unterstützend wirken.
+
+Weiterführende Informationen:
+https://www.gesundheitsinformation.de/behandlung-von-zwangsstoerungen.html
+https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/zwangserkrankungen
+https://www.apotheken-umschau.de/krankheiten-symptome/psychische-krankheiten/zwangsstoerungen-zwangserkrankungen-737877.html
+https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das
+https://www.zwaenge.at/
+https://psychische-hilfe.wien.gv.at/fakten/angststoerung/arten-von-angststoerung/zwangsstoerung/
+
+### INFOTEXT DEUTSCH ENDE ###
+
+### INFOTEXT ENGLISCH ANFANG ###
+##SHORT DESCRIPTION##
+
+Prevalence:
+##TEXT##
+
+Causes:
+##TEXT##
+
+Symptoms:
+##TEXT##
+
+Course:
+##TEXT##
+
+Treatment:
+##TEXT##
+
+Additional information:
+https://www.gesundheitsinformation.de/behandlung-von-zwangsstoerungen.html
+https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/zwangserkrankungen
+https://www.apotheken-umschau.de/krankheiten-symptome/psychische-krankheiten/zwangsstoerungen-zwangserkrankungen-737877.html
+https://www.gesundheit.gv.at/krankheiten/psyche/neurose/zwang-was-ist-das
+https://www.zwaenge.at/
+https://psychische-hilfe.wien.gv.at/fakten/angststoerung/arten-von-angststoerung/zwangsstoerung/
+
+### INFOTEXT ENGLISCH ENDE ###
+
+DSM-V Diagnostik
+
+Technische Anmerkung: Die Diagnosekriterien sind in die zwei Teilbereiche „Obsessions“ und „Compulsions“ unterteilt. Jeder Teilbereich enthält einige symptomatische Fragen und eine Abschlussfrage. Damit ein Teilbereich positiv ist, muss mindestens eine symptomatische Frage aus ihm UND die Abschlussfrage positiv sein. Die Zwangsstörung wird diagnostiziert, wenn mindestens ein Teilbereich positiv ist und Frage 6 und/oder Frage 7 (beide geprüftes Symptom B) bejaht werden.
+
+Einleitungssatz am Anfang des Fragebogens, deutsch: Bitte geben Sie an, welche der folgenden Fragen auf Sie zutrifft:
+Einleitungssatz am Anfang des Fragebogens, english: Please indicate which of the following questions applies to you:
+
+ID	0
+Interner Name	Obsessions_1
+Geprüftes Symptom	A.Obsessions.1
+Symptomname, Deutsch	Zwangsgedanken, sich wiederholende und wiederkehrende Gedanken
+Symptomname, Englisch	Obsessions, recurring and persistent thoughts
+Fragentext, Deutsch	Haben Sie oft Gedanken, die immer wieder kehren und bei denen Sie einen inneren Zwang spüren, Sie immer wieder und wieder zu wiederholen (z.B. bestimmte Erinnerungen, Befürchtungen, generell bestimmte Gedanken, Zwangsgrübeln, zwanghaftes zählen)?
+Fragentext, Englisch	Do you often have thoughts which are recurring and for which you feel an inner compulsion to repeat them over and over again (e.g., certain memories, fears, certain thoughts in general, obsessive ruminations, obsessive counting)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Teilbereich „Obsessions“, Symptomfrage
+
+ID	1
+Interner Name	Obsessions_2
+Geprüftes Symptom	A.Obsessions.1
+Symptomname, Deutsch	Zwangsgedanken, sich wiederholende und wiederkehrende Impulse
+Symptomname, Englisch	Obsessions, recurring and persistent urges
+Fragentext, Deutsch	Haben Sie oft Impulse zu Handlungen, die Sie eigentlich gar nicht ausführen wollen, die sich Ihnen aber immer wieder aufdrängen (z.B. den Impuls, jemanden zu verletzen, sich sexuell unangebracht zu verhalten, etwas zu beschädigen oder zu zerstören, etc.)?
+Fragentext, Englisch	Do you often have urges to act in ways you don’t want to, but which are recurring and persistent (e.g., the impulse to hurt someone, to behave in a sexually inappropriate way, to damage or destroy something, etc.)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Teilbereich „Obsessions“, Symptomfrage
+
+ID	2
+Interner Name	Obsessions_3
+Geprüftes Symptom	A.Obsessions.1
+Symptomname, Deutsch	Zwangsgedanken, sich wiederholende und wiederkehrende Vorstellungen
+Symptomname, Englisch	Obsessions, recurring and persistent images
+Fragentext, Deutsch	Sehen Sie vor ihrem geistigen Auge immer wieder wiederkehrende Bilder oder Vorstellungen von Dingen, die Ihnen nie geschehen sind, die aber belastend sind und sich nicht kontrollieren lassen (z.B. wiederkehrende Bilder und Vorstellungen von Gewalt, Tod, Schmutz, Ordnung, religiöse oder magische Vorstellungen, sexuelle Bilder)?
+Fragentext, Englisch	Do you see recurring images in your mind of things and events which never happened to you, but are disturbing and uncontrollable (e.g., recurring images of violence, death, dirtiness, ordered arrangements, religious or magical imagery, sexual imagery)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Teilbereich „Obsessions“, Symptomfrage
+
+ID	3
+Interner Name	Obsessions_final
+Geprüftes Symptom	A.Obsessions.2
+Symptomname, Deutsch	Zwangsgedanken, Dagegen ankämpfen
+Symptomname, Englisch	Obsessions, fighting against them
+Fragentext, Deutsch	Wenn Sie eine der vorigen Fragen bejaht haben: Versuchen Sie, diese Gedanken/Impulse/Bilder zu unterdrücken, zu ignorieren oder sie mit anderen Gedanken oder Handlungen zu neutralisieren?
+Fragentext, Englisch	If you choose „yes“ for one of the previous questions: Do you try to suppress or ignore those thoughts/urges/images, or do you try to neutralize them with some other thought or action?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Teilbereich „Obsessions“, Abschlussfrage
+
+ID	4
+Interner Name	Compulsions_1
+Geprüftes Symptom	A.Compulsions.1
+Symptomname, Deutsch	Zwangshandlungen
+Symptomname, Englisch	Compulsions
+Fragentext, Deutsch	Gibt es bestimmte Handlungen oder Rituale, die Sie immer wieder ausführen, als ob Sie unter einem Zwang stünden, obwohl Ihnen die Sinnlosigkeit der Handlung bewusst ist (z.B. Zwang, sich ständig zu waschen; Zwang, ständig Gegenstände zu sortieren; Zwang, ständig den Herd oder das Türschloss zu kontrollieren)?
+Fragentext, Englisch	Are there certain actions or rituals you perform again and again, as if something coerces you to do so, even though you know that doing so makes no sense (e.g., compulsion to permanently wash yourself; compulsion to permanently sort objects; compulsion to permanently check the stove or the door lock)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Teilbereich „Compulsions“, Symptomfrage
+
+ID	5
+Interner Name	Compulsions_1
+Geprüftes Symptom	A.Compulsions.1
+Symptomname, Deutsch	Zwangshandlungen, Abwehr von Angst
+Symptomname, Englisch	Compulsions, reduction of fear
+Fragentext, Deutsch	Dienen diese Handlungen oder Rituale dazu, Angst oder Stress zu reduzieren oder eine gefürchtete Situation abzuwenden?
+Fragentext, Englisch	Are these actions or rituals aimed at reducing anxiety or distress or preventing some dreaded event?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Teilbereich „Compulsion“, Abschlussfrage
+
+ID	6
+Interner Name	Time_consuming
+Geprüftes Symptom	B
+Symptomname, Deutsch	Zwangsgedanken und/oder Zwangshandlungen sind zeitraubend
+Symptomname, Englisch	Obsessions and/or compulsions are time-consuming
+Fragentext, Deutsch	Sind diese Gedanken und/oder Handlungen sehr zeitintensiv?
+Fragentext, Englisch	Are those thoughts and/or actions very time-consuming?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Symptom B
+
+ID	7
+Interner Name	Time_consuming
+Geprüftes Symptom	B
+Symptomname, Deutsch	Zwangsgedanken und/oder Zwangshandlungen verursachen Einschränkungen
+Symptomname, Englisch	Obsessions and/or compulsions cause impairment
+Fragentext, Deutsch	Verursachen diese Gedanken und/oder Handlungen deutliches Leid oder Einschränkungen in sozialen, beruflichen oder anderen wichtigen Bereichen?
+Fragentext, Englisch	Do those thoughts and/or actions cause significant distress or impairment in social, occupational or other important areas?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Symptom B
+
+Technische Anmerkung: Keine
+##END OF FILE##

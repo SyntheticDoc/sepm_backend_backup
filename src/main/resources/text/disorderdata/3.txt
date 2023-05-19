@@ -1,0 +1,318 @@
+Attention-Deficit/Hyperactivity Disorder
+Diagnosetitel, deutsch: Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung
+Diagnosetitel, englisch: Attention-Deficit/Hyperactivity Disorder
+
+### INFOTEXT DEUTSCH ANFANG ###
+Die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) zeichnet sich durch ein dauerhaftes Muster von Unaufmerksamkeit und/oder Hyperaktivität/Impulsivität aus, welches das alltägliche Funktionieren und die seelische Entwicklung beeinträchtigt. Die entsprechenden Eigenschaften müssen hierbei in einem weit über der Norm liegenden Ausmaß beobachtbar sein und verursachen meistens einen hohen Leidensdruck für die Betroffenen.
+
+Häufigkeit:
+Übersichtsstudien in der Bevölkerung schätzen, dass ADHS in den meisten Kulturen in ca. 5% aller Kinder und in etwa 2,5% aller Erwachsenen auftritt.
+
+Ursachen:
+Die Entstehungsursachen der Störung sind sehr komplex und umfassen heute sowohl neurobiologische als auch genetische und soziale Ursachen. Das Hauptaugenmerk liegt mittlerweile aber eher auf neurobiologischen Erklärungsmodellen als auf pädagogischen oder sozialen.
+
+Symptome:
+Die Unaufmerksamkeit manifestiert sich durch das plötzliche Abbrechen von Aufgaben, einen Mangel an Beharrlichkeit, Schwierigkeiten mit dem Aufrechterhalten einer Fokussiertheit auf Aufgaben und einer Desorganisation. Die Unaufmerksamkeit resultiert hierbei nicht auf Ablehnung oder mangelndem Verständnis.
+Hyperaktivität drückt sich vor allem durch exzessive körperliche Aktivität aus (beispielsweise ein Kind, das unablässig herumrennt), die nicht an die Situation angepasst ist. Ausuferndes Herumzappeln, ungeduldiges mit den Fingern auf einem Tisch klopfen oder exzessive Gesprächigkeit. Bei Erwachsenen manifestiert sich die Hyperaktivität meist als ein Gefühl außerordentlicher Ruhelosigkeit oder Überbelastung anderer durch extrem hohe Aktivität.
+Impulsivität bezieht sich auf unüberlegte, spontane Handlungen, die in der Hitze des Moments ohne größeres Nachdenken entstehen und die eine beträchtliche Gefahr für das betreffende Individuum darstellen können (wie beispielsweise spontan und ohne zu schauen auf die Straße laufen). Impulsive Verhaltensweisen können sich auch durch die Überschreitung sozialer Grenzen (z.B. häufiges Unterbrechen anderer) oder das Fällen wichtiger Entscheidungen ohne Beachtung von Langzeit-Konsequenzen bemerkbar machen.
+
+Verlauf:
+Die Störung beginnt meistens mit auffällig erhöhter körperlicher Aktivität im Kindheitsalter, zu der vor allem in der Schule bald Aufmerksamkeitsprobleme hinzutreten. Im weiteren Verlauf wird die extreme körperliche Aktivität oft internalisiert und stellt sich als innere Rastlosigkeit und Ruhelosigkeit dar. Die meisten unbehandelten Kinder bleiben bis ins Erwachsenenalter deutlich durch die Störung beeinträchtigt. In einigen Fällen kann die Störung in der Kindheit auch in eine antisoziale Persönlichkeitsstörung münden.
+
+Behandlung:
+Die Behandlung der ADHS erfolgt multimodal und umfasst meistens eine Mischung aus Psychotherapie, medikamentöser Therapie und psychosozialer Interventionen. Besonders die medikamentöse Therapie ist bei mittleren und schwereren Fällen eine sehr wichtige Säule der Therapie, welche die Effektivität von Psychotherapie maßgeblich erhöhen kann.
+
+Weiterführende Informationen:
+https://www.adhs.info/fuer-eltern-und-angehoerige/adhs-was-ist-das/
+https://www.patienten-information.de/kurzinformationen/adhs
+https://www.gesundheitsinformation.de/adhs-bei-erwachsenen.html
+https://www.gesundheit.gv.at/krankheiten/psyche/adhs/inhalt
+https://www.sozialministerium.at/dam/jcr:6b26467d-34bc-438f-86be-04be6fd811cb/adhs-bericht.pdf
+
+### INFOTEXT DEUTSCH ENDE ###
+
+### INFOTEXT ENGLISCH ANFANG ###
+##SHORT DESCRIPTION##
+
+Prevalence:
+##TEXT##
+
+Causes:
+##TEXT##
+
+Symptoms:
+##TEXT##
+
+Course:
+##TEXT##
+
+Treatment:
+##TEXT##
+
+Additional information:
+https://www.adhs.info/fuer-eltern-und-angehoerige/adhs-was-ist-das/
+https://www.patienten-information.de/kurzinformationen/adhs
+https://www.gesundheitsinformation.de/adhs-bei-erwachsenen.html
+https://www.gesundheit.gv.at/krankheiten/psyche/adhs/inhalt
+https://www.sozialministerium.at/dam/jcr:6b26467d-34bc-438f-86be-04be6fd811cb/adhs-bericht.pdf
+
+### INFOTEXT ENGLISCH ENDE ###
+
+DSM-V Diagnostik
+
+Technische Anmerkung: Die Störung wird auf die beiden Teilbereiche „Inattention“ und „Hyperactivity and Impulsivity“ aufgeteilt, die getrennt voneinander untersucht werden. Die Diagnose kann gestellt werden, wenn einer der beiden Teilbereiche positiv ist und einige zusätzliche Kriterien erfüllt sind (wie Vorhandensein von Symptomen bereits in der Kindheit)
+ADHS vom Unaufmerksamkeits-Typ wird diagnostiziert, wenn in diesem Teil des Fragebogens mindestens 5 Symptome positiv sind.
+Für ADHS vom Hyperaktivitäts-/Impulsivitätstyp gilt dasselbe.
+
+Technische Anmerkung: Hier beginnt der Fragebogen für den Unaufmerksamkeits-Typ.
+Einleitungssatz am Anfang des Fragebogens, deutsch: Bitte wählen Sie aus, ob die folgenden Symptome seit mindestens 6 Monaten vorhanden sind und soziale oder berufliche/schulische Aktivitäten direkt negativ beeinträchtigen. Wählen Sie nur solche Symptome aus, die sich nicht ausschließlich direkt auf Ablehnung, feindseliges Verhalten oder mangelndes Verständnis von Aufgabenstellungen begründen:
+Einleitungssatz am Anfang des Fragebogens, english: Please choose all symptoms which have persisted for at least 6 months to a degree that negatively impacts directly on social or occupational/academic activities. Please choose only symptoms which are not solely a manifestation of oppositional behavior, defiance, hostility or failure to understand tasks or instructions:
+
+ID	0
+Interner Name	Carelessness
+Geprüftes Symptom	Inattention a.
+Symptomname, Deutsch	Achtlosigkeit und Ungenauigkeit
+Symptomname, Englisch	Carelessness and inaccuracy
+Fragentext, Deutsch	Machen Sie oft unnötige Fehler in Schulaufgaben, Aufgaben während der Arbeit oder anderen Aufgaben des Alltags, oder übersehen Sie oft Details (z.B. ungenaues Arbeiten, Übersehen von wichtigen Details der Aufgabe)
+Fragentext, Englisch	Do you often make careless mistakes in schoolwork, at work or during other activities, or do you fail to give close attention to details (e.g., overlooks or misses details, work is inaccurate)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu UNAUFMERKSAMKEITS-TYP
+
+ID	1
+Interner Name	Difficulty_sustaining_attention
+Geprüftes Symptom	Inattention b.
+Symptomname, Deutsch	Schwierigkeiten mit der Aufrechterhaltung der Aufmerksamkeit
+Symptomname, Englisch	Difficulties sustaining attention
+Fragentext, Deutsch	Fällt es Ihnen oft schwer, die Aufmerksamkeit während Tätigkeiten aufrechtzuerhalten (beispielsweise Schwierigkeiten, die Konzentration während eines Vortrags, während Gesprächen oder längerem Lesen aufrechtzuerhalten)?
+Fragentext, Englisch	Do you often have difficulties sustaining attention in tasks or activities (e.g., has difficulty remaining focused during lectures, conversations or lengthy reading)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu UNAUFMERKSAMKEITS-TYP
+
+ID	2
+Interner Name	Absence_of_mind
+Geprüftes Symptom	Inattention c.
+Symptomname, Deutsch	Geistige Abwesenheit
+Symptomname, Englisch	Absence of mind
+Fragentext, Deutsch	Wirkt es oft so, als ob Sie nicht zuhören, auch wenn sie direkt angesprochen werden (beispielsweise so als ob sie geistig abwesend wären, obwohl es keine offensichtlichen Ablenkungen gibt)
+Fragentext, Englisch	Do you often seem to not be listening, even if spoken to directly (e.g., mind seems elsewhere, even in the absence of any obvious distraction)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu UNAUFMERKSAMKEITS-TYP
+
+ID	3
+Interner Name	Losing_focus
+Geprüftes Symptom	Inattention d.
+Symptomname, Deutsch	Mangelnder Fokus
+Symptomname, Englisch	Lack of focus
+Fragentext, Deutsch	Haben Sie oft Schwierigkeiten, Anweisungen zu Ende auszuführen und schaffen Sie es oft nicht, Schulaufgaben, Haushaltstätigkeiten oder Aufgaben bei der Arbeit zu beenden (beispielsweise indem Sie Aufgaben anfangen, aber schnell den Fokus verlieren und sich sehr leicht ablenken lassen)?
+Fragentext, Englisch	Do you often fail to follow through on instructions and fail to finish schoolwork, chores or duties in the workplace (e.g., starting tasks but quickly losing focus and being easily sidetracked)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu UNAUFMERKSAMKEITS-TYP
+
+ID	4
+Interner Name	Poor_organisation
+Geprüftes Symptom	Inattention e.
+Symptomname, Deutsch	Mangelnde Organisation
+Symptomname, Englisch	Poor organization
+Fragentext, Deutsch	Haben Sie oft Schwierigkeiten, Aufgaben und Tätigkeiten zu organisieren und zu verwalten (beispielsweise Schwierigkeiten im Bewältigen aufeinander folgender Aufgaben; Schwierigkeiten, Materialien und Besitztümer in Ordnung zu halten; die Verrichtung von Tätigkeiten auf chaotische und desorganisierte Weise; schlechtes Zeitmanagement; Verpassen von Deadlines)?
+Fragentext, Englisch	Do you often have difficulties organizing tasks and activities (e.g., difficulty managing sequential tasks; difficulty keeping materials and belongings in order; doing messy and disorganized work; having poor time management; failing to meet deadlines)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu UNAUFMERKSAMKEITS-TYP
+
+ID	5
+Interner Name	Dislike_mental_effort
+Geprüftes Symptom	Inattention f.
+Symptomname, Deutsch	Ablehnung geistiger Anstrengung
+Symptomname, Englisch	Dislike of mental effort
+Fragentext, Deutsch	Haben Sie eine deutliche Abneigung gegenüber Aufgaben, die eine längere geistige Anstrengung benötigen oder vermeiden Sie solche Aufgeben wenn möglich (beispielsweise Schul-/Hausaufgaben; das Verfassen von Berichten, das Ausfüllen von Formularen, das Lesen längerer Schriftstücke)?
+Fragentext, Englisch	Do you often avoid or dislike tasks that require sustained mental effort, or are you reluctant to engage in such tasks (e.g., schoolwork or homework; preparing reports, completing forms, reviewing lengthy papers)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu UNAUFMERKSAMKEITS-TYP
+
+ID	6
+Interner Name	Losing_stuff
+Geprüftes Symptom	Inattention g.
+Symptomname, Deutsch	Verlieren von Gegenständen
+Symptomname, Englisch	Losing of things
+Fragentext, Deutsch	Verlieren Sie oft Gegenstände, die für bestimmte Aufgaben und Tätigkeiten wichtig sind (beispielsweise Schulmaterialien, Stifte, Bücher, Werkzeug, Brieftaschen, Schlüssel, Schriftstücke, Brillen, Mobiltelefone)?
+Fragentext, Englisch	Do you often lose things necessary for tasks or activities (e.g, school materials, pencils, books, tools, wallets, keys, paperwork, eyeglasses, mobile telephones)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu UNAUFMERKSAMKEITS-TYP
+
+ID	7
+Interner Name	Easily_distracted
+Geprüftes Symptom	Inattention h.
+Symptomname, Deutsch	Leichte Ablenkbarkeit
+Symptomname, Englisch	Easy distractibility
+Fragentext, Deutsch	Sind Sie durch äußere Umstände leicht von dem ablenkbar, was Sie gerade tun?
+Fragentext, Englisch	Are you easily distracted by external Stimuli from what you are doing at the moment?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu UNAUFMERKSAMKEITS-TYP
+
+ID	8
+Interner Name	Forgetfulness
+Geprüftes Symptom	Inattention i.
+Symptomname, Deutsch	Vergesslichkeit
+Symptomname, Englisch	Forgetfulness
+Fragentext, Deutsch	Sind Sie bei Alltagstätigkeiten oft vergesslich (beispielsweise bei Hausarbeit, Tätigkeiten für andere, Zurückrufen von Anrufern, Bezahlen von Rechnungen, Einhaltung von Verabredungen)?
+Fragentext, Englisch	Are you often forgetful in daily activities (e.g., doing chores, running errands, returning calls, paying bills, keeping appointments)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu UNAUFMERKSAMKEITS-TYP
+
+ID	9
+Interner Name	Childhood_symptoms_inattention
+Geprüftes Symptom	Criterion Inattention-B
+Symptomname, Deutsch	Symptome bereits in Kindheit vorhanden
+Symptomname, Englisch	Symptoms already noticeable in childhood
+Fragentext, Deutsch	Waren von allen Symptomen, die sie vorhin bejaht haben, einige auch schon im Alter von unter 12 Jahren bemerkbar?
+Fragentext, Englisch	For all symptoms which you choose “yes” for before, have some of them already been present prior to age 12 years?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	AM ENDE BEIDER FRAGENBLÖCKE JEWEILS EINMAL STELLEN UND ERGEBNIS FÜR JEDEN FRAGENBLOCK EINZELN VERMERKEN!
+
+ID	10
+Interner Name	Symptoms_in_more_than_one_setting_inattention
+Geprüftes Symptom	Criterion Inattention-C
+Symptomname, Deutsch	Symptome in mehr als einem Setting vorhanden
+Symptomname, Englisch	Symptoms present in more than one setting
+Fragentext, Deutsch	Machen sich von allen Symptomen, die sie vorhin bejaht haben, einige in mehr als einem Setting (z.B. Zuhause, in der Schule, auf der Arbeit, bei Freunden oder Verwandten, in anderen Aktivitäten) bemerkbar?
+Fragentext, Englisch	From all symptoms you choose “yes” for before, do some of them interfere with more than one setting (e.g., at home, school, work, with friends or relatives, in other activities
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	AM ENDE BEIDER FRAGENBLÖCKE JEWEILS EINMAL STELLEN UND ERGEBNIS FÜR JEDEN FRAGENBLOCK EINZELN VERMERKEN!
+
+ID	11
+Interner Name	Symptoms_interfere_with_life_inattention
+Geprüftes Symptom	Criterion Inattention-D
+Symptomname, Deutsch	Symptome reduzieren Lebensqualität
+Symptomname, Englisch	Symptoms reduce quality of life
+Fragentext, Deutsch	Reduzieren die von Ihnen gewählten Symptome Ihre Funktionsfähigkeit auf in sozialen, akademischen oder beruflichen Kontexten?
+Fragentext, Englisch	Do the symptoms you have chosen reduce your social, academic or occupational functioning?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	AM ENDE BEIDER FRAGENBLÖCKE JEWEILS EINMAL STELLEN UND ERGEBNIS FÜR JEDEN FRAGENBLOCK EINZELN VERMERKEN!
+
+Technische Anmerkung: Hier beginnt der Fragebogen für den Hyperaktivitäts-/Impulsivitäts-Typ.
+
+ID	12
+Interner Name	Psychomotor_unrest
+Geprüftes Symptom	Hyperactivity a.
+Symptomname, Deutsch	Psychomotorische Unruhe
+Symptomname, Englisch	Psychomotor unrest
+Fragentext, Deutsch	Spielen/Zappeln Sie oft mit den Händen oder Füßen oder rutschen auf Ihrem Sitzplatz herum?
+Fragentext, Englisch	Do you often fidget with or tap hands or feets or squirm in your seat?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu HYPERAKTIVITÄTS-/IMPULSIVITÄTS-TYP
+
+ID	13
+Interner Name	Leaving_seat
+Geprüftes Symptom	Hyperactivity b.
+Symptomname, Deutsch	Plötzliches Verlassen des Sitzplatzes
+Symptomname, Englisch	Sudden leaving of seat
+Fragentext, Deutsch	Verlassen Sie oft Ihren Sitzplatz in Situationen, in denen ein Sitzenbleiben erwartet wird (beispielsweise Verlassen Ihres Platzes im Klassenzimmer, im Büro, in anderen Situationen, in denen es nötig ist, auf seinem Platz zu bleiben)?
+Fragentext, Englisch	Do you often leave your seat in situations when remaining seated is expected (e.g., leaving your place in the classroom, in the office, or other situations that require remaining in place)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu HYPERAKTIVITÄTS-/IMPULSIVITÄTS-TYP
+
+ID	14
+Interner Name	Restlessness
+Geprüftes Symptom	Hyperactivity c.
+Symptomname, Deutsch	Rastlosigkeit
+Symptomname, Englisch	Restlessness
+Fragentext, Deutsch	Fühlen Sie sich oft rastlos oder ruhelos?
+Fragentext, Englisch	Do you often feel restless?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu HYPERAKTIVITÄTS-/IMPULSIVITÄTS-TYP
+
+ID	15
+Interner Name	Unable_to_be_quiet
+Geprüftes Symptom	Hyperactivity d.
+Symptomname, Deutsch	Unvermögen, leise an Aktivitäten teilzunehmen
+Symptomname, Englisch	Inability to engage in activities quietly
+Fragentext, Deutsch	Fällt es Ihnen oft schwer, an Freizeitaktivitäten leise oder ruhig teilzunehmen?
+Fragentext, Englisch	Are you often unable to play or engage in leisure activities quietly?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu HYPERAKTIVITÄTS-/IMPULSIVITÄTS-TYP
+
+ID	16
+Interner Name	Increased_drive
+Geprüftes Symptom	Hyperactivity e.
+Symptomname, Deutsch	Erhöhter Antrieb
+Symptomname, Englisch	Increased drive
+Fragentext, Deutsch	Fühlen Sie sich oft „auf dem Sprung“, als ob Sie „von einem inneren Motor getrieben“ wären (beispielsweise es nicht schaffen oder sich dabei unwohl fühlen für längere Zeit ruhig zu sitzen, wie in einem Restaurant oder in Meetings)?
+Fragentext, Englisch	Do you feel often “on the go”, acting as if “driven by a motor” (e.g., being unable to be or uncomfortable being still for extended time, as in restaurants or meetings)
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu HYPERAKTIVITÄTS-/IMPULSIVITÄTS-TYP
+
+ID	17
+Interner Name	Talkativeness
+Geprüftes Symptom	Hyperactivity f.
+Symptomname, Deutsch	Exzessives reden
+Symptomname, Englisch	Excessive talking
+Fragentext, Deutsch	Reden Sie oft exzessiv viel?
+Fragentext, Englisch	Do you often talk excessively?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu HYPERAKTIVITÄTS-/IMPULSIVITÄTS-TYP
+
+ID	18
+Interner Name	Inadequate_conversation_turns
+Geprüftes Symptom	Hyperactivity g.
+Symptomname, Deutsch	Ungeduld in Gesprächen
+Symptomname, Englisch	Impatience in conversations
+Fragentext, Deutsch	Platzen Sie oft mit Antworten heraus, bevor eine Frage zu Ende gestellt wurde (beispielsweise in dem Sie die Sätze anderer beenden; Unfähigkeit, in Gesprächen zu warten, bis Sie an der Reihe sind)? 
+Fragentext, Englisch	Do you often blurt out an answer before a question has been completed (e.g., completing people’s sentences; unable to wait for your turn in conversations)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu HYPERAKTIVITÄTS-/IMPULSIVITÄTS-TYP
+
+ID	19
+Interner Name	Impatience_while_waiting
+Geprüftes Symptom	Hyperactivity h.
+Symptomname, Deutsch	Ungeduld beim warten
+Symptomname, Englisch	Impatience while waiting
+Fragentext, Deutsch	Haben Sie oft Schwierigkeiten damit zu warten, bis Sie an der Reihe sind (beispielsweise beim Schlange stehen)?
+Fragentext, Englisch	Do you often have difficulties waiting for your turn (e.g., while waiting in line)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu HYPERAKTIVITÄTS-/IMPULSIVITÄTS-TYP
+
+ID	20
+Interner Name	Interrupting_others
+Geprüftes Symptom	Hyperactivity i.
+Symptomname, Deutsch	Unterbrechen anderer
+Symptomname, Englisch	Interrupting others
+Fragentext, Deutsch	Unterbrechen Sie oft andere oder drängen sich Ihnen auf (beispielsweise indem Sie sich in Konversationen, Spiele oder Aktivitäten hineindrängen; indem Sie Gegenstände anderer verwenden ohne um Erlaubnis zu fragen; indem Sie anderen aus der Hand nehmen oder übernehmen, was sie gerade tun)?
+Fragentext, Englisch	Do you often interrupt or intrude on others (e.g., butting into conversations, games or activities; using other people’s things without asking or receiving permission; intruding into or taking over what others are doing)?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	Gehört zu HYPERAKTIVITÄTS-/IMPULSIVITÄTS-TYP
+
+Technische Anmerkung: Die folgenden Fragen werden nach Abschluss SOWOHL des Unaufmerksamkeits- als auch des Hyperaktivitäts-Blocks JEWEILS einmal angezeigt:
+
+ID	21
+Interner Name	Childhood_symptoms_hyperactivity
+Geprüftes Symptom	Criterion Hyperactivity-B
+Symptomname, Deutsch	Symptome bereits in Kindheit vorhanden
+Symptomname, Englisch	Symptoms already noticeable in childhood
+Fragentext, Deutsch	Waren von allen Symptomen, die sie vorhin bejaht haben, einige auch schon im Alter von unter 12 Jahren bemerkbar?
+Fragentext, Englisch	For all symptoms which you choose “yes” for before, have some of them already been present prior to age 12 years?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	AM ENDE BEIDER FRAGENBLÖCKE JEWEILS EINMAL STELLEN UND ERGEBNIS FÜR JEDEN FRAGENBLOCK EINZELN VERMERKEN!
+
+ID	22
+Interner Name	Symptoms_in_more_than_one_setting_hyperactivity
+Geprüftes Symptom	Criterion Hyperactivity-C
+Symptomname, Deutsch	Symptome in mehr als einem Setting vorhanden
+Symptomname, Englisch	Symptoms present in more than one setting
+Fragentext, Deutsch	Machen sich von allen Symptomen, die sie vorhin bejaht haben, einige in mehr als einem Setting (z.B. Zuhause, in der Schule, auf der Arbeit, bei Freunden oder Verwandten, in anderen Aktivitäten) bemerkbar?
+Fragentext, Englisch	From all symptoms you choose “yes” for before, do some of them interfere with more than one setting (e.g., at home, school, work, with friends or relatives, in other activities
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	AM ENDE BEIDER FRAGENBLÖCKE JEWEILS EINMAL STELLEN UND ERGEBNIS FÜR JEDEN FRAGENBLOCK EINZELN VERMERKEN!
+
+ID	23
+Interner Name	Symptoms_interfere_with_life_hyperactivity
+Geprüftes Symptom	Criterion Hyperactivity-D
+Symptomname, Deutsch	Symptome reduzieren Lebensqualität
+Symptomname, Englisch	Symptoms reduce quality of life
+Fragentext, Deutsch	Reduzieren die von Ihnen gewählten Symptome Ihre Funktionsfähigkeit auf in sozialen, akademischen oder beruflichen Kontexten?
+Fragentext, Englisch	Do the symptoms you have chosen reduce your social, academic or occupational functioning?
+Antwortformat	Ja/Nein/Weiß nicht
+Bemerkungen	AM ENDE BEIDER FRAGENBLÖCKE JEWEILS EINMAL STELLEN UND ERGEBNIS FÜR JEDEN FRAGENBLOCK EINZELN VERMERKEN!
+
+Technische Anmerkung: Die Diagnose ADHS darf nicht gestellt werden, wenn eines der folgenden Krankheitsbilder vorliegt:
+-	Schizophrenie
+-	Andere psychotische Erkrankungen
+##END OF FILE##
